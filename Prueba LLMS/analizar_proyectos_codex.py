@@ -7,8 +7,8 @@ import pandas as pd
 
 
 CARPETA = Path(r"C:\Users\sebas\Workspace\Docs Tesis\Pruebas\Prueba LLMS")
-ARCHIVO_PROYECTOS = CARPETA / "15_proyectos.csv"
-ARCHIVO_INDICADORES = CARPETA / "catalogo_indicadores.xlsx"
+ARCHIVO_PROYECTOS = CARPETA / "Datos" / "15_proyectos.csv"
+ARCHIVO_INDICADORES = CARPETA / "Datos" / "catalogo_indicadores.xlsx"
 ARCHIVO_RESULTADOS = CARPETA / "resultados_indicadores_codex.csv"
 CODIGO_ESTADOS = {"EVIDENCIA_CLARA", "EVIDENCIA_PARCIAL", "SIN_EVIDENCIA", "NO_APLICA"}
 

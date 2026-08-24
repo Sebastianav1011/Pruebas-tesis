@@ -8,8 +8,8 @@ Esta prueba analiza una muestra fija de 15 proyectos con Codex CLI. Para cada pr
 
 ## Archivos
 
-- `15_proyectos.csv`: muestra de los 15 proyectos.
-- `catalogo_indicadores.xlsx`: catálogo institucional estructurado; la hoja usada es `Catalogo_Indicadores`.
+- `Datos/15_proyectos.csv`: muestra de los 15 proyectos.
+- `Datos/catalogo_indicadores.xlsx`: catálogo institucional estructurado; la hoja usada es `Catalogo_Indicadores`.
 - `analizar_proyectos_codex.py`: ejecuta una llamada a Codex por proyecto.
 - `resultados_indicadores_codex.csv`: resultado de una ejecución completa.
 
