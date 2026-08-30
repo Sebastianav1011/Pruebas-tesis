@@ -1,0 +1,29 @@
+Total filas: 240
+
+Distribucion de estados:
+estado
+SIN_EVIDENCIA        197
+NO_APLICA             29
+EVIDENCIA_PARCIAL     13
+EVIDENCIA_CLARA        1
+Name: count, dtype: int64
+
+Filas degradadas (evidencia_original no nula): 98
+
+Ejemplos con evidencia real (estado != SIN_EVIDENCIA y evidencia no nula):
+- [DIV-03] EVIDENCIA_PARCIAL | evidencia=Atraentes soluciones para los problemas ambientales; sin embargo, es importante considerar los posibles impactos ambientales y de salud pública que pueden derivarse de su uso.
+
+- [DIV-03] EVIDENCIA_PARCIAL | evidencia=Conclusión: "Study recruitment was completed in March 2022, and follow-up is anticipated to last through November 2022."
+
+- [SOC-04] EVIDENCIA_CLARA | evidencia=Study recruitment was completed in March 2022, and follow-up is anticipated to last through November 2022.
+
+- [POL-02] EVIDENCIA_PARCIAL | evidencia=Study recruitment was completed in March 2022, and follow-up is anticipated to last through November 2022.
+
+- [DIV-03] EVIDENCIA_PARCIAL | evidencia=Recent cases of economic and financial crimes, financial fraud, corruption, and corporate malpractice in the local and international corporate environment have created the need to have professionals t
+
+- [DIV-04] EVIDENCIA_PARCIAL | evidencia=Recent cases of economic and financial crimes, financial fraud, corruption, and corporate malpractice in the local and international corporate environment have created the need to have professionals t
+
+- [DIV-05] EVIDENCIA_PARCIAL | evidencia=Recent cases of economic and financial crimes, financial fraud, corruption, and corporate malpractice in the local and international corporate environment have created the need to have professionals t
+
+- [POL-02] EVIDENCIA_PARCIAL | evidencia=Los recientes casos de delitos económicos y financieros, fraude financiero, corrupción y malas prácticas empresariales en el ámbito empresarial local e internacional, crean la necesidad de contar con 
+

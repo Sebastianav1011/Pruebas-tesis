@@ -1,0 +1,26 @@
+Pregunta: ¿Qué proyectos hablan de salud mental en adolescentes o jóvenes?
+
+Top-10 similitud (modelo multilingue):
+1. idx=5 sim=0.6001  Co-Designing, Developing, and Testing a Mental Health Platform for Young People Using a Pa
+2. idx=2 sim=0.5329  Adapting DIALOG+ in a School Setting-A Tool to Support Well-being and Resilience in Adoles
+3. idx=56 sim=0.5024  Design of a Questionnaire for Psychosocial and Complaint Characterisation in University Ps
+4. idx=48 sim=0.4151  Vivencias del paciente estandarizado en población LGBTI y víctimas de violencia sexual: un
+5. idx=34 sim=0.4141  La bitácora de diseño, artefacto cognitivo de aprendizaje. Externalización de modelos ment
+6. idx=9 sim=0.4003  COMMUNICATION AN IMPORTANT ASPECT MANIFESTED BY CHILDREN WHO EXPERIENCED THE HOSPITALIZATI
+7. idx=33 sim=0.3848  Estilo de vida de los estudiantes universitarios: comprensiones del ciclo vital desde la a
+8. idx=28 sim=0.3803  Una revisión de técnicas básicas de neuroimagen para el diagnóstico de enfermedades neurod
+9. idx=30 sim=0.3648  Apoyo a las tareas de lectura y escritura. Una experiencia interdisciplinar en la clase de
+10. idx=50 sim=0.3437  Metodología para el desarrollo de capacidades tecnológicas y de innovación para la puesta 
+
+idx=2 (DIALOG+) sim=0.5329 rank=2
+
+--- RESPUESTA ---
+Los proyectos que se centran en la salud mental en adolescentes o jóvenes son:
+
+1. **"Co-Designing, Developing, and Testing a Mental Health Platform for Young People Using a Participatory Design Methodology in Colombia: Mixed Methods Study"**  
+   Este proyecto mentiona el desarrollo de un platform para salud mental para jóvenes en Colombia utilizando metodología co-design participatoria.
+
+2. **"Adapting DIALOG+ in a School Setting-A Tool to Support Well-being and Resilience in Adolescents Living in Postconflict Areas During the COVID-19 Pandemic: Protocol for a Cluster Randomized Exploratory Study"**  
+   Este proyecto habla sobre la adaptación de un tool para el bienestar y resiliencia en jóvenes en zonas de conflicto durante la pandemia.
+
+Los otros proyectos no se centran directamente en la salud mental en jóvenes.

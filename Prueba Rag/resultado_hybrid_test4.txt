@@ -1,0 +1,54 @@
+Filtros detectados: {'ambito': 'POLITICA_PUBLICA', 'categoria': None, 'estado': None}
+
+--- RESULTADOS RETRIEVAL (top 15 por similitud) ---
+                                                                                                                                                                                                                                                                                                                                                                                                                                         nombre_producto id_indicador            ambito             estado
+233                                                                                                                          Ecopedagogy and culture of peace: a case study of 'La Casa del Camino' foundation in Bogotá - Colombia [Ecopedagogia e cultura de paz: um estudo de caso da fundação 'La Casa del Camino' em Bogotá – Colômbia] [Ecopedagogía y cultura de paz: un estudio de caso de la Fundación La Casa del Camino en Bogotá - Colombia]       POL-03  POLITICA_PUBLICA      SIN_EVIDENCIA
+239                                                                                                                          Ecopedagogy and culture of peace: a case study of 'La Casa del Camino' foundation in Bogotá - Colombia [Ecopedagogia e cultura de paz: um estudo de caso da fundação 'La Casa del Camino' em Bogotá – Colômbia] [Ecopedagogía y cultura de paz: un estudio de caso de la Fundación La Casa del Camino en Bogotá - Colombia]       POL-09  POLITICA_PUBLICA      SIN_EVIDENCIA
+238                                                                                                                          Ecopedagogy and culture of peace: a case study of 'La Casa del Camino' foundation in Bogotá - Colombia [Ecopedagogia e cultura de paz: um estudo de caso da fundação 'La Casa del Camino' em Bogotá – Colômbia] [Ecopedagogía y cultura de paz: un estudio de caso de la Fundación La Casa del Camino en Bogotá - Colombia]       POL-08  POLITICA_PUBLICA      SIN_EVIDENCIA
+237                                                                                                                          Ecopedagogy and culture of peace: a case study of 'La Casa del Camino' foundation in Bogotá - Colombia [Ecopedagogia e cultura de paz: um estudo de caso da fundação 'La Casa del Camino' em Bogotá – Colômbia] [Ecopedagogía y cultura de paz: un estudio de caso de la Fundación La Casa del Camino en Bogotá - Colombia]       POL-07  POLITICA_PUBLICA      SIN_EVIDENCIA
+235                                                                                                                          Ecopedagogy and culture of peace: a case study of 'La Casa del Camino' foundation in Bogotá - Colombia [Ecopedagogia e cultura de paz: um estudo de caso da fundação 'La Casa del Camino' em Bogotá – Colômbia] [Ecopedagogía y cultura de paz: un estudio de caso de la Fundación La Casa del Camino en Bogotá - Colombia]       POL-05  POLITICA_PUBLICA      SIN_EVIDENCIA
+183  Panorama de los currículos de programas de contaduría pública en Colombia frente a contenidos de auditoría forense y prevención de delitos financieros [An Outlook of Public Accounting Undergraduate Programs in Colombia Regarding Forensic Auditing and Financial Crime Prevention Contents] [Panorama dos currículos de programas de contabilidade pública na Colômbia contra conteúdos de auditoria forense e prevenção de crimes financeiros]       POL-01  POLITICA_PUBLICA      SIN_EVIDENCIA
+232                                                                                                                          Ecopedagogy and culture of peace: a case study of 'La Casa del Camino' foundation in Bogotá - Colombia [Ecopedagogia e cultura de paz: um estudo de caso da fundação 'La Casa del Camino' em Bogotá – Colômbia] [Ecopedagogía y cultura de paz: un estudio de caso de la Fundación La Casa del Camino en Bogotá - Colombia]       POL-02  POLITICA_PUBLICA      SIN_EVIDENCIA
+236                                                                                                                          Ecopedagogy and culture of peace: a case study of 'La Casa del Camino' foundation in Bogotá - Colombia [Ecopedagogia e cultura de paz: um estudo de caso da fundação 'La Casa del Camino' em Bogotá – Colômbia] [Ecopedagogía y cultura de paz: un estudio de caso de la Fundación La Casa del Camino en Bogotá - Colombia]       POL-06  POLITICA_PUBLICA      SIN_EVIDENCIA
+191  Panorama de los currículos de programas de contaduría pública en Colombia frente a contenidos de auditoría forense y prevención de delitos financieros [An Outlook of Public Accounting Undergraduate Programs in Colombia Regarding Forensic Auditing and Financial Crime Prevention Contents] [Panorama dos currículos de programas de contabilidade pública na Colômbia contra conteúdos de auditoria forense e prevenção de crimes financeiros]       POL-09  POLITICA_PUBLICA  EVIDENCIA_PARCIAL
+234                                                                                                                          Ecopedagogy and culture of peace: a case study of 'La Casa del Camino' foundation in Bogotá - Colombia [Ecopedagogia e cultura de paz: um estudo de caso da fundação 'La Casa del Camino' em Bogotá – Colômbia] [Ecopedagogía y cultura de paz: un estudio de caso de la Fundación La Casa del Camino en Bogotá - Colombia]       POL-04  POLITICA_PUBLICA      SIN_EVIDENCIA
+189  Panorama de los currículos de programas de contaduría pública en Colombia frente a contenidos de auditoría forense y prevención de delitos financieros [An Outlook of Public Accounting Undergraduate Programs in Colombia Regarding Forensic Auditing and Financial Crime Prevention Contents] [Panorama dos currículos de programas de contabilidade pública na Colômbia contra conteúdos de auditoria forense e prevenção de crimes financeiros]       POL-07  POLITICA_PUBLICA  EVIDENCIA_PARCIAL
+185  Panorama de los currículos de programas de contaduría pública en Colombia frente a contenidos de auditoría forense y prevención de delitos financieros [An Outlook of Public Accounting Undergraduate Programs in Colombia Regarding Forensic Auditing and Financial Crime Prevention Contents] [Panorama dos currículos de programas de contabilidade pública na Colômbia contra conteúdos de auditoria forense e prevenção de crimes financeiros]       POL-03  POLITICA_PUBLICA  EVIDENCIA_PARCIAL
+188  Panorama de los currículos de programas de contaduría pública en Colombia frente a contenidos de auditoría forense y prevención de delitos financieros [An Outlook of Public Accounting Undergraduate Programs in Colombia Regarding Forensic Auditing and Financial Crime Prevention Contents] [Panorama dos currículos de programas de contabilidade pública na Colômbia contra conteúdos de auditoria forense e prevenção de crimes financeiros]       POL-06  POLITICA_PUBLICA          NO_APLICA
+190  Panorama de los currículos de programas de contaduría pública en Colombia frente a contenidos de auditoría forense y prevención de delitos financieros [An Outlook of Public Accounting Undergraduate Programs in Colombia Regarding Forensic Auditing and Financial Crime Prevention Contents] [Panorama dos currículos de programas de contabilidade pública na Colômbia contra conteúdos de auditoria forense e prevenção de crimes financeiros]       POL-08  POLITICA_PUBLICA  EVIDENCIA_PARCIAL
+44                                                                                                                                                                                                                                                                           The sectoral dimension of Colombian cooperativism through a Social Network Analysis [La dimensión sectorial del cooperativismo colombiano a través de un análisis de redes]       POL-06  POLITICA_PUBLICA      SIN_EVIDENCIA
+
+--- RESPUESTA ---
+Los proyectos que muestran avances relacionados con la políticaública, aunque la evidence no sea completa o contundente, son los siguientes:
+
+1. **Ecopedagía y cultura de paz: un estudio de caso de la Fundación La Casa del Camino en Bogotá - Colombia**  
+   - Facultad: EDUCACIÓN  
+   - Indicador: POL-03, POL-09, POL-08, POL-07, POL-05  
+   - Estado: SIN_EVIDENCIA  
+   - Justificación: Ninguna información concreta se menciona sobre la participación en políticas públicas o programas gubernamentales.
+
+2. **Panorama de los currículos de programas de contaduría pública en Colombia frente a contenidos de auditoría forense y prevención de delitos financieros**  
+   - Facultad: CS.ECONÓMICAS Y ADMINISTRATIV.  
+   - Indicador: POL-01  
+   - Estado: SIN_EVIDENCIA  
+   - Justificación: Se menciona la participación activa de los grupos de interés pero no hay detalles sobre el número de políticas públicas o programas modificados.
+
+3. **Panorama de los currículos de programas de contaduría pública en Colombia frente a contenidos de auditoría forense y prevención de delitos financieros**  
+   - Facultad: CS.ECONÓMICAS Y ADMINISTRATIV.  
+   - Indicador: POL-02  
+   - Estado: SIN_EVIDENCIA  
+   - Justificación: Se menciona la falta de documentos oficiales que citan resultados del proyecto.
+
+4. **Panorama de los currículos de programas de contaduría pública en Colombia frente a contenidos de auditoría forense y prevención de delitos financieros**  
+   - Facultad: CS.ECONÓMICAS Y ADMINISTRATIV.  
+   - Indicador: POL-06  
+   - Estado: NO_APLICA  
+   - Justificación: Se menciona la colaboración con entidades públicas pero no hay detalles concretos.
+
+5. **La dimensión sectorial del cooperativismo colombiano a través de un análisis de redes**  
+   - Facultad: ESTUDIOS AMBIENTALES Y RURALES  
+   - Indicador: POL-06  
+   - Estado: SIN_EVIDENCIA  
+   - Justificación: Se menciona la colaboración con entidades públicas pero no hay detalles concretos.
+
+Estos proyectos muestran avances relacionados con la políticaública, aunque la evidence no sea completa o contundente.
