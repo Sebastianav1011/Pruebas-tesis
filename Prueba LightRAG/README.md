@@ -11,10 +11,10 @@ para decidir qué arquitectura conviene para el sistema final.
 ## Resumen 
 - **Es posible** hacer que LightRAG con un modelo local pequeño identifique varios
   indicadores por proyecto, con evidencia real en muchos casos.
-- **Pero la confiabilidad es limitada:** aproximadamente la mitad de las relaciones
+- **Pero la confiabilidad es limitada,** puesto que aproximadamente la mitad de las relaciones
   proyecto-indicador encontradas no son evidencia real, sino la definición del
   indicador repetida, traducida o confundida con otra.
-- Se requirieron **9 cambios de diseño** distintos para llegar a un resultado
+- Se requirieron **cambios de diseño** distintos para llegar a un resultado
   utilizable, partiendo de una configuración inicial que ni siquiera lograba
   completar el procesamiento por límites de la API usada al comienzo.
 
@@ -51,8 +51,7 @@ Con Groq, el límite diario de tokens hacía imposible completar ni siquiera 40 
 | 5 | Con resúmenes largos, el título quedaba separado de las palabras clave en distintos fragmentos | Se reordenó el texto del proyecto: palabras clave antes del resumen, no después |
 | 6 | Proyectos sin `eid` (no indexados en Scopus) rompían la inserción | Se creó un ID sintético consistente (`project-row-N`) usado tanto en el grafo como en los resultados |
 | 7 | La evidencia devuelta era la definición del indicador, no el contenido real del proyecto | Se inyectó el texto del proyecto explícitamente en el prompt, sin depender de que la recuperación automática lo trajera |
-| 8 | `LLM_TIMEOUT` no tomaba efecto | Se descubrió que se estaba fijando *después* de importar la librería `lightrag` → se movió antes de los imports |
-| 9 | Solo se detectaba 1 indicador por proyecto (de 15 posibles) | Con 15 indicadores en una sola consulta, la salida del modelo (limitada a 500 tokens) apenas alcanzaba para uno → se evaluaron los indicadores **en lotes de 4** en vez de todos a la vez |
+| 8 | Solo se detectaba 1 indicador por proyecto (de 15 posibles) | Con 15 indicadores en una sola consulta, la salida del modelo (limitada a 500 tokens) apenas alcanzaba para uno → se evaluaron los indicadores **en lotes de 4** en vez de todos a la vez |
 
 ## Configuración final
 
@@ -78,7 +77,7 @@ Con Groq, el límite diario de tokens hacía imposible completar ni siquiera 40 
 ## Hallazgo principal
 
 **Los lotes pequeños mejoraron el recall (más indicadores detectados por proyecto),
-pero no resolvieron la confiabilidad de la evidencia — y revelaron patrones de falla
+pero no resolvieron la confiabilidad de la evidencia y revelaron patrones de falla
 más sutiles que el sistema de control de calidad original no detecta:**
 
 1. **"Aprobación en bloque":** en varios lotes, el modelo marcó **los 4 indicadores del
@@ -97,9 +96,9 @@ más sutiles que el sistema de control de calidad original no detecta:**
    (título + palabras clave + resumen) copiado sin selección.
 
 **Conclusión:** el detector heurístico de parafraseo (`difflib`) es un buen primer
-filtro, pero tiene puntos ciegos reales (no detecta traducciones ni contaminación
-cruzada entre indicadores). Un detector más robusto necesitaría comparar la evidencia
-contra **todas** las definiciones del catálogo, no solo contra la del indicador
+filtro, pero tiene puntos ciegos reales. No detecta traducciones ni contaminación
+cruzada entre indicadores. Un detector más robusto necesitaría comparar la evidencia
+contra todas las definiciones del catálogo, no solo contra la del indicador
 asignado, y posiblemente usar una medida de similitud que tolere cambios de idioma.
 
 ## Resultados favorables
@@ -113,11 +112,11 @@ consistente entre proyectos ni entre lotes.
 
 ## Limitaciones y pendientes
 
-- **No se ha probado con los 48 indicadores y 60 proyectos completos** — el
+- **No se ha probado con los 48 indicadores y 60 proyectos completos.** El
   comportamiento con lotes múltiples a mayor escala es desconocido.
 - **El detector de parafraseo necesita mejorarse** (ver Hallazgo principal, puntos 2 y 3).
-- **Sin datos de tiempo por proyecto:** falta documentar tiempos reales, necesarios
-  para el eje de "costo computacional" frente a RAG y GraphRAG.
+- **Sin datos de tiempo por proyecto:** Falta documentar tiempos reales, necesarios
+  para el eje de costo computacional frente a RAG y GraphRAG.
 - **No se ha determinado** si el patrón de "aprobación en bloque" depende del tamaño
   del lote (`INDICATOR_BATCH_SIZE = 4`) — podría probarse con lotes de 2 o 3 para ver
   si mejora la discriminación.
