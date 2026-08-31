@@ -9,7 +9,7 @@ Esta es la primera de tres pruebas comparativas (RAG simple, **LightRAG**, Graph
 para decidir qué arquitectura conviene para el sistema final.
 
 ## Resumen 
-- **Sí es posible** hacer que LightRAG con un modelo local pequeño identifique varios
+- **Es posible** hacer que LightRAG con un modelo local pequeño identifique varios
   indicadores por proyecto, con evidencia real en muchos casos.
 - **Pero la confiabilidad es limitada:** aproximadamente la mitad de las relaciones
   proyecto-indicador encontradas no son evidencia real, sino la definición del
