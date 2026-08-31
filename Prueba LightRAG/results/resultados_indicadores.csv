@@ -1,0 +1,471 @@
+﻿project_id,id_indicador,evidence,posible_parafraseo,raw_response
+2-s2.0-85070390287,COL-01,"Project ID: 2-s2.0-85070390287
+Title: The sectoral dimension of Colombian cooperativism through a Social Network Analysis [La dimensión sectorial del cooperativismo colombiano a través de un análisis de redes]
+Keywords: Colombia | Cooperativism | Impact Evaluation | Public Policies | Sectoral Analysis | Social Networks Analysis | System National Accounts
+Abstract: ... On this issue, three indicators bring us the required knowledge: density, the percentage of the links over the possible -total- relationships; cohesion, defined in theory of networks as the effort to relate between nodes, what determines the number of relationships on the shortest path between two nodes; and the degree of centralization -Network Centralization Index, NCI- which is the variability in degrees as a percentage of the maximum centralization; that is to say, in relation to the star network structure, that shows the maximum power of a single productive sector. ...",False,"{""applicable_indicators"": [{""id_indicador"": ""COL-01"", ""evidence"": ""Project ID: 2-s2.0-85070390287\nTitle: The sectoral dimension of Colombian cooperativism through a Social Network Analysis [La dimensión sectorial del cooperativismo colombiano a través de un análisis de redes]\nKeywords: Colombia | Cooperativism | Impact Evaluation | Public Policies | Sectoral Analysis | Social Networks Analysis | System National Accounts\nAbstract: ... On this issue, three indicators bring us the required knowledge: density, the percentage of the links over the possible -total- relationships; cohesion, defined in theory of networks as the effort to relate between nodes, what determines the number of relationships on the shortest path between two nodes; and the degree of centralization -Network Centralization Index, NCI- which is the variability in degrees as a percentage of the maximum centralization; that is to say, in relation to the star network structure, that shows the maximum power of a single productive sector. ...""}], ""References"": [""[1] custom_kg""]}"
+2-s2.0-85070390287,ASC-02,"On a sector basis, the Colombian cooperativism was concentrated in Education, Health and Other Personal and Community Services, Financial Intermediation and Trade and Hospitality: they obtained almost 75 percent of GVA and employment, while the same national sectors contributed to those indicators between 40 and 50 percent.",False,"{""applicable_indicators"": [{""id_indicador"": ""ASC-02"", ""evidence"": ""On a sector basis, the Colombian cooperativism was concentrated in Education, Health and Other Personal and Community Services, Financial Intermediation and Trade and Hospitality: they obtained almost 75 percent of GVA and employment, while the same national sectors contributed to those indicators between 40 and 50 percent.""}], ""References"": [""1""]}"
+2-s2.0-85070390287,SOC-02,"The study adapts to the economic and social development stage, which is represented by the increase in the cohesion of their inter-sectoral graphs, so they will have opposite effects in recessive phases, with the exception of Electricity, Gas and Water Supplies, Construction, Trade and Hospitality and Financial Intermediation, the branches which cooperativism achieved the greater proportion of the direct employment.",False,"{
+  ""applicable_indicators"": [
+    {
+      ""id_indicador"": ""SOC-02"",
+      ""evidence"": ""The study adapts to the economic and social development stage, which is represented by the increase in the cohesion of their inter-sectoral graphs, so they will have opposite effects in recessive phases, with the exception of Electricity, Gas and Water Supplies, Construction, Trade and Hospitality and Financial Intermediation, the branches which cooperativism achieved the greater proportion of the direct employment.""
+    }
+  ]
+}
+
+### References
+- [1] custom_kg"
+project-row-1,COL-01,"El proyecto incorpora enfoques interdisciplinarios o transdisciplinarios tanto en el planteamiento del problema como en los métodos, tipos de análisis y perspectivas conceptuales utilizadas.",True,"```json
+{
+  ""applicable_indicators"": [
+    {
+      ""id_indicador"": ""COL-01"",
+      ""evidence"": ""El proyecto incorpora enfoques interdisciplinarios o transdisciplinarios tanto en el planteamiento del problema como en los métodos, tipos de análisis y perspectivas conceptuales utilizadas.""
+    },
+    {
+      ""id_indicador"": ""COL-02"",
+      ""evidence"": ""El proyecto cuenta con la participación activa y significativa de actores externos (académicos y/o no académicos) en distintas etapas del proceso investigativo.""
+    },
+    {
+      ""id_indicador"": ""COL-03"",
+      ""evidence"": ""Nivel de participación efectiva de actores de la comunidad, Estado, sociedad o empresa en la formulación, ejecución y evaluación del proyecto.""
+    },
+    {
+      ""id_indicador"": ""ASC-01"",
+      ""evidence"": ""El proyecto establece mecanismos para el diálogo de saberes entre actores académicos y otros actores sociales.""
+    }
+  ]
+}
+```"
+project-row-1,COL-02,El proyecto cuenta con la participación activa y significativa de actores externos (académicos y/o no académicos) en distintas etapas del proceso investigativo.,True,"```json
+{
+  ""applicable_indicators"": [
+    {
+      ""id_indicador"": ""COL-01"",
+      ""evidence"": ""El proyecto incorpora enfoques interdisciplinarios o transdisciplinarios tanto en el planteamiento del problema como en los métodos, tipos de análisis y perspectivas conceptuales utilizadas.""
+    },
+    {
+      ""id_indicador"": ""COL-02"",
+      ""evidence"": ""El proyecto cuenta con la participación activa y significativa de actores externos (académicos y/o no académicos) en distintas etapas del proceso investigativo.""
+    },
+    {
+      ""id_indicador"": ""COL-03"",
+      ""evidence"": ""Nivel de participación efectiva de actores de la comunidad, Estado, sociedad o empresa en la formulación, ejecución y evaluación del proyecto.""
+    },
+    {
+      ""id_indicador"": ""ASC-01"",
+      ""evidence"": ""El proyecto establece mecanismos para el diálogo de saberes entre actores académicos y otros actores sociales.""
+    }
+  ]
+}
+```"
+project-row-1,COL-03,"Nivel de participación efectiva de actores de la comunidad, Estado, sociedad o empresa en la formulación, ejecución y evaluación del proyecto.",True,"```json
+{
+  ""applicable_indicators"": [
+    {
+      ""id_indicador"": ""COL-01"",
+      ""evidence"": ""El proyecto incorpora enfoques interdisciplinarios o transdisciplinarios tanto en el planteamiento del problema como en los métodos, tipos de análisis y perspectivas conceptuales utilizadas.""
+    },
+    {
+      ""id_indicador"": ""COL-02"",
+      ""evidence"": ""El proyecto cuenta con la participación activa y significativa de actores externos (académicos y/o no académicos) en distintas etapas del proceso investigativo.""
+    },
+    {
+      ""id_indicador"": ""COL-03"",
+      ""evidence"": ""Nivel de participación efectiva de actores de la comunidad, Estado, sociedad o empresa en la formulación, ejecución y evaluación del proyecto.""
+    },
+    {
+      ""id_indicador"": ""ASC-01"",
+      ""evidence"": ""El proyecto establece mecanismos para el diálogo de saberes entre actores académicos y otros actores sociales.""
+    }
+  ]
+}
+```"
+project-row-1,ASC-01,El proyecto establece mecanismos para el diálogo de saberes entre actores académicos y otros actores sociales.,True,"```json
+{
+  ""applicable_indicators"": [
+    {
+      ""id_indicador"": ""COL-01"",
+      ""evidence"": ""El proyecto incorpora enfoques interdisciplinarios o transdisciplinarios tanto en el planteamiento del problema como en los métodos, tipos de análisis y perspectivas conceptuales utilizadas.""
+    },
+    {
+      ""id_indicador"": ""COL-02"",
+      ""evidence"": ""El proyecto cuenta con la participación activa y significativa de actores externos (académicos y/o no académicos) en distintas etapas del proceso investigativo.""
+    },
+    {
+      ""id_indicador"": ""COL-03"",
+      ""evidence"": ""Nivel de participación efectiva de actores de la comunidad, Estado, sociedad o empresa en la formulación, ejecución y evaluación del proyecto.""
+    },
+    {
+      ""id_indicador"": ""ASC-01"",
+      ""evidence"": ""El proyecto establece mecanismos para el diálogo de saberes entre actores académicos y otros actores sociales.""
+    }
+  ]
+}
+```"
+project-row-1,ASC-02,"Los materiales y productos entregados son pertinentes, comprensibles, de alta calidad y valorados positivamente por los grupos de interés.",False,"```json
+{""applicable_indicators"": [{""id_indicador"": ""ASC-02"", ""evidence"": ""Los materiales y productos entregados son pertinentes, comprensibles, de alta calidad y valorados positivamente por los grupos de interés.""}, {""id_indicador"": ""DIV-01"", ""evidence"": ""El proyecto desarrolla productos y estrategias eficaces para comunicar el conocimiento generado a públicos no especializados.""}, {""id_indicador"": ""DIV-02"", ""evidence"": ""Número de productos (comunicados, artículos, blogs, libros, videos, material para redes sociales, entre otros) diseñados y utilizados para comunicar los resultados del proyecto a públicos diversos.""}]}
+```"
+project-row-1,DIV-01,El proyecto desarrolla productos y estrategias eficaces para comunicar el conocimiento generado a públicos no especializados.,True,"```json
+{""applicable_indicators"": [{""id_indicador"": ""ASC-02"", ""evidence"": ""Los materiales y productos entregados son pertinentes, comprensibles, de alta calidad y valorados positivamente por los grupos de interés.""}, {""id_indicador"": ""DIV-01"", ""evidence"": ""El proyecto desarrolla productos y estrategias eficaces para comunicar el conocimiento generado a públicos no especializados.""}, {""id_indicador"": ""DIV-02"", ""evidence"": ""Número de productos (comunicados, artículos, blogs, libros, videos, material para redes sociales, entre otros) diseñados y utilizados para comunicar los resultados del proyecto a públicos diversos.""}]}
+```"
+project-row-1,DIV-02,"Número de productos (comunicados, artículos, blogs, libros, videos, material para redes sociales, entre otros) diseñados y utilizados para comunicar los resultados del proyecto a públicos diversos.",True,"```json
+{""applicable_indicators"": [{""id_indicador"": ""ASC-02"", ""evidence"": ""Los materiales y productos entregados son pertinentes, comprensibles, de alta calidad y valorados positivamente por los grupos de interés.""}, {""id_indicador"": ""DIV-01"", ""evidence"": ""El proyecto desarrolla productos y estrategias eficaces para comunicar el conocimiento generado a públicos no especializados.""}, {""id_indicador"": ""DIV-02"", ""evidence"": ""Número de productos (comunicados, artículos, blogs, libros, videos, material para redes sociales, entre otros) diseñados y utilizados para comunicar los resultados del proyecto a públicos diversos.""}]}
+```"
+project-row-1,DIV-04,"Para ello, se ha diseñado y fabricado un prototipo de cámara de medición de compuestos orgánicos, acoplando una serie de sensores para COVs.",False,"```json
+{""applicable_indicators"": [{""id_indicador"": ""DIV-04"", ""evidence"": ""Para ello, se ha diseñado y fabricado un prototipo de cámara de medición de compuestos orgánicos, acoplando una serie de sensores para COVs.""}, {""id_indicador"": ""DIV-05"", ""evidence"": ""Para ello, se ha diseñado y fabricado un prototipo de cámara de medición de compuestos orgánicos, acoplando una serie de sensores para COVs.""}]}
+```"
+project-row-1,DIV-05,"Para ello, se ha diseñado y fabricado un prototipo de cámara de medición de compuestos orgánicos, acoplando una serie de sensores para COVs.",False,"```json
+{""applicable_indicators"": [{""id_indicador"": ""DIV-04"", ""evidence"": ""Para ello, se ha diseñado y fabricado un prototipo de cámara de medición de compuestos orgánicos, acoplando una serie de sensores para COVs.""}, {""id_indicador"": ""DIV-05"", ""evidence"": ""Para ello, se ha diseñado y fabricado un prototipo de cámara de medición de compuestos orgánicos, acoplando una serie de sensores para COVs.""}]}
+```"
+project-row-1,SOC-02,"El proyecto contribuye a consolidar redes de colaboración y alianzas entre comunidades, organizaciones e instituciones.",True,"{""applicable_indicators"": [{""id_indicador"": ""SOC-02"", ""evidence"": ""El proyecto contribuye a consolidar redes de colaboración y alianzas entre comunidades, organizaciones e instituciones.""}]}
+### References
+- [1] Compuestos Orgánicos Volátiles en Materiales Poliméricos Sostenibles de Uso Arquitectónico e Interiores: Caso de Estudio Pontificia Universidad Javeriana, Bogotá - Colombia [Volatile Organic Compounds in Sustainable Polymeric Materials for Architectural and Interior Use: Case Study at Pontificia Universidad Javeriana, Bogotá - Colombia] [Compostos Orgânicos Voláteis em Materiais Poliméricos Sustentáveis para Uso Arquitetônico e Interior: Estudo de Caso Pontificia Universidad Javeriana, Bogotá - Colômbia]"
+2-s2.0-85142381467,COL-01,The project aims to adapt an existing patient-centered digital intervention called DIALOG+ from a clinical setting to an educational setting using stakeholders' (teachers'and students') perspectives.,False,"{""applicable_indicators"": [{""id_indicador"": ""COL-01"", ""evidence"": ""The project aims to adapt an existing patient-centered digital intervention called DIALOG+ from a clinical setting to an educational setting using stakeholders' (teachers'and students') perspectives.""}, {""id_indicador"": ""COL-02"", ""evidence"": ""We aim to evaluate the feasibility, acceptability, and estimated effect of implementing this intervention as a tool for the identification and mobilization of personal and social resources.""}, {""id_indicador"": ""COL-03"", ""evidence"": ""The study consists of 3 phases: adaptation, exploration, and consolidation of the DIALOG+ tool. The adaptation phase will identify possible changes that the intervention requires on the basis of data from focus groups with teachers and students.""}, {""id_indicador"": ""ASC-01"", ""evidence"": ""The exploration phase will be an exploratory cluster randomized trial with teachers and school counselors to assess the acceptability, feasibility, and estimated effect of DIALOG+ for adolescents in school settings.""}]}"
+2-s2.0-85142381467,COL-02,"We aim to evaluate the feasibility, acceptability, and estimated effect of implementing this intervention as a tool for the identification and mobilization of personal and social resources.",False,"{""applicable_indicators"": [{""id_indicador"": ""COL-01"", ""evidence"": ""The project aims to adapt an existing patient-centered digital intervention called DIALOG+ from a clinical setting to an educational setting using stakeholders' (teachers'and students') perspectives.""}, {""id_indicador"": ""COL-02"", ""evidence"": ""We aim to evaluate the feasibility, acceptability, and estimated effect of implementing this intervention as a tool for the identification and mobilization of personal and social resources.""}, {""id_indicador"": ""COL-03"", ""evidence"": ""The study consists of 3 phases: adaptation, exploration, and consolidation of the DIALOG+ tool. The adaptation phase will identify possible changes that the intervention requires on the basis of data from focus groups with teachers and students.""}, {""id_indicador"": ""ASC-01"", ""evidence"": ""The exploration phase will be an exploratory cluster randomized trial with teachers and school counselors to assess the acceptability, feasibility, and estimated effect of DIALOG+ for adolescents in school settings.""}]}"
+2-s2.0-85142381467,COL-03,"The study consists of 3 phases: adaptation, exploration, and consolidation of the DIALOG+ tool. The adaptation phase will identify possible changes that the intervention requires on the basis of data from focus groups with teachers and students.",False,"{""applicable_indicators"": [{""id_indicador"": ""COL-01"", ""evidence"": ""The project aims to adapt an existing patient-centered digital intervention called DIALOG+ from a clinical setting to an educational setting using stakeholders' (teachers'and students') perspectives.""}, {""id_indicador"": ""COL-02"", ""evidence"": ""We aim to evaluate the feasibility, acceptability, and estimated effect of implementing this intervention as a tool for the identification and mobilization of personal and social resources.""}, {""id_indicador"": ""COL-03"", ""evidence"": ""The study consists of 3 phases: adaptation, exploration, and consolidation of the DIALOG+ tool. The adaptation phase will identify possible changes that the intervention requires on the basis of data from focus groups with teachers and students.""}, {""id_indicador"": ""ASC-01"", ""evidence"": ""The exploration phase will be an exploratory cluster randomized trial with teachers and school counselors to assess the acceptability, feasibility, and estimated effect of DIALOG+ for adolescents in school settings.""}]}"
+2-s2.0-85142381467,ASC-01,"The exploration phase will be an exploratory cluster randomized trial with teachers and school counselors to assess the acceptability, feasibility, and estimated effect of DIALOG+ for adolescents in school settings.",False,"{""applicable_indicators"": [{""id_indicador"": ""COL-01"", ""evidence"": ""The project aims to adapt an existing patient-centered digital intervention called DIALOG+ from a clinical setting to an educational setting using stakeholders' (teachers'and students') perspectives.""}, {""id_indicador"": ""COL-02"", ""evidence"": ""We aim to evaluate the feasibility, acceptability, and estimated effect of implementing this intervention as a tool for the identification and mobilization of personal and social resources.""}, {""id_indicador"": ""COL-03"", ""evidence"": ""The study consists of 3 phases: adaptation, exploration, and consolidation of the DIALOG+ tool. The adaptation phase will identify possible changes that the intervention requires on the basis of data from focus groups with teachers and students.""}, {""id_indicador"": ""ASC-01"", ""evidence"": ""The exploration phase will be an exploratory cluster randomized trial with teachers and school counselors to assess the acceptability, feasibility, and estimated effect of DIALOG+ for adolescents in school settings.""}]}"
+2-s2.0-85142381467,DIV-02,"The project will conduct an exploratory mixed methods study in public schools of postconflict areas in Tolima, Colombia. The study consists of 3 phases: adaptation, exploration, and consolidation of the DIALOG+ tool.",False,"{""applicable_indicators"": [{""id_indicador"": ""DIV-02"", ""evidence"": ""The project will conduct an exploratory mixed methods study in public schools of postconflict areas in Tolima, Colombia. The study consists of 3 phases: adaptation, exploration, and consolidation of the DIALOG+ tool.""}]}"
+2-s2.0-85142381467,CUL-01,This is an innovative approach in both the school and the postconflict contexts that could help improve the mental health and wellness of adolescents in vulnerable zones in Colombia.,False,"{""applicable_indicators"": [{""id_indicador"": ""CUL-01"", ""evidence"": ""This is an innovative approach in both the school and the postconflict contexts that could help improve the mental health and wellness of adolescents in vulnerable zones in Colombia.""}, {""id_indicador"": ""DIV-04"", ""evidence"": ""We aim to evaluate the feasibility, acceptability, and estimated effect of implementing this intervention as a tool for the identification and mobilization of personal and social resources to mitigate the impact of social difficulties and to promote mental well-being.""}, {""id_indicador"": ""DIV-05"", ""evidence"": ""Número de espacios públicos promovidos por el proyecto para debatir la problemática investigativa y social más allá del ámbito académico.""}]}"
+2-s2.0-85142381467,DIV-04,"We aim to evaluate the feasibility, acceptability, and estimated effect of implementing this intervention as a tool for the identification and mobilization of personal and social resources to mitigate the impact of social difficulties and to promote mental well-being.",False,"{""applicable_indicators"": [{""id_indicador"": ""CUL-01"", ""evidence"": ""This is an innovative approach in both the school and the postconflict contexts that could help improve the mental health and wellness of adolescents in vulnerable zones in Colombia.""}, {""id_indicador"": ""DIV-04"", ""evidence"": ""We aim to evaluate the feasibility, acceptability, and estimated effect of implementing this intervention as a tool for the identification and mobilization of personal and social resources to mitigate the impact of social difficulties and to promote mental well-being.""}, {""id_indicador"": ""DIV-05"", ""evidence"": ""Número de espacios públicos promovidos por el proyecto para debatir la problemática investigativa y social más allá del ámbito académico.""}]}"
+2-s2.0-85142381467,DIV-05,Número de espacios públicos promovidos por el proyecto para debatir la problemática investigativa y social más allá del ámbito académico.,True,"{""applicable_indicators"": [{""id_indicador"": ""CUL-01"", ""evidence"": ""This is an innovative approach in both the school and the postconflict contexts that could help improve the mental health and wellness of adolescents in vulnerable zones in Colombia.""}, {""id_indicador"": ""DIV-04"", ""evidence"": ""We aim to evaluate the feasibility, acceptability, and estimated effect of implementing this intervention as a tool for the identification and mobilization of personal and social resources to mitigate the impact of social difficulties and to promote mental well-being.""}, {""id_indicador"": ""DIV-05"", ""evidence"": ""Número de espacios públicos promovidos por el proyecto para debatir la problemática investigativa y social más allá del ámbito académico.""}]}"
+2-s2.0-85142381467,SOC-01,"El proyecto contribuye a consolidar redes de colaboración y alianzas entre comunidades, organizaciones e instituciones.",False,"{""applicable_indicators"": [{""id_indicador"": ""SOC-01"", ""evidence"": ""El proyecto contribuye a consolidar redes de colaboración y alianzas entre comunidades, organizaciones e instituciones.""}]}"
+project-row-3,COL-01,"Los recientes casos de delitos económicos y financieros, fraude financiero, corrupción y malas prácticas empresariales en el ámbito empresarial local e internacional, crean la necesidad de contar con profesionales capacitados para enfrentar el reto de su investigación y análisis, que son actividades desarrolladas por la auditoría forense.",False,"```json
+{
+  ""applicable_indicators"": [
+    {
+      ""id_indicador"": ""COL-01"",
+      ""evidence"": ""Los recientes casos de delitos económicos y financieros, fraude financiero, corrupción y malas prácticas empresariales en el ámbito empresarial local e internacional, crean la necesidad de contar con profesionales capacitados para enfrentar el reto de su investigación y análisis, que son actividades desarrolladas por la auditoría forense.""
+    },
+    {
+      ""id_indicador"": ""COL-02"",
+      ""evidence"": ""En el presente artículo, se resaltan aspectos de suma importancia para entender por qué es importante incluir en los currículos la auditoría forense como asignatura, puntualmente en la formación del contador público. Así mismo, los contenidos temáticos que deberían abarcarse en esta asignatura, como sus conceptos, técnicas de investigación judicial, metodologías, etapas, evidencia en la auditoría forense, análisis financiero y patrimonial, informe de auditoría forense.""
+    },
+    {
+      ""id_indicador"": ""COL-03"",
+      ""evidence"": ""Nivel de participación efectiva de actores de la comunidad, Estado, sociedad o empresa en la formulación, ejecución y evaluación del proyecto.""
+    },
+    {
+      ""id_indicador"": ""ASC-01"",
+      ""evidence"": ""El proyecto establece mecanismos para el diálogo de saberes entre actores académicos y otros actores sociales.""
+    }
+  ]
+}
+```"
+project-row-3,COL-02,"En el presente artículo, se resaltan aspectos de suma importancia para entender por qué es importante incluir en los currículos la auditoría forense como asignatura, puntualmente en la formación del contador público. Así mismo, los contenidos temáticos que deberían abarcarse en esta asignatura, como sus conceptos, técnicas de investigación judicial, metodologías, etapas, evidencia en la auditoría forense, análisis financiero y patrimonial, informe de auditoría forense.",False,"```json
+{
+  ""applicable_indicators"": [
+    {
+      ""id_indicador"": ""COL-01"",
+      ""evidence"": ""Los recientes casos de delitos económicos y financieros, fraude financiero, corrupción y malas prácticas empresariales en el ámbito empresarial local e internacional, crean la necesidad de contar con profesionales capacitados para enfrentar el reto de su investigación y análisis, que son actividades desarrolladas por la auditoría forense.""
+    },
+    {
+      ""id_indicador"": ""COL-02"",
+      ""evidence"": ""En el presente artículo, se resaltan aspectos de suma importancia para entender por qué es importante incluir en los currículos la auditoría forense como asignatura, puntualmente en la formación del contador público. Así mismo, los contenidos temáticos que deberían abarcarse en esta asignatura, como sus conceptos, técnicas de investigación judicial, metodologías, etapas, evidencia en la auditoría forense, análisis financiero y patrimonial, informe de auditoría forense.""
+    },
+    {
+      ""id_indicador"": ""COL-03"",
+      ""evidence"": ""Nivel de participación efectiva de actores de la comunidad, Estado, sociedad o empresa en la formulación, ejecución y evaluación del proyecto.""
+    },
+    {
+      ""id_indicador"": ""ASC-01"",
+      ""evidence"": ""El proyecto establece mecanismos para el diálogo de saberes entre actores académicos y otros actores sociales.""
+    }
+  ]
+}
+```"
+project-row-3,COL-03,"Nivel de participación efectiva de actores de la comunidad, Estado, sociedad o empresa en la formulación, ejecución y evaluación del proyecto.",True,"```json
+{
+  ""applicable_indicators"": [
+    {
+      ""id_indicador"": ""COL-01"",
+      ""evidence"": ""Los recientes casos de delitos económicos y financieros, fraude financiero, corrupción y malas prácticas empresariales en el ámbito empresarial local e internacional, crean la necesidad de contar con profesionales capacitados para enfrentar el reto de su investigación y análisis, que son actividades desarrolladas por la auditoría forense.""
+    },
+    {
+      ""id_indicador"": ""COL-02"",
+      ""evidence"": ""En el presente artículo, se resaltan aspectos de suma importancia para entender por qué es importante incluir en los currículos la auditoría forense como asignatura, puntualmente en la formación del contador público. Así mismo, los contenidos temáticos que deberían abarcarse en esta asignatura, como sus conceptos, técnicas de investigación judicial, metodologías, etapas, evidencia en la auditoría forense, análisis financiero y patrimonial, informe de auditoría forense.""
+    },
+    {
+      ""id_indicador"": ""COL-03"",
+      ""evidence"": ""Nivel de participación efectiva de actores de la comunidad, Estado, sociedad o empresa en la formulación, ejecución y evaluación del proyecto.""
+    },
+    {
+      ""id_indicador"": ""ASC-01"",
+      ""evidence"": ""El proyecto establece mecanismos para el diálogo de saberes entre actores académicos y otros actores sociales.""
+    }
+  ]
+}
+```"
+project-row-3,ASC-01,El proyecto establece mecanismos para el diálogo de saberes entre actores académicos y otros actores sociales.,True,"```json
+{
+  ""applicable_indicators"": [
+    {
+      ""id_indicador"": ""COL-01"",
+      ""evidence"": ""Los recientes casos de delitos económicos y financieros, fraude financiero, corrupción y malas prácticas empresariales en el ámbito empresarial local e internacional, crean la necesidad de contar con profesionales capacitados para enfrentar el reto de su investigación y análisis, que son actividades desarrolladas por la auditoría forense.""
+    },
+    {
+      ""id_indicador"": ""COL-02"",
+      ""evidence"": ""En el presente artículo, se resaltan aspectos de suma importancia para entender por qué es importante incluir en los currículos la auditoría forense como asignatura, puntualmente en la formación del contador público. Así mismo, los contenidos temáticos que deberían abarcarse en esta asignatura, como sus conceptos, técnicas de investigación judicial, metodologías, etapas, evidencia en la auditoría forense, análisis financiero y patrimonial, informe de auditoría forense.""
+    },
+    {
+      ""id_indicador"": ""COL-03"",
+      ""evidence"": ""Nivel de participación efectiva de actores de la comunidad, Estado, sociedad o empresa en la formulación, ejecución y evaluación del proyecto.""
+    },
+    {
+      ""id_indicador"": ""ASC-01"",
+      ""evidence"": ""El proyecto establece mecanismos para el diálogo de saberes entre actores académicos y otros actores sociales.""
+    }
+  ]
+}
+```"
+project-row-3,ASC-02,"Los contenidos temáticos que deberían abarcarse en esta asignatura, como sus conceptos, técnicas de investigación judicial, metodologías, etapas, evidencia en la auditoría forense, análisis financiero y patrimonial, informe de auditoría forense.",False,"```json
+{
+  ""applicable_indicators"": [
+    {
+      ""id_indicador"": ""ASC-02"",
+      ""evidence"": ""Los contenidos temáticos que deberían abarcarse en esta asignatura, como sus conceptos, técnicas de investigación judicial, metodologías, etapas, evidencia en la auditoría forense, análisis financiero y patrimonial, informe de auditoría forense.""
+    },
+    {
+      ""id_indicador"": ""DIV-02"",
+      ""evidence"": ""Por otro lado, se muestra el panorama nacional de la auditoría forense y los delitos financieros en los programas de contaduría pública acreditados. Finalmente, se presenta la reflexión sobre la necesidad de que en los programas de contaduría pública en Colombia se contemplen los temas de auditoría forense con suficiente dedicación y énfasis.""
+    }
+  ]
+}
+```"
+project-row-3,DIV-02,"Por otro lado, se muestra el panorama nacional de la auditoría forense y los delitos financieros en los programas de contaduría pública acreditados. Finalmente, se presenta la reflexión sobre la necesidad de que en los programas de contaduría pública en Colombia se contemplen los temas de auditoría forense con suficiente dedicación y énfasis.",False,"```json
+{
+  ""applicable_indicators"": [
+    {
+      ""id_indicador"": ""ASC-02"",
+      ""evidence"": ""Los contenidos temáticos que deberían abarcarse en esta asignatura, como sus conceptos, técnicas de investigación judicial, metodologías, etapas, evidencia en la auditoría forense, análisis financiero y patrimonial, informe de auditoría forense.""
+    },
+    {
+      ""id_indicador"": ""DIV-02"",
+      ""evidence"": ""Por otro lado, se muestra el panorama nacional de la auditoría forense y los delitos financieros en los programas de contaduría pública acreditados. Finalmente, se presenta la reflexión sobre la necesidad de que en los programas de contaduría pública en Colombia se contemplen los temas de auditoría forense con suficiente dedicación y énfasis.""
+    }
+  ]
+}
+```"
+project-row-3,DIV-04,"Los resultados, metodologías o saberes generados por el proyecto son difundidos en formatos comprensibles, abiertos y reutilizables, y en que dichos materiales son efectivamente consultados y aprovechados por públicos diversos.",True,"```json
+{
+  ""applicable_indicators"": [
+    {
+      ""id_indicador"": ""DIV-04"",
+      ""evidence"": ""Los resultados, metodologías o saberes generados por el proyecto son difundidos en formatos comprensibles, abiertos y reutilizables, y en que dichos materiales son efectivamente consultados y aprovechados por públicos diversos.""
+    }
+  ]
+}
+```"
+project-row-3,SOC-02,El panorama nacional de la auditoría forense y los delitos financieros en los programas de contaduría pública acreditados.,False,"```json
+{
+  ""applicable_indicators"": [
+    {
+      ""id_indicador"": ""SOC-02"",
+      ""evidence"": ""El panorama nacional de la auditoría forense y los delitos financieros en los programas de contaduría pública acreditados.""
+    },
+    {
+      ""id_indicador"": ""SOC-01"",
+      ""evidence"": ""Finalmente, se muestra la reflexión sobre la necesidad de que en los programas de contaduría pública en Colombia se contemplen los temas de auditoría forense con suficiente dedicación y énfasis.""
+    }
+  ]
+}
+```"
+project-row-3,SOC-01,"Finalmente, se muestra la reflexión sobre la necesidad de que en los programas de contaduría pública en Colombia se contemplen los temas de auditoría forense con suficiente dedicación y énfasis.",False,"```json
+{
+  ""applicable_indicators"": [
+    {
+      ""id_indicador"": ""SOC-02"",
+      ""evidence"": ""El panorama nacional de la auditoría forense y los delitos financieros en los programas de contaduría pública acreditados.""
+    },
+    {
+      ""id_indicador"": ""SOC-01"",
+      ""evidence"": ""Finalmente, se muestra la reflexión sobre la necesidad de que en los programas de contaduría pública en Colombia se contemplen los temas de auditoría forense con suficiente dedicación y énfasis.""
+    }
+  ]
+}
+```"
+project-row-4,COL-01,"The objective of this work is to analyze the ecopedagogical experience of the 'La Casa del Camino' foundation based on corporal practices as a tool for education and promotion of a culture of peace. Therefore, the methodological approach is centered on a cross-sectional descriptive qualitative study, through a case study, using participant observation as a form of data collection.",False,"```json
+{
+  ""applicable_indicators"": [
+    {
+      ""id_indicador"": ""COL-01"",
+      ""evidence"": ""The objective of this work is to analyze the ecopedagogical experience of the 'La Casa del Camino' foundation based on corporal practices as a tool for education and promotion of a culture of peace. Therefore, the methodological approach is centered on a cross-sectional descriptive qualitative study, through a case study, using participant observation as a form of data collection.""
+    },
+    {
+      ""id_indicador"": ""COL-02"",
+      ""evidence"": ""The project counts with the active participation and significant involvement of external actors (academics and/or non-academics) in various stages of the investigative process.""
+    },
+    {
+      ""id_indicador"": ""COL-03"",
+      ""evidence"": ""Level of effective participation of community actors, State, society or company in the formulation, execution, and evaluation of the project.""
+    },
+    {
+      ""id_indicador"": ""ASC-01"",
+      ""evidence"": ""The project establishes mechanisms for the dialogue of knowledge between actors academics and other social actors.""
+    }
+  ]
+}
+```"
+project-row-4,COL-02,The project counts with the active participation and significant involvement of external actors (academics and/or non-academics) in various stages of the investigative process.,True,"```json
+{
+  ""applicable_indicators"": [
+    {
+      ""id_indicador"": ""COL-01"",
+      ""evidence"": ""The objective of this work is to analyze the ecopedagogical experience of the 'La Casa del Camino' foundation based on corporal practices as a tool for education and promotion of a culture of peace. Therefore, the methodological approach is centered on a cross-sectional descriptive qualitative study, through a case study, using participant observation as a form of data collection.""
+    },
+    {
+      ""id_indicador"": ""COL-02"",
+      ""evidence"": ""The project counts with the active participation and significant involvement of external actors (academics and/or non-academics) in various stages of the investigative process.""
+    },
+    {
+      ""id_indicador"": ""COL-03"",
+      ""evidence"": ""Level of effective participation of community actors, State, society or company in the formulation, execution, and evaluation of the project.""
+    },
+    {
+      ""id_indicador"": ""ASC-01"",
+      ""evidence"": ""The project establishes mechanisms for the dialogue of knowledge between actors academics and other social actors.""
+    }
+  ]
+}
+```"
+project-row-4,COL-03,"Level of effective participation of community actors, State, society or company in the formulation, execution, and evaluation of the project.",False,"```json
+{
+  ""applicable_indicators"": [
+    {
+      ""id_indicador"": ""COL-01"",
+      ""evidence"": ""The objective of this work is to analyze the ecopedagogical experience of the 'La Casa del Camino' foundation based on corporal practices as a tool for education and promotion of a culture of peace. Therefore, the methodological approach is centered on a cross-sectional descriptive qualitative study, through a case study, using participant observation as a form of data collection.""
+    },
+    {
+      ""id_indicador"": ""COL-02"",
+      ""evidence"": ""The project counts with the active participation and significant involvement of external actors (academics and/or non-academics) in various stages of the investigative process.""
+    },
+    {
+      ""id_indicador"": ""COL-03"",
+      ""evidence"": ""Level of effective participation of community actors, State, society or company in the formulation, execution, and evaluation of the project.""
+    },
+    {
+      ""id_indicador"": ""ASC-01"",
+      ""evidence"": ""The project establishes mechanisms for the dialogue of knowledge between actors academics and other social actors.""
+    }
+  ]
+}
+```"
+project-row-4,ASC-01,The project establishes mechanisms for the dialogue of knowledge between actors academics and other social actors.,True,"```json
+{
+  ""applicable_indicators"": [
+    {
+      ""id_indicador"": ""COL-01"",
+      ""evidence"": ""The objective of this work is to analyze the ecopedagogical experience of the 'La Casa del Camino' foundation based on corporal practices as a tool for education and promotion of a culture of peace. Therefore, the methodological approach is centered on a cross-sectional descriptive qualitative study, through a case study, using participant observation as a form of data collection.""
+    },
+    {
+      ""id_indicador"": ""COL-02"",
+      ""evidence"": ""The project counts with the active participation and significant involvement of external actors (academics and/or non-academics) in various stages of the investigative process.""
+    },
+    {
+      ""id_indicador"": ""COL-03"",
+      ""evidence"": ""Level of effective participation of community actors, State, society or company in the formulation, execution, and evaluation of the project.""
+    },
+    {
+      ""id_indicador"": ""ASC-01"",
+      ""evidence"": ""The project establishes mechanisms for the dialogue of knowledge between actors academics and other social actors.""
+    }
+  ]
+}
+```"
+project-row-4,ASC-02,The results show four categories: a) care of the environment; b) citizen values; c) body activities; and d) adventure in education.,False,"```json
+{
+  ""applicable_indicators"": [
+    {
+      ""id_indicador"": ""ASC-02"",
+      ""evidence"": ""The results show four categories: a) care of the environment; b) citizen values; c) body activities; and d) adventure in education.""
+    },
+    {
+      ""id_indicador"": ""DIV-01"",
+      ""evidence"": ""The project develops products and strategies effective for communicating the knowledge generated to non-specialized publics.""
+    },
+    {
+      ""id_indicador"": ""DIV-02"",
+      ""evidence"": ""N/A""
+    }
+  ]
+}
+```"
+project-row-4,DIV-01,The project develops products and strategies effective for communicating the knowledge generated to non-specialized publics.,True,"```json
+{
+  ""applicable_indicators"": [
+    {
+      ""id_indicador"": ""ASC-02"",
+      ""evidence"": ""The results show four categories: a) care of the environment; b) citizen values; c) body activities; and d) adventure in education.""
+    },
+    {
+      ""id_indicador"": ""DIV-01"",
+      ""evidence"": ""The project develops products and strategies effective for communicating the knowledge generated to non-specialized publics.""
+    },
+    {
+      ""id_indicador"": ""DIV-02"",
+      ""evidence"": ""N/A""
+    }
+  ]
+}
+```"
+project-row-4,DIV-02,N/A,False,"```json
+{
+  ""applicable_indicators"": [
+    {
+      ""id_indicador"": ""ASC-02"",
+      ""evidence"": ""The results show four categories: a) care of the environment; b) citizen values; c) body activities; and d) adventure in education.""
+    },
+    {
+      ""id_indicador"": ""DIV-01"",
+      ""evidence"": ""The project develops products and strategies effective for communicating the knowledge generated to non-specialized publics.""
+    },
+    {
+      ""id_indicador"": ""DIV-02"",
+      ""evidence"": ""N/A""
+    }
+  ]
+}
+```"
+project-row-4,CUL-01,"El proyecto fortalece procesos de construcción, preservación y revitalización de la memoria e identidad cultural en comunidades o territorios.",True,"{""applicable_indicators"": [{""id_indicador"": ""CUL-01"", ""evidence"": ""El proyecto fortalece procesos de construcción, preservación y revitalización de la memoria e identidad cultural en comunidades o territorios.""}, {""id_indicador"": ""DIV-04"", ""evidence"": ""Los resultados muestran cuatro categorías: a) cuidado del medio ambiente; b) valores ciudadanos; c) actividades corporales; y d) aventura en la educación.""}, {""id_indicador"": ""DIV-05"", ""evidence"": ""El objetivo de este trabajo es analizar la experiencia ecopedagógica de la fundación 'La Casa del Camino' basada en las prácticas corporales como herramienta para la educación y promoción de una cultura de paz.""}]}
+
+### References
+
+- [1] Document Title One"
+project-row-4,DIV-04,Los resultados muestran cuatro categorías: a) cuidado del medio ambiente; b) valores ciudadanos; c) actividades corporales; y d) aventura en la educación.,False,"{""applicable_indicators"": [{""id_indicador"": ""CUL-01"", ""evidence"": ""El proyecto fortalece procesos de construcción, preservación y revitalización de la memoria e identidad cultural en comunidades o territorios.""}, {""id_indicador"": ""DIV-04"", ""evidence"": ""Los resultados muestran cuatro categorías: a) cuidado del medio ambiente; b) valores ciudadanos; c) actividades corporales; y d) aventura en la educación.""}, {""id_indicador"": ""DIV-05"", ""evidence"": ""El objetivo de este trabajo es analizar la experiencia ecopedagógica de la fundación 'La Casa del Camino' basada en las prácticas corporales como herramienta para la educación y promoción de una cultura de paz.""}]}
+
+### References
+
+- [1] Document Title One"
+project-row-4,DIV-05,El objetivo de este trabajo es analizar la experiencia ecopedagógica de la fundación 'La Casa del Camino' basada en las prácticas corporales como herramienta para la educación y promoción de una cultura de paz.,False,"{""applicable_indicators"": [{""id_indicador"": ""CUL-01"", ""evidence"": ""El proyecto fortalece procesos de construcción, preservación y revitalización de la memoria e identidad cultural en comunidades o territorios.""}, {""id_indicador"": ""DIV-04"", ""evidence"": ""Los resultados muestran cuatro categorías: a) cuidado del medio ambiente; b) valores ciudadanos; c) actividades corporales; y d) aventura en la educación.""}, {""id_indicador"": ""DIV-05"", ""evidence"": ""El objetivo de este trabajo es analizar la experiencia ecopedagógica de la fundación 'La Casa del Camino' basada en las prácticas corporales como herramienta para la educación y promoción de una cultura de paz.""}]}
+
+### References
+
+- [1] Document Title One"
+project-row-4,SOC-01,"El proyecto promueve la conservación, valorización o enriquecimiento del patrimonio cultural, ya sea material o inmaterial.",False,"```json
+{
+  ""applicable_indicators"": [
+    {
+      ""id_indicador"": ""SOC-01"",
+      ""evidence"": ""El proyecto promueve la conservación, valorización o enriquecimiento del patrimonio cultural, ya sea material o inmaterial.""
+    },
+    {
+      ""id_indicador"": ""SOC-02"",
+      ""evidence"": ""El proyecto contribuye a consolidar redes de colaboración y alianzas entre comunidades, organizaciones e instituciones.""
+    }
+  ]
+}
+```"
+project-row-4,SOC-02,"El proyecto contribuye a consolidar redes de colaboración y alianzas entre comunidades, organizaciones e instituciones.",True,"```json
+{
+  ""applicable_indicators"": [
+    {
+      ""id_indicador"": ""SOC-01"",
+      ""evidence"": ""El proyecto promueve la conservación, valorización o enriquecimiento del patrimonio cultural, ya sea material o inmaterial.""
+    },
+    {
+      ""id_indicador"": ""SOC-02"",
+      ""evidence"": ""El proyecto contribuye a consolidar redes de colaboración y alianzas entre comunidades, organizaciones e instituciones.""
+    }
+  ]
+}
+```"
