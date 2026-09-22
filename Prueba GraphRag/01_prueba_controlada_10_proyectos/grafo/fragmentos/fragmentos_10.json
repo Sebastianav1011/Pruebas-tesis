@@ -1,0 +1,1066 @@
+[
+  {
+    "id_fragmento": "2-s2.0-105005783887::facultad::1",
+    "id_proyecto": "2-s2.0-105005783887",
+    "campo_origen": "facultad",
+    "texto": "INGENIERÍA",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-105005783887::programa_creacion::2",
+    "id_proyecto": "2-s2.0-105005783887",
+    "campo_origen": "programa_creacion",
+    "texto": "Inge26",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-105005783887::tipo_documental::3",
+    "id_proyecto": "2-s2.0-105005783887",
+    "campo_origen": "tipo_documental",
+    "texto": "ARTICLE",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-105005783887::investigador_docente::4",
+    "id_proyecto": "2-s2.0-105005783887",
+    "campo_origen": "investigador_docente",
+    "texto": "Pavlich Mariscal, Jaime Andres",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-105005783887::anio::5",
+    "id_proyecto": "2-s2.0-105005783887",
+    "campo_origen": "anio",
+    "texto": "2025",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-105005783887::nombre_producto::6",
+    "id_proyecto": "2-s2.0-105005783887",
+    "campo_origen": "nombre_producto",
+    "texto": "Co-Designing, Developing, and Testing a Mental Health Platform for Young People Using a Participatory Design Methodology in Colombia: Mixed Methods Study",
+    "idioma": "en"
+  },
+  {
+    "id_fragmento": "2-s2.0-105005783887::resumen::7",
+    "id_proyecto": "2-s2.0-105005783887",
+    "campo_origen": "resumen",
+    "texto": "Background: Globally, mental health (MH) problems increasingly affect young people, contributing significantly to disability and disease. In low- and middle-income countries, such as Colombia, barriers to accessing care exacerbate the treatment gap. In addition, the lack of widespread digital interventions further deepens the digital health divide between the Global North and Global South, limiting equitable access to innovative MH solutions. Objective: This study aims to co-design and develop an MH platform using participatory design methodologies and conduct a 15-month naturalistic observational trial to assess its feasibility among Colombian youth. Methods: This study used a mixed methods approach within a structured research and development cycle.",
+    "idioma": "en"
+  },
+  {
+    "id_fragmento": "2-s2.0-105005783887::resumen::8",
+    "id_proyecto": "2-s2.0-105005783887",
+    "campo_origen": "resumen",
+    "texto": "To ensure a user-centered design, we began with a series of co-design workshops, where stakeholders collaboratively identified key user needs. Following this, usability testing was conducted in 2 stages, alpha and beta, using the System Usability Scale (SUS) to assess functionality and user experience. To capture real-world interactions, a naturalistic observational trial ran from July 2022 to October 2023, collecting data on user engagement and system performance. This study integrated quantitative and qualitative analyses. Results: A total of 146 individuals participated in the co-design process, with 110 (75.3%) contributing to the development of platform components and 36 (24.7%) participating in usability testing.",
+    "idioma": "en"
+  },
+  {
+    "id_fragmento": "2-s2.0-105005783887::resumen::9",
+    "id_proyecto": "2-s2.0-105005783887",
+    "campo_origen": "resumen",
+    "texto": "The co-designed platform integrated several key features, including social media and advertising, an MH screening tool, registration, targeted psychoeducational resources, automated tailored recommendations, and a \"track-as-you-go\" feature for continuous MH monitoring. Additional elements included user-friendly follow-up graphs, telecounseling integration, customizable well-being nudges, an emergency button, and gamification components to enhance engagement. During usability testing, the beta prototype received a median SUS score of 85.0 (IQR 80-92.5), indicating high usability. In the subsequent observational trial, which ran from July 2022 to October 2023, a total of 435 users interacted with the platform—314 (72.2%) as registered users and 121 (27.8%) anonymously.",
+    "idioma": "en"
+  },
+  {
+    "id_fragmento": "2-s2.0-105005783887::resumen::10",
+    "id_proyecto": "2-s2.0-105005783887",
+    "campo_origen": "resumen",
+    "texto": "Emotional distress was prevalent, with 63.7% (200/314) of the registered users and 61.2% (74/121) of the anonymous users reporting distress, as measured by the 6-item Kessler Psychological Distress Scale. Despite 102 users requesting telecounseling, only 26.5% (27/102) completed a session. While usability scores remained high, engagement challenges emerged, with only 18.8% (59/314) of the users continuing platform use beyond the first day. Conclusions: This study explored the development and user experience of a youth MH platform in Colombia, demonstrating that a cocreation approach is both feasible and effective. By actively involving users throughout the design process, the platform achieved high usability and incorporated features that resonated with its target audience.",
+    "idioma": "en"
+  },
+  {
+    "id_fragmento": "2-s2.0-105005783887::resumen::11",
+    "id_proyecto": "2-s2.0-105005783887",
+    "campo_origen": "resumen",
+    "texto": "However, sustaining long-term engagement remains a challenge, as does addressing privacy concerns, particularly for younger users. These findings highlight the importance of continuous user-centered refinement to enhance both accessibility and retention in digital MH interventions.",
+    "idioma": "en"
+  },
+  {
+    "id_fragmento": "2-s2.0-105005783887::palabras_clave::12",
+    "id_proyecto": "2-s2.0-105005783887",
+    "campo_origen": "palabras_clave",
+    "texto": "community-based participatory research | eHealth | help seeking | Latin America | low- and middle-income countries | medical informatics | mental health | patient participation | patient satisfaction | telemedicine",
+    "idioma": "en"
+  },
+  {
+    "id_fragmento": "2-s2.0-105005783887::nombre_revista_libro::13",
+    "id_proyecto": "2-s2.0-105005783887",
+    "campo_origen": "nombre_revista_libro",
+    "texto": "Jmir Human Factors",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-105005783887::fuente::14",
+    "id_proyecto": "2-s2.0-105005783887",
+    "campo_origen": "fuente",
+    "texto": "Scopus",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-105005783887::coautores::15",
+    "id_proyecto": "2-s2.0-105005783887",
+    "campo_origen": "coautores",
+    "texto": "Ospina-Pinillos, Laura; Shambo-Rodríguez, Débora L.; Sánchez-Nítola, Mónica Natalí; Morales, Alexandra; Gallego-Sanchez, Laura C.; Riaño-Fonseca, María Isabel; Bello-Tocancipá, Andrea Carolina; Navarro-Mancilla, Alvaro; Pavlich-Mariscal, Jaime A.; Pomares-Quimbaya, Alexandra; Gómez-Restrepo, Carlos; Hickie, Ian B.; Occhipinti, Jo An",
+    "idioma": "en"
+  },
+  {
+    "id_fragmento": "2-s2.0-105005783887::afiliacion_coautores::16",
+    "id_proyecto": "2-s2.0-105005783887",
+    "campo_origen": "afiliacion_coautores",
+    "texto": "Faculty of Medicine and Health; Pontificia Universidad Javeriana; Universidad Javeriana Facultad de Medicina; Computer Simulation & Advanced Research Technologies (CSART); Keralty Medical Centers; Medicalnet SAS",
+    "idioma": "mixto"
+  },
+  {
+    "id_fragmento": "2-s2.0-105005783887::pais_coautores::17",
+    "id_proyecto": "2-s2.0-105005783887",
+    "campo_origen": "pais_coautores",
+    "texto": "Australia; Colombia",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-105014027137::facultad::1",
+    "id_proyecto": "2-s2.0-105014027137",
+    "campo_origen": "facultad",
+    "texto": "VICERRECTORIA DE INVESTIGACIÓN",
+    "idioma": "es"
+  },
+  {
+    "id_fragmento": "2-s2.0-105014027137::programa_creacion::2",
+    "id_proyecto": "2-s2.0-105014027137",
+    "campo_origen": "programa_creacion",
+    "texto": "Tanda Mega Prime",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-105014027137::tipo_documental::3",
+    "id_proyecto": "2-s2.0-105014027137",
+    "campo_origen": "tipo_documental",
+    "texto": "ARTICLE",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-105014027137::investigador_docente::4",
+    "id_proyecto": "2-s2.0-105014027137",
+    "campo_origen": "investigador_docente",
+    "texto": "Florez Florez, Maria Juliana",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-105014027137::anio::5",
+    "id_proyecto": "2-s2.0-105014027137",
+    "campo_origen": "anio",
+    "texto": "2025",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-105014027137::nombre_producto::6",
+    "id_proyecto": "2-s2.0-105014027137",
+    "campo_origen": "nombre_producto",
+    "texto": "Subverting patriarchal narratives: a feminist approach to critical video game design through participatory methods",
+    "idioma": "en"
+  },
+  {
+    "id_fragmento": "2-s2.0-105014027137::resumen::7",
+    "id_proyecto": "2-s2.0-105014027137",
+    "campo_origen": "resumen",
+    "texto": "This article examines participatory design as a methodology for creating critical video games within the context of feminist pedagogy, focusing on the development of \"Poder Violeta 2.\" The game aims to challenge sexual harassment experienced by women, feminized bodies, and gender and sexual dissidents in Bogotá's public transportation system, a context marked by some of the highest rates of insecurity for women. The design process for this new version prioritized the active involvement of women public transport users at all stages and enhanced the use of video game–specific resources, such as multiple playable characters and power-ups, to enrich gameplay and narrative depth. These strategies resulted in greater agency for the game's protagonists and more accurate representation of historically marginalized groups.",
+    "idioma": "en"
+  },
+  {
+    "id_fragmento": "2-s2.0-105014027137::resumen::8",
+    "id_proyecto": "2-s2.0-105014027137",
+    "campo_origen": "resumen",
+    "texto": "Qualitative transformations were observed both in the player experience and within the largely male development team, as the participatory process fostered ongoing learning and co-creation. The outcomes support the value of participatory design in generating inclusive and representative video game content, highlighting the narrative and pedagogical potential of medium-specific elements while emphasizing the empowerment and participation of historically excluded communities as a reference for future projects.",
+    "idioma": "en"
+  },
+  {
+    "id_fragmento": "2-s2.0-105014027137::palabras_clave::9",
+    "id_proyecto": "2-s2.0-105014027137",
+    "campo_origen": "palabras_clave",
+    "texto": "critical video games | feminist pedagogy | participatory design | sexual harassment | video game design",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-105014027137::nombre_revista_libro::10",
+    "id_proyecto": "2-s2.0-105014027137",
+    "campo_origen": "nombre_revista_libro",
+    "texto": "Frontiers in Sociology",
+    "idioma": "en"
+  },
+  {
+    "id_fragmento": "2-s2.0-105014027137::fuente::11",
+    "id_proyecto": "2-s2.0-105014027137",
+    "campo_origen": "fuente",
+    "texto": "Scopus | CvLAC | Google Scholar",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-105014027137::coautores::12",
+    "id_proyecto": "2-s2.0-105014027137",
+    "campo_origen": "coautores",
+    "texto": "Torres-Parra, Carlos Roberto; Florez-Florez, Maria Juliana; Cuervo, Roberto; Ramírez-Pérez, Omar Fernando; Fonseca, Oscar",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-105014027137::afiliacion_coautores::13",
+    "id_proyecto": "2-s2.0-105014027137",
+    "campo_origen": "afiliacion_coautores",
+    "texto": "Pontificia Universidad Javeriana",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-105014027137::pais_coautores::14",
+    "id_proyecto": "2-s2.0-105014027137",
+    "campo_origen": "pais_coautores",
+    "texto": "Colombia",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-105014099823::facultad::1",
+    "id_proyecto": "2-s2.0-105014099823",
+    "campo_origen": "facultad",
+    "texto": "PSICOLOGÍA",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-105014099823::programa_creacion::2",
+    "id_proyecto": "2-s2.0-105014099823",
+    "campo_origen": "programa_creacion",
+    "texto": "Tanda Mega Prime",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-105014099823::tipo_documental::3",
+    "id_proyecto": "2-s2.0-105014099823",
+    "campo_origen": "tipo_documental",
+    "texto": "ARTICLE",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-105014099823::investigador_docente::4",
+    "id_proyecto": "2-s2.0-105014099823",
+    "campo_origen": "investigador_docente",
+    "texto": "Garcia Olaya, Yors Alexander",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-105014099823::anio::5",
+    "id_proyecto": "2-s2.0-105014099823",
+    "campo_origen": "anio",
+    "texto": "2025",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-105014099823::nombre_producto::6",
+    "id_proyecto": "2-s2.0-105014099823",
+    "campo_origen": "nombre_producto",
+    "texto": "Enhancing medication adherence, depression, and values-based behaviors in HIV-positive individuals through acceptance and commitment therapy: A pilot study",
+    "idioma": "en"
+  },
+  {
+    "id_fragmento": "2-s2.0-105014099823::resumen::7",
+    "id_proyecto": "2-s2.0-105014099823",
+    "campo_origen": "resumen",
+    "texto": "This pilot study evaluated the impact of the Acceptance and Commitment Therapy (ACT) matrix on values-driven behaviors, medication adherence, viral load, and depression among individuals living with HIV in a middle-income country. A randomized, non-concurrent multiple baseline design across four participants was employed. Outcomes were assessed at baseline, post-intervention, and follow-up, with daily tracking of values-driven behaviors and medication adherence throughout. Participants underwent a 7-session ACT matrix training. Results revealed increases in values-driven behaviors and improvements in medication adherence across all participants. Viral loads decreased for three participants, with two achieving undetectable levels. Depression scores improved for three participants, with changes sustained through follow-up.",
+    "idioma": "en"
+  },
+  {
+    "id_fragmento": "2-s2.0-105014099823::resumen::8",
+    "id_proyecto": "2-s2.0-105014099823",
+    "campo_origen": "resumen",
+    "texto": "Participants described the intervention as acceptable and relevant to addressing adherence barriers and mental health concerns. Findings underscore the potential for ACT to enhance antiretroviral adherence and psychological outcomes in middle-income countries, offering a scalable, culturally adaptable intervention for improving HIV care.",
+    "idioma": "en"
+  },
+  {
+    "id_fragmento": "2-s2.0-105014099823::palabras_clave::9",
+    "id_proyecto": "2-s2.0-105014099823",
+    "campo_origen": "palabras_clave",
+    "texto": "Acceptance and commitment therapy | ACT matrix | Depression | HIV | Medication adherence | Psychological flexibility | Values-based behavior",
+    "idioma": "en"
+  },
+  {
+    "id_fragmento": "2-s2.0-105014099823::nombre_revista_libro::10",
+    "id_proyecto": "2-s2.0-105014099823",
+    "campo_origen": "nombre_revista_libro",
+    "texto": "Journal of Contextual Behavioral Science",
+    "idioma": "en"
+  },
+  {
+    "id_fragmento": "2-s2.0-105014099823::fuente::11",
+    "id_proyecto": "2-s2.0-105014099823",
+    "campo_origen": "fuente",
+    "texto": "Scopus | Google Scholar",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-105014099823::coautores::12",
+    "id_proyecto": "2-s2.0-105014099823",
+    "campo_origen": "coautores",
+    "texto": "Téllez, Mariana; García, Yors",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-105014099823::afiliacion_coautores::13",
+    "id_proyecto": "2-s2.0-105014099823",
+    "campo_origen": "afiliacion_coautores",
+    "texto": "Pontificia Universidad Javeriana; Hospital Universitario San Ignacio",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-105014099823::pais_coautores::14",
+    "id_proyecto": "2-s2.0-105014099823",
+    "campo_origen": "pais_coautores",
+    "texto": "Colombia",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-105020034198::facultad::1",
+    "id_proyecto": "2-s2.0-105020034198",
+    "campo_origen": "facultad",
+    "texto": "MEDICINA",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-105020034198::programa_creacion::2",
+    "id_proyecto": "2-s2.0-105020034198",
+    "campo_origen": "programa_creacion",
+    "texto": "Visita Psiquiatria",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-105020034198::tipo_documental::3",
+    "id_proyecto": "2-s2.0-105020034198",
+    "campo_origen": "tipo_documental",
+    "texto": "ARTICLE",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-105020034198::investigador_docente::4",
+    "id_proyecto": "2-s2.0-105020034198",
+    "campo_origen": "investigador_docente",
+    "texto": "Gomez Restrepo, Carlos",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-105020034198::anio::5",
+    "id_proyecto": "2-s2.0-105020034198",
+    "campo_origen": "anio",
+    "texto": "2023",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-105020034198::nombre_producto::6",
+    "id_proyecto": "2-s2.0-105020034198",
+    "campo_origen": "nombre_producto",
+    "texto": "Development and Implementation of DIALOG+S in the School Setting as a Tool for Promoting Adolescent Mental Well-Being and Resilience in a Post–Armed Conflict Area in Colombia: Exploratory Cluster Randomized Controlled Trial",
+    "idioma": "en"
+  },
+  {
+    "id_fragmento": "2-s2.0-105020034198::resumen::7",
+    "id_proyecto": "2-s2.0-105020034198",
+    "campo_origen": "resumen",
+    "texto": "Background: Educational settings are ideal for promoting mental well-being and resilience in children. The challenges of the COVID-19 pandemic made evident the important role that teachers and school counselors play in the mental health of their students. Therefore, it is imperative to develop and implement cost-effective interventions that allow them to identify and address mental health problems early, especially in post–armed conflict areas, to reduce the burden of mental disorders in this population. Objective: This study aimed to adapt an existing patient-focused digital intervention called DIALOG+ from an adult clinical setting to an adolescent educational setting and to assess the feasibility, acceptability, and estimated effect of implementing this intervention as a tool for promoting quality of life, mental well-being, and resilience.",
+    "idioma": "en"
+  },
+  {
+    "id_fragmento": "2-s2.0-105020034198::resumen::8",
+    "id_proyecto": "2-s2.0-105020034198",
+    "campo_origen": "resumen",
+    "texto": "Methods: We conducted an exploratory mixed methods study in 2 public schools in postconflict areas in Tolima, Colombia. This study was conducted in 3 phases. In the adaptation phase, focus groups were conducted with students and teachers to identify changes required in DIALOG+ for it to be used in the school setting. The exploration phase consisted of an exploratory cluster randomized controlled trial. A total of 14 clusters, each with 1 teacher and 5 students, were randomly allocated to either the experimental (DIALOG+S) group or to an active control group (counseling as usual). Teachers in both groups delivered the intervention once a month for 6 months. Through screening scales, information was collected on mental health symptoms, quality of life, self-esteem, resilience, and family functionality before and after the intervention.",
+    "idioma": "en"
+  },
+  {
+    "id_fragmento": "2-s2.0-105020034198::resumen::9",
+    "id_proyecto": "2-s2.0-105020034198",
+    "campo_origen": "resumen",
+    "texto": "Finally, the consolidation phase explored the experiences of teachers and students with DIALOG+S using focus group discussions. Results: The changes suggested by participants in the adaptation phase highlighted the central importance of the school setting in the mental health of adolescents. In the exploratory phase, 70 participants with a mean age of 14.69 (SD 2.13) years were included. Changes observed in the screening scale scores of the intervention group suggest that the DIALOG+S intervention has the potential to improve aspects of mental health, especially quality of life, resilience, and emotional symptoms. The consolidation phase showed that stakeholders felt that using this intervention in the school setting was feasible, acceptable, and an enriching experience that generated changes in the perceived mental health and behavior of participants.",
+    "idioma": "en"
+  },
+  {
+    "id_fragmento": "2-s2.0-105020034198::resumen::10",
+    "id_proyecto": "2-s2.0-105020034198",
+    "campo_origen": "resumen",
+    "texto": "Conclusions: Our results are encouraging and show that the DIALOG+S intervention is feasible and acceptable as a promising opportunity to promote well-being and prevent and identify mental health problems in the school context in a postconflict area in Colombia. Larger, fully powered studies are warranted to properly assess the efficacy and potential impact of the intervention and to refine implementation plans. Trial Registration: International Standard Randomised Controlled Trial Number (ISRCTN) registry ISRCTN14396374; https://www.isrctn.com/ISRCTN14396374",
+    "idioma": "en"
+  },
+  {
+    "id_fragmento": "2-s2.0-105020034198::palabras_clave::11",
+    "id_proyecto": "2-s2.0-105020034198",
+    "campo_origen": "palabras_clave",
+    "texto": "adolescents | armed conflict | DIALOG+ | DIALOG+S | digital intervention | mental health | mobile phone | psychosocial intervention | school",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-105020034198::nombre_revista_libro::12",
+    "id_proyecto": "2-s2.0-105020034198",
+    "campo_origen": "nombre_revista_libro",
+    "texto": "Jmir Formative Research",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-105020034198::fuente::13",
+    "id_proyecto": "2-s2.0-105020034198",
+    "campo_origen": "fuente",
+    "texto": "Scopus",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-105020034198::coautores::14",
+    "id_proyecto": "2-s2.0-105020034198",
+    "campo_origen": "coautores",
+    "texto": "Gómez-Restrepo, Carlos; Sarmiento-Suárez, María José; Alba-Saavedra, Magda; Calvo-Valderrama, Maria Gabriela; Rincón-Rodríguez, Carlos Javier; Bird, Victoria Jane; Priebe, Stefan; van Loggerenberg, Francois",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-105020034198::afiliacion_coautores::15",
+    "id_proyecto": "2-s2.0-105020034198",
+    "campo_origen": "afiliacion_coautores",
+    "texto": "Barts and The London School of Medicine and Dentistry; Hospital Universitario San Ignacio; East London NHS Foundation Trust; Universidad Javeriana Facultad de Medicina",
+    "idioma": "mixto"
+  },
+  {
+    "id_fragmento": "2-s2.0-105020034198::pais_coautores::16",
+    "id_proyecto": "2-s2.0-105020034198",
+    "campo_origen": "pais_coautores",
+    "texto": "United Kingdom; Colombia",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-85049317946::facultad::1",
+    "id_proyecto": "2-s2.0-85049317946",
+    "campo_origen": "facultad",
+    "texto": "INGENIERÍA",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-85049317946::programa_creacion::2",
+    "id_proyecto": "2-s2.0-85049317946",
+    "campo_origen": "programa_creacion",
+    "texto": "Inge Abril",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-85049317946::tipo_documental::3",
+    "id_proyecto": "2-s2.0-85049317946",
+    "campo_origen": "tipo_documental",
+    "texto": "ARTICLE",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-85049317946::investigador_docente::4",
+    "id_proyecto": "2-s2.0-85049317946",
+    "campo_origen": "investigador_docente",
+    "texto": "Colorado Montaño, Julian David",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-85049317946::anio::5",
+    "id_proyecto": "2-s2.0-85049317946",
+    "campo_origen": "anio",
+    "texto": "2018",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-85049317946::nombre_producto::6",
+    "id_proyecto": "2-s2.0-85049317946",
+    "campo_origen": "nombre_producto",
+    "texto": "Monitoring air pollution by combining a static infrastructure with a participatory sensing approach: Design and performance evaluation",
+    "idioma": "en"
+  },
+  {
+    "id_fragmento": "2-s2.0-85049317946::resumen::7",
+    "id_proyecto": "2-s2.0-85049317946",
+    "campo_origen": "resumen",
+    "texto": "Participatory Sensing (PS) is a new fast-growing sensing approach that involves the participation of mobile phone users, and the corresponding communication infrastructure, to create a large-scale monitoring system. Using PS-based system makes it possible to measure and detect variables and events with an improvement in spatial and time resolution over traditional monitoring system. Pollution-Spots proposes an air pollution monitoring solution by means of using an infrastructure of fixed low-cost sensing devices, and reporting the measurements using a PS approach. The sensing devices acquire the variables and the pedestrian forwards this information, completing the cycle with no extra cost of data transport and/or human resources.",
+    "idioma": "en"
+  },
+  {
+    "id_fragmento": "2-s2.0-85049317946::resumen::8",
+    "id_proyecto": "2-s2.0-85049317946",
+    "campo_origen": "resumen",
+    "texto": "However, including humans to the sensing loop, rises new challenges, such as protecting user private data, motivating user's participation, and reducing mobile phone's power consumption, all while maintaining the quality of the collected data. Pollution-Spots proposes a combined algorithm that protects the participant's private information and also implements a gamification technique to encourage the participation without any monetary reward. The proposed system has proven to be energy efficient when compared to similar approaches, with the additional benefit of considering the quality of the collected information, which is normally affected by privacy protection algorithms.",
+    "idioma": "en"
+  },
+  {
+    "id_fragmento": "2-s2.0-85049317946::palabras_clave::9",
+    "id_proyecto": "2-s2.0-85049317946",
+    "campo_origen": "palabras_clave",
+    "texto": "Air pollution | Incentives | Participatory sensing | Privacy protection",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-85049317946::nombre_revista_libro::10",
+    "id_proyecto": "2-s2.0-85049317946",
+    "campo_origen": "nombre_revista_libro",
+    "texto": "International Journal of Sustainable Development and Planning",
+    "idioma": "en"
+  },
+  {
+    "id_fragmento": "2-s2.0-85049317946::fuente::11",
+    "id_proyecto": "2-s2.0-85049317946",
+    "campo_origen": "fuente",
+    "texto": "Scopus | CvLAC",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-85049317946::coautores::12",
+    "id_proyecto": "2-s2.0-85049317946",
+    "campo_origen": "coautores",
+    "texto": "Mendez, Diego; Colorado, Julian; Rodriguez, Laura; Chacon, Andres; Hernandez, Mateo",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-85049317946::afiliacion_coautores::13",
+    "id_proyecto": "2-s2.0-85049317946",
+    "campo_origen": "afiliacion_coautores",
+    "texto": "Pontificia Universidad Javeriana",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-85049317946::pais_coautores::14",
+    "id_proyecto": "2-s2.0-85049317946",
+    "campo_origen": "pais_coautores",
+    "texto": "Colombia",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-85049317946::financiadores::15",
+    "id_proyecto": "2-s2.0-85049317946",
+    "campo_origen": "financiadores",
+    "texto": "Universidad de la República Uruguay",
+    "idioma": "es"
+  },
+  {
+    "id_fragmento": "2-s2.0-85131371279::facultad::1",
+    "id_proyecto": "2-s2.0-85131371279",
+    "campo_origen": "facultad",
+    "texto": "MEDICINA",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-85131371279::programa_creacion::2",
+    "id_proyecto": "2-s2.0-85131371279",
+    "campo_origen": "programa_creacion",
+    "texto": "Mega Prime Medicina",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-85131371279::tipo_documental::3",
+    "id_proyecto": "2-s2.0-85131371279",
+    "campo_origen": "tipo_documental",
+    "texto": "ARTICLE",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-85131371279::investigador_docente::4",
+    "id_proyecto": "2-s2.0-85131371279",
+    "campo_origen": "investigador_docente",
+    "texto": "Cano Gutierrez, Carlos Alberto",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-85131371279::anio::5",
+    "id_proyecto": "2-s2.0-85131371279",
+    "campo_origen": "anio",
+    "texto": "2022",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-85131371279::nombre_producto::6",
+    "id_proyecto": "2-s2.0-85131371279",
+    "campo_origen": "nombre_producto",
+    "texto": "A nutritionally focused program for community-living older adults resulted in improved health and well-being",
+    "idioma": "en"
+  },
+  {
+    "id_fragmento": "2-s2.0-85131371279::resumen::7",
+    "id_proyecto": "2-s2.0-85131371279",
+    "campo_origen": "resumen",
+    "texto": "Objectives: Among older adults, malnutrition is common and is associated with increased risk for impaired health and functionality, conditions further associated with poorer quality of life. In this study of community-living older adults, our objective was to quantify outcome changes following identification and treatment of malnutrition or its risk. Design: Our intervention was a nutritional quality improvement program (QIP). The nutritional QIP included: (i) education of participants about the importance of complete and balanced macro- and micronutrient intake plus physical exercise, (ii) nutritional intervention with dietary counseling; and (iii) provision of oral nutritional supplements (ONS) for daily intake over 60 days. Follow-up measurements took place 30 days after ONS treatment ended, i.e., 90 days after start of intervention.",
+    "idioma": "en"
+  },
+  {
+    "id_fragmento": "2-s2.0-85131371279::resumen::8",
+    "id_proyecto": "2-s2.0-85131371279",
+    "campo_origen": "resumen",
+    "texto": "Setting and participants: We recruited 618 transitional-care, chronically ill, older adults (>60 years) with malnutrition/risk (per Mini Nutrition Assessment-Short Form, MNA-SF) from the outpatient clinic of Hospital Universitario San Ignacio, in Bogotá, Colombia. Methods: For pre-post comparisons, we examined cognition (Mini-Mental State Exam, MMSE), physical abilities (Barthel Activities of Daily Living, ADL; Short Physical Performance Battery, SPPB), affective disorder status (Global Depression Scale, GDS), and quality of life (QoL; EuroQoL-5D-3L, EQ-5D-3L; EuroQoL-Visual Analog Scale, EQ-VAS). Results: Participants were mean age 74.1 ± 8.7 y, female majority (69.4%), and had an average of 2.6 comorbidities with cardiovascular and respiratory diseases predominant (28.5%).",
+    "idioma": "en"
+  },
+  {
+    "id_fragmento": "2-s2.0-85131371279::resumen::9",
+    "id_proyecto": "2-s2.0-85131371279",
+    "campo_origen": "resumen",
+    "texto": "QIP-based nutritional intervention led to significant improvements in cognitive (MMSE) and physical functions (ADL and SPPB), affective disorder status (GDS), and health-related quality of life (EQ-VAS); all differences (P < 0.001). Self-reported QoL (EQ-5D-3L) also improved. Conclusions and implications: Over 90 days, the nutritional QIP led to improvements in all measured outcomes, thus highlighting the importance of addressing malnutrition or its risk among community-living older adults. From a patient's perspective, maintaining mental and physical function are important and further linked with quality of life. Brief summary: For older, community-living adults, nutrition care can improve health and well-being outcomes. Care includes screening for malnutrition risk, dietary and exercise counseling, and daily nutritional supplements when needed.",
+    "idioma": "en"
+  },
+  {
+    "id_fragmento": "2-s2.0-85131371279::resumen::10",
+    "id_proyecto": "2-s2.0-85131371279",
+    "campo_origen": "resumen",
+    "texto": "ClinicalTrials.gov Identifier: NCT04042987.",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-85131371279::palabras_clave::11",
+    "id_proyecto": "2-s2.0-85131371279",
+    "campo_origen": "palabras_clave",
+    "texto": "Activities of daily living | Functionality | Nutrition | Older adults | Oral nutritional supplement | Quality of life",
+    "idioma": "en"
+  },
+  {
+    "id_fragmento": "2-s2.0-85131371279::nombre_revista_libro::12",
+    "id_proyecto": "2-s2.0-85131371279",
+    "campo_origen": "nombre_revista_libro",
+    "texto": "Clinical Nutrition",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-85131371279::fuente::13",
+    "id_proyecto": "2-s2.0-85131371279",
+    "campo_origen": "fuente",
+    "texto": "Scopus",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-85131371279::coautores::14",
+    "id_proyecto": "2-s2.0-85131371279",
+    "campo_origen": "coautores",
+    "texto": "Gomez, Gabriel; Botero-Rodríguez, Felipe; Misas, Juan Diego; Garcia-Cifuentes, Elkin; Sulo, Suela; Brunton, Cory; Venegas-Sanabria, Luis Carlos; Gracia, Daniela Alejandra; Cano Gutierrez, Carlos Alberto",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-85131371279::afiliacion_coautores::15",
+    "id_proyecto": "2-s2.0-85131371279",
+    "campo_origen": "afiliacion_coautores",
+    "texto": "Hospital Universitario Mayor Méderi; Pontificia Universidad Javeriana; Universidad del Rosario; Hospital Universitario San Ignacio; Abbott Laboratories, Bogotá; Abbott Laboratories, Abbott Park; Abbott Laboratories, Columbus",
+    "idioma": "es"
+  },
+  {
+    "id_fragmento": "2-s2.0-85131371279::pais_coautores::16",
+    "id_proyecto": "2-s2.0-85131371279",
+    "campo_origen": "pais_coautores",
+    "texto": "Colombia; United States",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-85131371279::financiadores::17",
+    "id_proyecto": "2-s2.0-85131371279",
+    "campo_origen": "financiadores",
+    "texto": "Abbott Laboratories",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-85213377303::facultad::1",
+    "id_proyecto": "2-s2.0-85213377303",
+    "campo_origen": "facultad",
+    "texto": "ESTUDIOS AMBIENTALES Y RURALES",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-85213377303::programa_creacion::2",
+    "id_proyecto": "2-s2.0-85213377303",
+    "campo_origen": "programa_creacion",
+    "texto": "Visita FEAR",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-85213377303::tipo_documental::3",
+    "id_proyecto": "2-s2.0-85213377303",
+    "campo_origen": "tipo_documental",
+    "texto": "ARTICLE",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-85213377303::investigador_docente::4",
+    "id_proyecto": "2-s2.0-85213377303",
+    "campo_origen": "investigador_docente",
+    "texto": "Echeverry Galvis, María Angela",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-85213377303::anio::5",
+    "id_proyecto": "2-s2.0-85213377303",
+    "campo_origen": "anio",
+    "texto": "2024",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-85213377303::nombre_producto::6",
+    "id_proyecto": "2-s2.0-85213377303",
+    "campo_origen": "nombre_producto",
+    "texto": "Software codesign between end users and developers to enhance utility for biodiversity conservation",
+    "idioma": "en"
+  },
+  {
+    "id_fragmento": "2-s2.0-85213377303::resumen::7",
+    "id_proyecto": "2-s2.0-85213377303",
+    "campo_origen": "resumen",
+    "texto": "Creating software tools that address the needs of a wide range of decision-makers requires the inclusion of differing perspectives throughout the development process. Software tools for biodiversity conservation often fall short in this regard, partly because broad decision-maker needs may exceed the toolkits of single research groups or even institutions. We show that participatory, collaborative codesign enhances the utility of software tools for better decision-making in biodiversity conservation planning, as demonstrated by our experiences developing a set of integrated tools in Colombia. Specifically, we undertook an interdisciplinary, multi-institutional collaboration of ecological modelers, software engineers, and a diverse profile of potential end users, including decision-makers, conservation practitioners, and biodiversity experts.",
+    "idioma": "en"
+  },
+  {
+    "id_fragmento": "2-s2.0-85213377303::resumen::8",
+    "id_proyecto": "2-s2.0-85213377303",
+    "campo_origen": "resumen",
+    "texto": "We leveraged and modified common paradigms of software production, including codesign and agile development, to facilitate collaboration through all stages (including conceptualization, development, testing, and feedback) to ensure the accessibility and applicability of the new tools to inform decision-making for biodiversity conservation planning.",
+    "idioma": "en"
+  },
+  {
+    "id_fragmento": "2-s2.0-85213377303::palabras_clave::9",
+    "id_proyecto": "2-s2.0-85213377303",
+    "campo_origen": "palabras_clave",
+    "texto": "applied ecology | biodiversity | biogeography | conservation | informatics",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-85213377303::nombre_revista_libro::10",
+    "id_proyecto": "2-s2.0-85213377303",
+    "campo_origen": "nombre_revista_libro",
+    "texto": "Bioscience",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-85213377303::fuente::11",
+    "id_proyecto": "2-s2.0-85213377303",
+    "campo_origen": "fuente",
+    "texto": "Scopus | Google Scholar",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-85213377303::coautores::12",
+    "id_proyecto": "2-s2.0-85213377303",
+    "campo_origen": "coautores",
+    "texto": "Blair, Mary E.; Noguera-Urbano, Elkin A.; Ochoa-Quintero, Jose Manuel; Paz, Andrea; Lopez-Gallego, Cristina; Echeverry-Galvis, María Ángela; Zuloaga, Juan; Rodríguez, Pilar; Lemus-Mejia, Leonardo; Ersts, Peter; López-Lozano, Daniel F.; Aiello-Lammens, Matthew E.; Arango, Hector M.; Buitrago, Leonardo; Chang Triguero, Samuel; Cruz-Rodríguez, Cristian A.; Díaz-Nieto, Juan F.; Escobar, Dairo; Grisales-Betancur, Valentina; Johnson, Bethany A.; Kass, Jamie M.; Londoño-Murcia, María C.; Merow, Cory; Muñoz-Rodríguez, Carlos J.; Olaya-Rodríguez, María Helena; Parra, Juan L.; Pinilla-Buitrago, Gonzalo E.; Roach, Nicolette S.; Rojas-Soto, Octavio; Roncancio-Duque, Néstor; Suárez-Valencia, Erika; Urbina-Cardona, J. Nicolás; Velásquez-Tibatá, Jorge; Zapata-Martinez, Camilo A.; Anderson, Robert P.",
+    "idioma": "en"
+  },
+  {
+    "id_fragmento": "2-s2.0-85213377303::afiliacion_coautores::13",
+    "id_proyecto": "2-s2.0-85213377303",
+    "campo_origen": "afiliacion_coautores",
+    "texto": "Université McGill; National Audubon Society; Instituto Amazónico de Investigaciones Científicas-Sinchi; Parque Nacional Natural Las Hermosas; Instituto de Ecología, A.C.; Texas A&M University; University of Connecticut; Tohoku University; The City University of New York; El Globo Nature Reserve; Universidad EAFIT; Universidad Nacional de Colombia; American Museum of Natural History; Instituto de Investigación de Recursos Biológicos Alexander von Humboldt; ETH Zürich; University of Montreal; Universidad de Antioquia; Pontificia Universidad Javeriana; Comisión Nacional para el Conocimiento y Uso de la Biodiversidad; ProCAT Colombia; Pace University; Global Biodiversity Information Facility; Independent Researcher",
+    "idioma": "mixto"
+  },
+  {
+    "id_fragmento": "2-s2.0-85213377303::pais_coautores::14",
+    "id_proyecto": "2-s2.0-85213377303",
+    "campo_origen": "pais_coautores",
+    "texto": "Canada; United States; Japan; Colombia; Mexico; Switzerland;",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-85213377303::financiadores::15",
+    "id_proyecto": "2-s2.0-85213377303",
+    "campo_origen": "financiadores",
+    "texto": "National Aeronautics and Space Administración | National Science Foundation",
+    "idioma": "en"
+  },
+  {
+    "id_fragmento": "2-s2.0-85213954883::facultad::1",
+    "id_proyecto": "2-s2.0-85213954883",
+    "campo_origen": "facultad",
+    "texto": "INGENIERÍA",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-85213954883::programa_creacion::2",
+    "id_proyecto": "2-s2.0-85213954883",
+    "campo_origen": "programa_creacion",
+    "texto": "Inge Arte",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-85213954883::tipo_documental::3",
+    "id_proyecto": "2-s2.0-85213954883",
+    "campo_origen": "tipo_documental",
+    "texto": "CONFERENCE PAPER",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-85213954883::investigador_docente::4",
+    "id_proyecto": "2-s2.0-85213954883",
+    "campo_origen": "investigador_docente",
+    "texto": "Pavlich Mariscal, Jaime Andres",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-85213954883::anio::5",
+    "id_proyecto": "2-s2.0-85213954883",
+    "campo_origen": "anio",
+    "texto": "2024",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-85213954883::nombre_producto::6",
+    "id_proyecto": "2-s2.0-85213954883",
+    "campo_origen": "nombre_producto",
+    "texto": "Estudia: A Recommendation System for Higher Education Career Choice",
+    "idioma": "en"
+  },
+  {
+    "id_fragmento": "2-s2.0-85213954883::resumen::7",
+    "id_proyecto": "2-s2.0-85213954883",
+    "campo_origen": "resumen",
+    "texto": "This paper presents a mobile application, called Estudia, to establish a closer connection between higher education institutions and individuals, considering their social and territorial context, interests, and skills. This application is expected to serve as a professional guidance tool for Colombians students interested in enrolling in technical academic programs. Estudia utilizes user information to suggest programs near their place of residence, providing a personalized offer that suits their specific characteristics and needs. This paper describes Estudia's User Model tailored to the students' characteristics and contexts, and academic programs. This paper also describes the design and implementation of the application in a functional prototype, along with tests and validations conducted with real users.",
+    "idioma": "en"
+  },
+  {
+    "id_fragmento": "2-s2.0-85213954883::nombre_revista_libro::8",
+    "id_proyecto": "2-s2.0-85213954883",
+    "campo_origen": "nombre_revista_libro",
+    "texto": "Communications in Computer and Information Science",
+    "idioma": "en"
+  },
+  {
+    "id_fragmento": "2-s2.0-85213954883::fuente::9",
+    "id_proyecto": "2-s2.0-85213954883",
+    "campo_origen": "fuente",
+    "texto": "Scopus",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-85213954883::coautores::10",
+    "id_proyecto": "2-s2.0-85213954883",
+    "campo_origen": "coautores",
+    "texto": "Paez-Ramos, Miguel A.; Carrillo-Ramos, Angela; Pavlich-Mariscal, Jaime A.",
+    "idioma": "en"
+  },
+  {
+    "id_fragmento": "2-s2.0-85213954883::afiliacion_coautores::11",
+    "id_proyecto": "2-s2.0-85213954883",
+    "campo_origen": "afiliacion_coautores",
+    "texto": "Pontificia Universidad Javeriana",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-85213954883::pais_coautores::12",
+    "id_proyecto": "2-s2.0-85213954883",
+    "campo_origen": "pais_coautores",
+    "texto": "Colombia",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "titulo_anio:modelo de referencia para la deteccion de eventos de contaminacion industrial basado en una red de sensores [a reference model for detection of industrial pollution events based on a sensors network|2016::facultad::1",
+    "id_proyecto": "titulo_anio:modelo de referencia para la deteccion de eventos de contaminacion industrial basado en una red de sensores [a reference model for detection of industrial pollution events based on a sensors network|2016",
+    "campo_origen": "facultad",
+    "texto": "INGENIERÍA",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "titulo_anio:modelo de referencia para la deteccion de eventos de contaminacion industrial basado en una red de sensores [a reference model for detection of industrial pollution events based on a sensors network|2016::programa_creacion::2",
+    "id_proyecto": "titulo_anio:modelo de referencia para la deteccion de eventos de contaminacion industrial basado en una red de sensores [a reference model for detection of industrial pollution events based on a sensors network|2016",
+    "campo_origen": "programa_creacion",
+    "texto": "Inge Arte",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "titulo_anio:modelo de referencia para la deteccion de eventos de contaminacion industrial basado en una red de sensores [a reference model for detection of industrial pollution events based on a sensors network|2016::tipo_documental::3",
+    "id_proyecto": "titulo_anio:modelo de referencia para la deteccion de eventos de contaminacion industrial basado en una red de sensores [a reference model for detection of industrial pollution events based on a sensors network|2016",
+    "campo_origen": "tipo_documental",
+    "texto": "ARTÍCULO",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "titulo_anio:modelo de referencia para la deteccion de eventos de contaminacion industrial basado en una red de sensores [a reference model for detection of industrial pollution events based on a sensors network|2016::investigador_docente::4",
+    "id_proyecto": "titulo_anio:modelo de referencia para la deteccion de eventos de contaminacion industrial basado en una red de sensores [a reference model for detection of industrial pollution events based on a sensors network|2016",
+    "campo_origen": "investigador_docente",
+    "texto": "Ruiz Garcia, Edgar Enrique",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "titulo_anio:modelo de referencia para la deteccion de eventos de contaminacion industrial basado en una red de sensores [a reference model for detection of industrial pollution events based on a sensors network|2016::anio::5",
+    "id_proyecto": "titulo_anio:modelo de referencia para la deteccion de eventos de contaminacion industrial basado en una red de sensores [a reference model for detection of industrial pollution events based on a sensors network|2016",
+    "campo_origen": "anio",
+    "texto": "2016",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "titulo_anio:modelo de referencia para la deteccion de eventos de contaminacion industrial basado en una red de sensores [a reference model for detection of industrial pollution events based on a sensors network|2016::nombre_producto::6",
+    "id_proyecto": "titulo_anio:modelo de referencia para la deteccion de eventos de contaminacion industrial basado en una red de sensores [a reference model for detection of industrial pollution events based on a sensors network|2016",
+    "campo_origen": "nombre_producto",
+    "texto": "Modelo de referencia para la detección de eventos de contaminación industrial basado en una red de sensores [A reference model for detection of industrial pollution events based on a sensors network",
+    "idioma": "mixto"
+  },
+  {
+    "id_fragmento": "titulo_anio:modelo de referencia para la deteccion de eventos de contaminacion industrial basado en una red de sensores [a reference model for detection of industrial pollution events based on a sensors network|2016::resumen::7",
+    "id_proyecto": "titulo_anio:modelo de referencia para la deteccion de eventos de contaminacion industrial basado en una red de sensores [a reference model for detection of industrial pollution events based on a sensors network|2016",
+    "campo_origen": "resumen",
+    "texto": "La contaminación industrial es un aspecto que está afectando en forma importante la sostenibilidad del planeta. Para poder manejar la contaminación, el primer paso es detectarla tan pronto como ésta ocurra, de ahí la importancia de la recolección oportuna de datos. Actualmente la tecnología nos da un gran soporte para esta tarea porque se cuenta con redes de sensores que, al estar en el ambiente, permiten recolectar grandes cantidades de datos. Si estos datos son procesados de forma adecuada, pueden ayudar en la detección temprana de focos de contaminación. No obstante, hay que enfrentar el problema de manejar de forma efectiva una gran cantidad de datos provenientes de dispositivos heterogéneos, que incluyen tanto a los sensores tradicionales o motas de las redes inalámbricas de sensores, como a los sensores ubicados en teléfonos inteligentes.",
+    "idioma": "mixto"
+  },
+  {
+    "id_fragmento": "titulo_anio:modelo de referencia para la deteccion de eventos de contaminacion industrial basado en una red de sensores [a reference model for detection of industrial pollution events based on a sensors network|2016::resumen::8",
+    "id_proyecto": "titulo_anio:modelo de referencia para la deteccion de eventos de contaminacion industrial basado en una red de sensores [a reference model for detection of industrial pollution events based on a sensors network|2016",
+    "campo_origen": "resumen",
+    "texto": "El manejo de esta heterogeneidad motivó a diseñar un modelo de referencia que sirviera de guía para realizar las funciones de detección, almacenamiento, procesamiento y visualización/publicación de los datos, usando las tecnologías más adecuadas. La idea es que este modelo de referencia pueda posteriormente ser instanciado con componentes de hardware y software específicos, que respondan a las necesidades de determinadas empresas o entes gubernamentales, interesados en tomar acciones preventivas o correctivas sobre la contaminación ambiental. En este artículo se presenta el modelo de referencia propuesto y se describe un prototipo que instancia este modelo. El prototipo desarrollado está enfocado en la medición de la contaminación auditiva en una empresa del sector automotriz en Bogotá.",
+    "idioma": "mixto"
+  },
+  {
+    "id_fragmento": "titulo_anio:modelo de referencia para la deteccion de eventos de contaminacion industrial basado en una red de sensores [a reference model for detection of industrial pollution events based on a sensors network|2016::resumen::9",
+    "id_proyecto": "titulo_anio:modelo de referencia para la deteccion de eventos de contaminacion industrial basado en una red de sensores [a reference model for detection of industrial pollution events based on a sensors network|2016",
+    "campo_origen": "resumen",
+    "texto": "La información obtenida con el prototipo fue utilizada para tomar medidas preventivas para el control de focos de contaminación auditiva por parte de la empresa. Industrial pollution is significantly affecting the sustainability of the planet. A data collection process allows us to review the contamination levels, and take actions in a timely manner. Nowadays wireless sensor networks support the collection of large amounts of environmental data. If these data are properly processed, they can be used in the detection of pollution sources, and in the design of preventive -or corrective- strategies to deal with it. However, this requires to effectively manage large amount of data obtained from heterogeneous devices, including not only data from traditional sensors or motes of wireless sensor networks, but also from sensors within Smartphones.",
+    "idioma": "mixto"
+  },
+  {
+    "id_fragmento": "titulo_anio:modelo de referencia para la deteccion de eventos de contaminacion industrial basado en una red de sensores [a reference model for detection of industrial pollution events based on a sensors network|2016::resumen::10",
+    "id_proyecto": "titulo_anio:modelo de referencia para la deteccion de eventos de contaminacion industrial basado en una red de sensores [a reference model for detection of industrial pollution events based on a sensors network|2016",
+    "campo_origen": "resumen",
+    "texto": "In order to handle this heterogeneity, we design a reference model that serves as a guide to combine the technologies of storage, processing and presentation of the data. This model can then be instantiated with specific hardware and software components that meet the needs of companies or government agencies interested in dealing with environmental pollution. In this article, the proposed reference model is presented, in conjunction with a prototype that can be used to solve problems of noise pollution in an automotive company located in Bogota.",
+    "idioma": "en"
+  },
+  {
+    "id_fragmento": "titulo_anio:modelo de referencia para la deteccion de eventos de contaminacion industrial basado en una red de sensores [a reference model for detection of industrial pollution events based on a sensors network|2016::palabras_clave::11",
+    "id_proyecto": "titulo_anio:modelo de referencia para la deteccion de eventos de contaminacion industrial basado en una red de sensores [a reference model for detection of industrial pollution events based on a sensors network|2016",
+    "campo_origen": "palabras_clave",
+    "texto": "Redes inalámbricas de sensores | Teléfonos inteligentes | Monitorización | Minería de datos | Contaminación industrial | Wireless sensor networks | Smartphones | Monitoring | Data mining | Industrial pollution",
+    "idioma": "es"
+  },
+  {
+    "id_fragmento": "titulo_anio:modelo de referencia para la deteccion de eventos de contaminacion industrial basado en una red de sensores [a reference model for detection of industrial pollution events based on a sensors network|2016::nombre_revista_libro::12",
+    "id_proyecto": "titulo_anio:modelo de referencia para la deteccion de eventos de contaminacion industrial basado en una red de sensores [a reference model for detection of industrial pollution events based on a sensors network|2016",
+    "campo_origen": "nombre_revista_libro",
+    "texto": "Revista GTI",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "titulo_anio:modelo de referencia para la deteccion de eventos de contaminacion industrial basado en una red de sensores [a reference model for detection of industrial pollution events based on a sensors network|2016::fuente::13",
+    "id_proyecto": "titulo_anio:modelo de referencia para la deteccion de eventos de contaminacion industrial basado en una red de sensores [a reference model for detection of industrial pollution events based on a sensors network|2016",
+    "campo_origen": "fuente",
+    "texto": "CvLAC",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "titulo_anio:modelo de referencia para la deteccion de eventos de contaminacion industrial basado en una red de sensores [a reference model for detection of industrial pollution events based on a sensors network|2016::coautores::14",
+    "id_proyecto": "titulo_anio:modelo de referencia para la deteccion de eventos de contaminacion industrial basado en una red de sensores [a reference model for detection of industrial pollution events based on a sensors network|2016",
+    "campo_origen": "coautores",
+    "texto": "Acevedo-Moreno, J. M.; Ruiz-García, E. E.; González-García, R. H.; Curiel-Huerfano, M. J.",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "titulo_anio:modelo de referencia para la deteccion de eventos de contaminacion industrial basado en una red de sensores [a reference model for detection of industrial pollution events based on a sensors network|2016::afiliacion_coautores::15",
+    "id_proyecto": "titulo_anio:modelo de referencia para la deteccion de eventos de contaminacion industrial basado en una red de sensores [a reference model for detection of industrial pollution events based on a sensors network|2016",
+    "campo_origen": "afiliacion_coautores",
+    "texto": "Pontificia Universidad Javeriana; Universidad Sergio Arboleda",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "titulo_anio:modelo de referencia para la deteccion de eventos de contaminacion industrial basado en una red de sensores [a reference model for detection of industrial pollution events based on a sensors network|2016::pais_coautores::16",
+    "id_proyecto": "titulo_anio:modelo de referencia para la deteccion de eventos de contaminacion industrial basado en una red de sensores [a reference model for detection of industrial pollution events based on a sensors network|2016",
+    "campo_origen": "pais_coautores",
+    "texto": "Colombia",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-85107701593::facultad::1",
+    "id_proyecto": "2-s2.0-85107701593",
+    "campo_origen": "facultad",
+    "texto": "MEDICINA",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-85107701593::programa_creacion::2",
+    "id_proyecto": "2-s2.0-85107701593",
+    "campo_origen": "programa_creacion",
+    "texto": "Mega Prime Medicina",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-85107701593::tipo_documental::3",
+    "id_proyecto": "2-s2.0-85107701593",
+    "campo_origen": "tipo_documental",
+    "texto": "ARTICLE",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-85107701593::investigador_docente::4",
+    "id_proyecto": "2-s2.0-85107701593",
+    "campo_origen": "investigador_docente",
+    "texto": "Gomez Medina, Ana Maria",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-85107701593::anio::5",
+    "id_proyecto": "2-s2.0-85107701593",
+    "campo_origen": "anio",
+    "texto": "2021",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-85107701593::nombre_producto::6",
+    "id_proyecto": "2-s2.0-85107701593",
+    "campo_origen": "nombre_producto",
+    "texto": "Is a cloud-based platform useful for diabetes management in Colombia? The Tidepool experience",
+    "idioma": "en"
+  },
+  {
+    "id_fragmento": "2-s2.0-85107701593::resumen::7",
+    "id_proyecto": "2-s2.0-85107701593",
+    "campo_origen": "resumen",
+    "texto": "Background: There are several medical devices used in Colombia for diabetes management, most of which have an associated telemedicine platform to access the data. In this work, we present the results of a pilot study evaluating the use of the Tidepool telemedicine platform for providing remote diabetes health services in Colombia across multiple devices. Method: Individuals with Type 1 and Type 2 diabetes using multiple diabetes devices were recruited to evaluate the user experience with Tidepool over three months. Two endocrinologists used the Tidepool software to maintain a weekly communication with participants reviewing the devices data remotely. Demographic, clinical, psychological and usability data were collected at several stages of the study. Results: Six participants, from ten at the baseline (five MDI and five CSII), completed this pilot study.",
+    "idioma": "en"
+  },
+  {
+    "id_fragmento": "2-s2.0-85107701593::resumen::8",
+    "id_proyecto": "2-s2.0-85107701593",
+    "campo_origen": "resumen",
+    "texto": "Three different diabetes devices were employed by the participants: a glucose meter (Abbot), an intermittently-scanned glucose monitor (Abbot), and an insulin pump (Medtronic). A score of 81.3 in the system usability scale revealed that overall, most participants found the system easy to use, especially the web interface. The system also compared highly favourably against the proprietary platforms. The ability to upload and share data and communicate remotely with the clinicians was raised consistently by participants. Clinicians cited the lockdown imposed by the Covid-19 pandemic as a valuable test for this platform. Inability to upload data from mobile devices was identified as one of the main limitations. Conclusion: Tidepool has the potential to be used as a tool to facilitate remote diabetes care in Colombia.",
+    "idioma": "en"
+  },
+  {
+    "id_fragmento": "2-s2.0-85107701593::resumen::9",
+    "id_proyecto": "2-s2.0-85107701593",
+    "campo_origen": "resumen",
+    "texto": "Users, both participants and clinicians, agreed to recommend the use of platforms like Tidepool to achieve better disease management and communication with the health care team. Some improvements were identified to enhance the user experience.",
+    "idioma": "en"
+  },
+  {
+    "id_fragmento": "2-s2.0-85107701593::palabras_clave::10",
+    "id_proyecto": "2-s2.0-85107701593",
+    "campo_origen": "palabras_clave",
+    "texto": "Colombia | Diabetes management | eHealth | Telemedicine | Usability study",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-85107701593::nombre_revista_libro::11",
+    "id_proyecto": "2-s2.0-85107701593",
+    "campo_origen": "nombre_revista_libro",
+    "texto": "Computer Methods and Programs in Biomedicine",
+    "idioma": "en"
+  },
+  {
+    "id_fragmento": "2-s2.0-85107701593::fuente::12",
+    "id_proyecto": "2-s2.0-85107701593",
+    "campo_origen": "fuente",
+    "texto": "Scopus | CvLAC",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-85107701593::coautores::13",
+    "id_proyecto": "2-s2.0-85107701593",
+    "campo_origen": "coautores",
+    "texto": "León-Vargas, Fabian; Martin, Clare; Garcia-Jaramillo, Maira; Aldea, Arantza; Leal, Yenny; Herrero, Pau; Reyes, Angie; Henao, Diana; Gomez, Ana María",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-85107701593::afiliacion_coautores::14",
+    "id_proyecto": "2-s2.0-85107701593",
+    "campo_origen": "afiliacion_coautores",
+    "texto": "Institut d'Investigació Biomèdica de Girona Dr. Josep Trueta; Universidad EAN; Universidad Antonio Nariño; Hospital Universitario San Ignacio; Imperial College London; Oxford Brookes University",
+    "idioma": "es"
+  },
+  {
+    "id_fragmento": "2-s2.0-85107701593::pais_coautores::15",
+    "id_proyecto": "2-s2.0-85107701593",
+    "campo_origen": "pais_coautores",
+    "texto": "Spain; Colombia; United Kingdom",
+    "idioma": "desconocido"
+  },
+  {
+    "id_fragmento": "2-s2.0-85107701593::financiadores::16",
+    "id_proyecto": "2-s2.0-85107701593",
+    "campo_origen": "financiadores",
+    "texto": "Global Challenges Research Fund Networking Grant Scheme",
+    "idioma": "desconocido"
+  }
+]

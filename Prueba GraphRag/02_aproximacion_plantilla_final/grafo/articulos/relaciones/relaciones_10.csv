@@ -1,0 +1,780 @@
+﻿origen,destino,tipo_relacion,peso,score_semantico,campo_origen
+"INDICADOR::el proyecto incorpora enfoques interdisciplinarios o transdisciplinarios tanto en el planteamiento del problema como en los metodos, tipos de analisis y perspectivas conceptuales utilizadas.",CATEGORIA_INDICADOR::condiciones_colaboracion,PERTENECE_A,1.0,,
+INDICADOR::el proyecto cuenta con la participacion activa y significativa de actores externos (academicos y/o no academicos) en distintas etapas del proceso investigativo.,CATEGORIA_INDICADOR::condiciones_colaboracion,PERTENECE_A,1.0,,
+"INDICADOR::nivel de participacion efectiva de actores de la comunidad, estado, sociedad o empresa en la formulacion, ejecucion y evaluacion del proyecto.",CATEGORIA_INDICADOR::condiciones_colaboracion,PERTENECE_A,1.0,,
+INDICADOR::el proyecto establece mecanismos para el dialogo de saberes entre actores academicos y otros actores sociales.,CATEGORIA_INDICADOR::apropiacion_social,PERTENECE_A,1.0,,
+"INDICADOR::la solucion generada por el proyecto es usada, adaptada, replicada o sostenida por la comunidad, territorio o entidad beneficiaria.",CATEGORIA_INDICADOR::apropiacion_social,PERTENECE_A,1.0,,
+"INDICADOR::los materiales y productos entregados son pertinentes, comprensibles, de alta calidad y valorados positivamente por los grupos de interes.",CATEGORIA_INDICADOR::apropiacion_social,PERTENECE_A,1.0,,
+INDICADOR::el proyecto desarrolla productos y estrategias eficaces para comunicar el conocimiento generado a publicos no especializados.,CATEGORIA_INDICADOR::divulgacion,PERTENECE_A,1.0,,
+"INDICADOR::numero de productos (comunicados, articulos, blogs, libros, videos, material para redes sociales, entre otros) disenados y utilizados para comunicar los resultados del proyecto a publicos diversos.",CATEGORIA_INDICADOR::divulgacion,PERTENECE_A,1.0,,
+INDICADOR::numero de menciones en medios de comunicacion y redes sociales de los hallazgos del proyecto.,CATEGORIA_INDICADOR::divulgacion,PERTENECE_A,1.0,,
+"INDICADOR::nivel en que los resultados, metodologias o saberes generados por el proyecto son difundidos en formatos comprensibles, abiertos y reutilizables, y en que dichos materiales son efectivamente consultados y aprovechados por publicos diversos.",CATEGORIA_INDICADOR::divulgacion,PERTENECE_A,1.0,,
+INDICADOR::numero de espacios publicos promovidos por el proyecto para debatir la problematica investigativa y social mas alla del ambito academico.,CATEGORIA_INDICADOR::divulgacion,PERTENECE_A,1.0,,
+"INDICADOR::el proyecto fortalece procesos de construccion, preservacion y revitalizacion de la memoria e identidad cultural en comunidades o territorios.",CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+"INDICADOR::el proyecto promueve la conservacion, valorizacion o enriquecimiento del patrimonio cultural, ya sea material o inmaterial.",CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+INDICADOR::mejora en la calidad de vida o bienestar atribuida al proyecto.,CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+"INDICADOR::el proyecto contribuye a consolidar redes de colaboracion y alianzas entre comunidades, organizaciones e instituciones.",CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+"INDICADOR::el proyecto contribuyo a enfrentar desigualdades, exclusion o injusticia, promoviendo justicia social, equidad, inclusion y respeto a los derechos humanos.",CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+INDICADOR::numero de beneficiarios directos e indirectos.,CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+INDICADOR::el proyecto desarrolla productos tecnologicos con participacion de actores no academicos o sectores aplicados.,CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+INDICADOR::el proyecto incluye procesos participativos de validacion tecnologica con usuarios reales.,CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+INDICADOR::los resultados tecnologicos son desarrollados con potencial de comercializacion.,CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+INDICADOR::el proyecto utiliza tecnologia para maximizar el impacto positivo en comunidades o actores destinatarios.,CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+INDICADOR::el proyecto genera desarrollos tecnologicos originales con aplicacion demostrada fuera del ambito academico.,CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+INDICADOR::el proyecto aplica tecnologias preexistentes de forma novedosa y contextualizada para resolver problemas locales.,CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+"INDICADOR::las soluciones tecnologicas generadas por el proyecto son adoptadas, adaptadas o sostenidas por actores de interes externos a la academia.",CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+"INDICADOR::el proyecto genera ingresos adicionales mediante la implementacion, validacion o comercializacion de procesos, metodologias o productos nuevos o mejorados.",CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+INDICADOR::el proyecto logra reducir costos en procesos organizativos o productivos mediante la implementacion de mejoras o innovaciones.,CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+INDICADOR::el proyecto genera nuevas oportunidades laborales directas o indirectas.,CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+INDICADOR::el proyecto fortalece o consolida eslabones clave de la cadena productiva y/o de suministros estrategicos.,CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+INDICADOR::el proyecto contribuye a mejorar practicas productivas sostenibles en los sectores o territorios involucrados.,CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+"INDICADOR::el proyecto impulsa el crecimiento economico de los grupos de interes (medido en tir, ingresos, calidad de vida, etc.).",CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+INDICADOR::el proyecto promueve capacidades productivas mediante la creacion de redes colaborativas o estrategias de economia solidaria.,CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+"INDICADOR::el proyecto desarrolla soluciones ambientales asociadas a servicios ecosistemicos, biodiversidad o sostenibilidad ambiental.",CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+"INDICADOR::el proyecto genera mejoras sostenibles en el entorno ambiental, economico y social de los grupos de interes.",CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+INDICADOR::el proyecto fortalece el bienestar fisico y mental de la poblacion.,CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+INDICADOR::el proyecto contribuye a prevenir riesgos en salud publica.,CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+INDICADOR::el proyecto implementa acciones orientadas a mejorar la calidad de vida de personas en situacion de discapacidad.,CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+INDICADOR::el proyecto desarrolla intervenciones que contribuyeron a disminuir tasas de mortalidad en poblaciones especificas.,CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+INDICADOR::el proyecto fomenta el dialogo y la integracion entre medicina occidental y tradicional/ancestral.,CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+INDICADOR::el proyecto fortalece estrategias participativas de cuidado implementadas por distintos actores sociales.,CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+"INDICADOR::el proyecto facilita la participacion activa de los grupos de interes en procesos de formulacion, monitoreo o evaluacion de politicas publicas o iniciativas de ciencia ciudadana.",CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+"INDICADOR::numero de documentos oficiales (politica publica, leyes, regulaciones o decisiones judiciales) que citan resultados del proyecto.",CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+INDICADOR::numero de politicas publicas o programas gubernamentales modificados o implementados con base en hallazgos del proyecto.,CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+"INDICADOR::numero de manuales, herramientas o metodologias derivadas del proyecto y adoptadas por entidades estatales.",CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+INDICADOR::numero de participaciones del equipo del proyecto en audiencias legislativas o judiciales.,CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+INDICADOR::el proyecto implica colaboracion efectiva con entidades publicas o actores sociales en la formulacion o evaluacion de politicas.,CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+INDICADOR::numero de informes tecnicos o documentos de politica generados desde el proyecto y entregados a entidades gubernamentales.,CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+"INDICADOR::numero de seminarios, talleres o capacitaciones organizadas para funcionarios publicos basadas en el proyecto.",CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+"INDICADOR::numero de redes relacionadas con politicas publicas en las que el proyecto ha participado o contribuido a crear, conformadas por actores de diversos sectores.",CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+ARTICULO::2-s2.0-85088984023,FRAGMENTO::2-s2.0-85088984023::facultad::1,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85088984023,FRAGMENTO::2-s2.0-85088984023::programa_creacion::2,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85088984023,FRAGMENTO::2-s2.0-85088984023::tipo_documental::3,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85088984023,FRAGMENTO::2-s2.0-85088984023::investigador_docente::4,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85088984023,FRAGMENTO::2-s2.0-85088984023::anio::5,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85088984023,FRAGMENTO::2-s2.0-85088984023::nombre_producto::6,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85088984023,FRAGMENTO::2-s2.0-85088984023::resumen::7,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85088984023,FRAGMENTO::2-s2.0-85088984023::resumen::8,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85088984023,FRAGMENTO::2-s2.0-85088984023::resumen::9,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85088984023,FRAGMENTO::2-s2.0-85088984023::resumen::10,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85088984023,FRAGMENTO::2-s2.0-85088984023::resumen::11,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85088984023,FRAGMENTO::2-s2.0-85088984023::resumen::12,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85088984023,FRAGMENTO::2-s2.0-85088984023::resumen::13,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85088984023,FRAGMENTO::2-s2.0-85088984023::resumen::14,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85088984023,FRAGMENTO::2-s2.0-85088984023::resumen::15,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85088984023,FRAGMENTO::2-s2.0-85088984023::resumen::16,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85088984023,FRAGMENTO::2-s2.0-85088984023::resumen::17,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85088984023,FRAGMENTO::2-s2.0-85088984023::resumen::18,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85088984023,FRAGMENTO::2-s2.0-85088984023::resumen::19,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85088984023,FRAGMENTO::2-s2.0-85088984023::palabras_clave::20,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85088984023,FRAGMENTO::2-s2.0-85088984023::nombre_revista_libro::21,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85088984023,FRAGMENTO::2-s2.0-85088984023::fuente::22,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85088984023,FRAGMENTO::2-s2.0-85088984023::coautores::23,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85088984023,FRAGMENTO::2-s2.0-85088984023::afiliacion_coautores::24,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85088984023,FRAGMENTO::2-s2.0-85088984023::pais_coautores::25,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85088984023,FACULTAD::estudios ambientales y rurales,PERTENECE_FACULTAD,0.35,,
+ARTICULO::2-s2.0-85088984023,PROGRAMA::visita fear,PERTENECE_PROGRAMA,0.4,,
+ARTICULO::2-s2.0-85088984023,"INVESTIGADOR::alvarez rodriguez, juan fernando",TIENE_INVESTIGADOR,0.65,,
+ARTICULO::2-s2.0-85088984023,PALABRA_CLAVE::cooperative principles,TIENE_PALABRA_CLAVE,0.7,,
+ARTICULO::2-s2.0-85088984023,PALABRA_CLAVE::social balance,TIENE_PALABRA_CLAVE,0.7,,
+ARTICULO::2-s2.0-85088984023,PALABRA_CLAVE::social networks analysis,TIENE_PALABRA_CLAVE,0.7,,
+ARTICULO::2-s2.0-85088984023,PALABRA_CLAVE::social transfers in kind,TIENE_PALABRA_CLAVE,0.7,,
+ARTICULO::2-s2.0-85088984023,PALABRA_CLAVE::sustainable development goals,TIENE_PALABRA_CLAVE,0.7,,
+ARTICULO::2-s2.0-85088984023,"COAUTOR::conde, miguel angel alarcon",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85088984023,"COAUTOR::rodriguez, juan fernando alvarez",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85088984023,AFILIACION::pontificia universidad javeriana,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85088984023,AFILIACION::universidad de castilla-la mancha,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85088984023,PAIS::colombia,PAIS_RELACIONADO,0.1,,
+ARTICULO::2-s2.0-85088984023,PAIS::spain,PAIS_RELACIONADO,0.1,,
+FRAGMENTO::2-s2.0-85088984023::nombre_producto::6,INDICADOR::el proyecto promueve capacidades productivas mediante la creacion de redes colaborativas o estrategias de economia solidaria.,EVIDENCIA_CANDIDATA_DE,0.655471,0.655471,nombre_producto
+FRAGMENTO::2-s2.0-85088984023::nombre_producto::6,"INDICADOR::el proyecto contribuye a consolidar redes de colaboracion y alianzas entre comunidades, organizaciones e instituciones.",EVIDENCIA_CANDIDATA_DE,0.624033,0.624033,nombre_producto
+FRAGMENTO::2-s2.0-85088984023::nombre_producto::6,"INDICADOR::el proyecto genera mejoras sostenibles en el entorno ambiental, economico y social de los grupos de interes.",EVIDENCIA_CANDIDATA_DE,0.569767,0.569767,nombre_producto
+FRAGMENTO::2-s2.0-85088984023::resumen::7,INDICADOR::el proyecto contribuye a mejorar practicas productivas sostenibles en los sectores o territorios involucrados.,EVIDENCIA_CANDIDATA_DE,0.572048,0.572048,resumen
+FRAGMENTO::2-s2.0-85088984023::resumen::7,INDICADOR::el proyecto fortalece o consolida eslabones clave de la cadena productiva y/o de suministros estrategicos.,EVIDENCIA_CANDIDATA_DE,0.569308,0.569308,resumen
+FRAGMENTO::2-s2.0-85088984023::resumen::7,INDICADOR::el proyecto promueve capacidades productivas mediante la creacion de redes colaborativas o estrategias de economia solidaria.,EVIDENCIA_CANDIDATA_DE,0.547406,0.547406,resumen
+FRAGMENTO::2-s2.0-85088984023::resumen::9,INDICADOR::el proyecto promueve capacidades productivas mediante la creacion de redes colaborativas o estrategias de economia solidaria.,EVIDENCIA_CANDIDATA_DE,0.587359,0.587359,resumen
+FRAGMENTO::2-s2.0-85088984023::resumen::9,"INDICADOR::la solucion generada por el proyecto es usada, adaptada, replicada o sostenida por la comunidad, territorio o entidad beneficiaria.",EVIDENCIA_CANDIDATA_DE,0.568881,0.568881,resumen
+FRAGMENTO::2-s2.0-85088984023::resumen::9,INDICADOR::el proyecto implica colaboracion efectiva con entidades publicas o actores sociales en la formulacion o evaluacion de politicas.,EVIDENCIA_CANDIDATA_DE,0.535446,0.535446,resumen
+FRAGMENTO::2-s2.0-85088984023::resumen::10,INDICADOR::el proyecto promueve capacidades productivas mediante la creacion de redes colaborativas o estrategias de economia solidaria.,EVIDENCIA_CANDIDATA_DE,0.582221,0.582221,resumen
+FRAGMENTO::2-s2.0-85088984023::resumen::10,"INDICADOR::el proyecto contribuye a consolidar redes de colaboracion y alianzas entre comunidades, organizaciones e instituciones.",EVIDENCIA_CANDIDATA_DE,0.510436,0.510436,resumen
+FRAGMENTO::2-s2.0-85088984023::resumen::10,"INDICADOR::numero de redes relacionadas con politicas publicas en las que el proyecto ha participado o contribuido a crear, conformadas por actores de diversos sectores.",EVIDENCIA_CANDIDATA_DE,0.456465,0.456465,resumen
+FRAGMENTO::2-s2.0-85088984023::resumen::11,INDICADOR::el proyecto promueve capacidades productivas mediante la creacion de redes colaborativas o estrategias de economia solidaria.,EVIDENCIA_CANDIDATA_DE,0.499228,0.499228,resumen
+FRAGMENTO::2-s2.0-85088984023::resumen::11,"INDICADOR::el proyecto contribuye a consolidar redes de colaboracion y alianzas entre comunidades, organizaciones e instituciones.",EVIDENCIA_CANDIDATA_DE,0.457319,0.457319,resumen
+FRAGMENTO::2-s2.0-85088984023::resumen::11,"INDICADOR::numero de redes relacionadas con politicas publicas en las que el proyecto ha participado o contribuido a crear, conformadas por actores de diversos sectores.",EVIDENCIA_CANDIDATA_DE,0.434216,0.434216,resumen
+FRAGMENTO::2-s2.0-85088984023::resumen::12,INDICADOR::el proyecto promueve capacidades productivas mediante la creacion de redes colaborativas o estrategias de economia solidaria.,EVIDENCIA_CANDIDATA_DE,0.495042,0.495042,resumen
+FRAGMENTO::2-s2.0-85088984023::resumen::12,INDICADOR::el proyecto fortalece o consolida eslabones clave de la cadena productiva y/o de suministros estrategicos.,EVIDENCIA_CANDIDATA_DE,0.464775,0.464775,resumen
+FRAGMENTO::2-s2.0-85088984023::resumen::12,"INDICADOR::numero de redes relacionadas con politicas publicas en las que el proyecto ha participado o contribuido a crear, conformadas por actores de diversos sectores.",EVIDENCIA_CANDIDATA_DE,0.422912,0.422912,resumen
+FRAGMENTO::2-s2.0-85088984023::resumen::13,INDICADOR::el proyecto promueve capacidades productivas mediante la creacion de redes colaborativas o estrategias de economia solidaria.,EVIDENCIA_CANDIDATA_DE,0.558911,0.558911,resumen
+FRAGMENTO::2-s2.0-85088984023::resumen::13,"INDICADOR::el proyecto contribuye a consolidar redes de colaboracion y alianzas entre comunidades, organizaciones e instituciones.",EVIDENCIA_CANDIDATA_DE,0.530217,0.530217,resumen
+FRAGMENTO::2-s2.0-85088984023::resumen::13,"INDICADOR::la solucion generada por el proyecto es usada, adaptada, replicada o sostenida por la comunidad, territorio o entidad beneficiaria.",EVIDENCIA_CANDIDATA_DE,0.496018,0.496018,resumen
+FRAGMENTO::2-s2.0-85088984023::resumen::14,"INDICADOR::el proyecto contribuye a consolidar redes de colaboracion y alianzas entre comunidades, organizaciones e instituciones.",EVIDENCIA_CANDIDATA_DE,0.584376,0.584376,resumen
+FRAGMENTO::2-s2.0-85088984023::resumen::14,INDICADOR::el proyecto promueve capacidades productivas mediante la creacion de redes colaborativas o estrategias de economia solidaria.,EVIDENCIA_CANDIDATA_DE,0.583021,0.583021,resumen
+FRAGMENTO::2-s2.0-85088984023::resumen::14,"INDICADOR::la solucion generada por el proyecto es usada, adaptada, replicada o sostenida por la comunidad, territorio o entidad beneficiaria.",EVIDENCIA_CANDIDATA_DE,0.479436,0.479436,resumen
+FRAGMENTO::2-s2.0-85088984023::resumen::15,INDICADOR::el proyecto promueve capacidades productivas mediante la creacion de redes colaborativas o estrategias de economia solidaria.,EVIDENCIA_CANDIDATA_DE,0.483271,0.483271,resumen
+FRAGMENTO::2-s2.0-85088984023::resumen::15,"INDICADOR::el proyecto contribuye a consolidar redes de colaboracion y alianzas entre comunidades, organizaciones e instituciones.",EVIDENCIA_CANDIDATA_DE,0.463948,0.463948,resumen
+FRAGMENTO::2-s2.0-85088984023::resumen::15,"INDICADOR::el proyecto incorpora enfoques interdisciplinarios o transdisciplinarios tanto en el planteamiento del problema como en los metodos, tipos de analisis y perspectivas conceptuales utilizadas.",EVIDENCIA_CANDIDATA_DE,0.459039,0.459039,resumen
+FRAGMENTO::2-s2.0-85088984023::resumen::16,"INDICADOR::el proyecto contribuye a consolidar redes de colaboracion y alianzas entre comunidades, organizaciones e instituciones.",EVIDENCIA_CANDIDATA_DE,0.517662,0.517662,resumen
+FRAGMENTO::2-s2.0-85088984023::resumen::16,INDICADOR::el proyecto promueve capacidades productivas mediante la creacion de redes colaborativas o estrategias de economia solidaria.,EVIDENCIA_CANDIDATA_DE,0.473469,0.473469,resumen
+FRAGMENTO::2-s2.0-85088984023::resumen::17,INDICADOR::el proyecto promueve capacidades productivas mediante la creacion de redes colaborativas o estrategias de economia solidaria.,EVIDENCIA_CANDIDATA_DE,0.59869,0.59869,resumen
+FRAGMENTO::2-s2.0-85088984023::resumen::17,"INDICADOR::el proyecto contribuye a consolidar redes de colaboracion y alianzas entre comunidades, organizaciones e instituciones.",EVIDENCIA_CANDIDATA_DE,0.569229,0.569229,resumen
+FRAGMENTO::2-s2.0-85088984023::resumen::17,"INDICADOR::numero de redes relacionadas con politicas publicas en las que el proyecto ha participado o contribuido a crear, conformadas por actores de diversos sectores.",EVIDENCIA_CANDIDATA_DE,0.476685,0.476685,resumen
+FRAGMENTO::2-s2.0-85088984023::resumen::18,INDICADOR::el proyecto promueve capacidades productivas mediante la creacion de redes colaborativas o estrategias de economia solidaria.,EVIDENCIA_CANDIDATA_DE,0.64372,0.64372,resumen
+FRAGMENTO::2-s2.0-85088984023::resumen::18,"INDICADOR::el proyecto contribuye a consolidar redes de colaboracion y alianzas entre comunidades, organizaciones e instituciones.",EVIDENCIA_CANDIDATA_DE,0.609562,0.609562,resumen
+FRAGMENTO::2-s2.0-85088984023::resumen::18,INDICADOR::el proyecto implica colaboracion efectiva con entidades publicas o actores sociales en la formulacion o evaluacion de politicas.,EVIDENCIA_CANDIDATA_DE,0.545114,0.545114,resumen
+FRAGMENTO::2-s2.0-85088984023::resumen::19,INDICADOR::el proyecto promueve capacidades productivas mediante la creacion de redes colaborativas o estrategias de economia solidaria.,EVIDENCIA_CANDIDATA_DE,0.591108,0.591108,resumen
+FRAGMENTO::2-s2.0-85088984023::resumen::19,"INDICADOR::la solucion generada por el proyecto es usada, adaptada, replicada o sostenida por la comunidad, territorio o entidad beneficiaria.",EVIDENCIA_CANDIDATA_DE,0.516006,0.516006,resumen
+FRAGMENTO::2-s2.0-85088984023::resumen::19,INDICADOR::el proyecto fortalece o consolida eslabones clave de la cadena productiva y/o de suministros estrategicos.,EVIDENCIA_CANDIDATA_DE,0.499533,0.499533,resumen
+FRAGMENTO::2-s2.0-85088984023::palabras_clave::20,INDICADOR::el proyecto promueve capacidades productivas mediante la creacion de redes colaborativas o estrategias de economia solidaria.,EVIDENCIA_CANDIDATA_DE,0.718291,0.718291,palabras_clave
+FRAGMENTO::2-s2.0-85088984023::palabras_clave::20,"INDICADOR::el proyecto contribuye a consolidar redes de colaboracion y alianzas entre comunidades, organizaciones e instituciones.",EVIDENCIA_CANDIDATA_DE,0.666241,0.666241,palabras_clave
+FRAGMENTO::2-s2.0-85088984023::palabras_clave::20,INDICADOR::el proyecto fortalece o consolida eslabones clave de la cadena productiva y/o de suministros estrategicos.,EVIDENCIA_CANDIDATA_DE,0.607092,0.607092,palabras_clave
+ARTICULO::2-s2.0-85141889957,FRAGMENTO::2-s2.0-85141889957::facultad::1,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85141889957,FRAGMENTO::2-s2.0-85141889957::programa_creacion::2,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85141889957,FRAGMENTO::2-s2.0-85141889957::tipo_documental::3,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85141889957,FRAGMENTO::2-s2.0-85141889957::investigador_docente::4,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85141889957,FRAGMENTO::2-s2.0-85141889957::anio::5,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85141889957,FRAGMENTO::2-s2.0-85141889957::nombre_producto::6,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85141889957,FRAGMENTO::2-s2.0-85141889957::resumen::7,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85141889957,FRAGMENTO::2-s2.0-85141889957::resumen::8,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85141889957,FRAGMENTO::2-s2.0-85141889957::resumen::9,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85141889957,FRAGMENTO::2-s2.0-85141889957::resumen::10,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85141889957,FRAGMENTO::2-s2.0-85141889957::resumen::11,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85141889957,FRAGMENTO::2-s2.0-85141889957::resumen::12,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85141889957,FRAGMENTO::2-s2.0-85141889957::resumen::13,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85141889957,FRAGMENTO::2-s2.0-85141889957::resumen::14,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85141889957,FRAGMENTO::2-s2.0-85141889957::resumen::15,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85141889957,FRAGMENTO::2-s2.0-85141889957::resumen::16,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85141889957,FRAGMENTO::2-s2.0-85141889957::palabras_clave::17,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85141889957,FRAGMENTO::2-s2.0-85141889957::nombre_revista_libro::18,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85141889957,FRAGMENTO::2-s2.0-85141889957::fuente::19,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85141889957,FRAGMENTO::2-s2.0-85141889957::coautores::20,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85141889957,FRAGMENTO::2-s2.0-85141889957::afiliacion_coautores::21,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85141889957,FRAGMENTO::2-s2.0-85141889957::pais_coautores::22,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85141889957,FACULTAD::medicina,PERTENECE_FACULTAD,0.35,,
+ARTICULO::2-s2.0-85141889957,PROGRAMA::mega prime medicina,PERTENECE_PROGRAMA,0.4,,
+ARTICULO::2-s2.0-85141889957,"INVESTIGADOR::silva herrera, jaime luis",TIENE_INVESTIGADOR,0.65,,
+ARTICULO::2-s2.0-85141889957,PALABRA_CLAVE::placenta acreta,TIENE_PALABRA_CLAVE,0.7,,
+ARTICULO::2-s2.0-85141889957,PALABRA_CLAVE::conferencia de consenso,TIENE_PALABRA_CLAVE,0.7,,
+ARTICULO::2-s2.0-85141889957,PALABRA_CLAVE::paises en desarrollo,TIENE_PALABRA_CLAVE,0.7,,
+ARTICULO::2-s2.0-85141889957,PALABRA_CLAVE::recursos en salud,TIENE_PALABRA_CLAVE,0.7,,
+ARTICULO::2-s2.0-85141889957,PALABRA_CLAVE::consensus conference,TIENE_PALABRA_CLAVE,0.7,,
+ARTICULO::2-s2.0-85141889957,PALABRA_CLAVE::developing countries,TIENE_PALABRA_CLAVE,0.7,,
+ARTICULO::2-s2.0-85141889957,PALABRA_CLAVE::healthcare resources,TIENE_PALABRA_CLAVE,0.7,,
+ARTICULO::2-s2.0-85141889957,"COAUTOR::nieto-calvache, albaro jose",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85141889957,"COAUTOR::sanin-blair, jose enrique",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85141889957,"COAUTOR::buitrago-leal, haidi marcela",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85141889957,"COAUTOR::benavides-serralde, jesus andres",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85141889957,"COAUTOR::maya-castro, juliana",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85141889957,"COAUTOR::rozo-rangel, adda piedad",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85141889957,"COAUTOR::messa-bryon, adriana",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85141889957,"COAUTOR::colonia-toro, alejandro",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85141889957,"COAUTOR::gomez-castro, armando rafael",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85141889957,"COAUTOR::cardona-ospina, arturo",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85141889957,"COAUTOR::caicedo-caceres, carlos eduardo",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85141889957,"COAUTOR::dorado-roncancio, elkin fabian",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85141889957,"COAUTOR::silva-herrera, jaime luis",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85141889957,"COAUTOR::carvajal-valencia, javier andres",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85141889957,"COAUTOR::velasquez-penagos, jesus arnulfo",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85141889957,"COAUTOR::nino-gonzales, jorge ernesto",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85141889957,"COAUTOR::burgos-luna, juan manuel",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85141889957,"COAUTOR::rincon-garcia, juan carlos",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85141889957,"COAUTOR::matera-torres, lia",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85141889957,"COAUTOR::villamizar -galvis, orlando afranio",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85141889957,"COAUTOR::olaya-garay, sandra ximena",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85141889957,"COAUTOR::medina-palmezano, virna patricia",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85141889957,"COAUTOR::castaneda, jimmy",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85141889957,AFILIACION::centro medico imbanaco,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85141889957,AFILIACION::fundacion universitaria autonoma de las americas,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85141889957,"AFILIACION::hospital de san jose, bogota",AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85141889957,AFILIACION::fundacion valle del lili,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85141889957,AFILIACION::clinica universitaria bolivariana,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85141889957,AFILIACION::universidad icesi,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85141889957,AFILIACION::universidad antonio narino,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85141889957,AFILIACION::hospital general de medellin luz castro de gutierrez - e.s.e,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85141889957,AFILIACION::hospital universitario clinica san rafael,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85141889957,AFILIACION::universidad de antioquia,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85141889957,AFILIACION::universidad de cartagena,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85141889957,AFILIACION::hospital universitario san ignacio,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85141889957,AFILIACION::clinica las vegas grupo quiron salud,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85141889957,AFILIACION::ses hospital universitario de caldas,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85141889957,AFILIACION::hospital federico lleras acosta,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85141889957,AFILIACION::la misericordia clinica internacional,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85141889957,AFILIACION::federacion colombiana de obstetricia y ginecologia (fecolsog),AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85141889957,AFILIACION::clinica santa ana clinica norte,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85141889957,AFILIACION::hospital universitario san rafael,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85141889957,AFILIACION::unidad de medicina materno fetal,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85141889957,PAIS::colombia,PAIS_RELACIONADO,0.1,,
+FRAGMENTO::2-s2.0-85141889957::resumen::7,INDICADOR::el proyecto desarrolla intervenciones que contribuyeron a disminuir tasas de mortalidad en poblaciones especificas.,EVIDENCIA_CANDIDATA_DE,0.66888,0.66888,resumen
+FRAGMENTO::2-s2.0-85141889957::resumen::7,INDICADOR::el proyecto contribuye a prevenir riesgos en salud publica.,EVIDENCIA_CANDIDATA_DE,0.650134,0.650134,resumen
+FRAGMENTO::2-s2.0-85141889957::resumen::7,INDICADOR::el proyecto fortalece estrategias participativas de cuidado implementadas por distintos actores sociales.,EVIDENCIA_CANDIDATA_DE,0.56716,0.56716,resumen
+FRAGMENTO::2-s2.0-85141889957::resumen::8,INDICADOR::el proyecto desarrolla intervenciones que contribuyeron a disminuir tasas de mortalidad en poblaciones especificas.,EVIDENCIA_CANDIDATA_DE,0.608128,0.608128,resumen
+FRAGMENTO::2-s2.0-85141889957::resumen::8,INDICADOR::el proyecto fortalece estrategias participativas de cuidado implementadas por distintos actores sociales.,EVIDENCIA_CANDIDATA_DE,0.564328,0.564328,resumen
+FRAGMENTO::2-s2.0-85141889957::resumen::8,INDICADOR::el proyecto contribuye a prevenir riesgos en salud publica.,EVIDENCIA_CANDIDATA_DE,0.562316,0.562316,resumen
+FRAGMENTO::2-s2.0-85141889957::resumen::9,INDICADOR::el proyecto fortalece estrategias participativas de cuidado implementadas por distintos actores sociales.,EVIDENCIA_CANDIDATA_DE,0.595392,0.595392,resumen
+FRAGMENTO::2-s2.0-85141889957::resumen::9,INDICADOR::el proyecto contribuye a prevenir riesgos en salud publica.,EVIDENCIA_CANDIDATA_DE,0.587688,0.587688,resumen
+FRAGMENTO::2-s2.0-85141889957::resumen::9,INDICADOR::el proyecto desarrolla intervenciones que contribuyeron a disminuir tasas de mortalidad en poblaciones especificas.,EVIDENCIA_CANDIDATA_DE,0.582474,0.582474,resumen
+FRAGMENTO::2-s2.0-85141889957::resumen::10,INDICADOR::el proyecto fortalece estrategias participativas de cuidado implementadas por distintos actores sociales.,EVIDENCIA_CANDIDATA_DE,0.604735,0.604735,resumen
+FRAGMENTO::2-s2.0-85141889957::resumen::10,INDICADOR::el proyecto contribuye a prevenir riesgos en salud publica.,EVIDENCIA_CANDIDATA_DE,0.524367,0.524367,resumen
+FRAGMENTO::2-s2.0-85141889957::resumen::10,INDICADOR::el proyecto desarrolla intervenciones que contribuyeron a disminuir tasas de mortalidad en poblaciones especificas.,EVIDENCIA_CANDIDATA_DE,0.504525,0.504525,resumen
+FRAGMENTO::2-s2.0-85141889957::resumen::11,INDICADOR::el proyecto desarrolla intervenciones que contribuyeron a disminuir tasas de mortalidad en poblaciones especificas.,EVIDENCIA_CANDIDATA_DE,0.660923,0.660923,resumen
+FRAGMENTO::2-s2.0-85141889957::resumen::11,INDICADOR::el proyecto contribuye a prevenir riesgos en salud publica.,EVIDENCIA_CANDIDATA_DE,0.631694,0.631694,resumen
+FRAGMENTO::2-s2.0-85141889957::resumen::11,INDICADOR::el proyecto fortalece estrategias participativas de cuidado implementadas por distintos actores sociales.,EVIDENCIA_CANDIDATA_DE,0.58756,0.58756,resumen
+FRAGMENTO::2-s2.0-85141889957::resumen::12,INDICADOR::el proyecto desarrolla intervenciones que contribuyeron a disminuir tasas de mortalidad en poblaciones especificas.,EVIDENCIA_CANDIDATA_DE,0.588049,0.588049,resumen
+FRAGMENTO::2-s2.0-85141889957::resumen::12,INDICADOR::el proyecto fortalece estrategias participativas de cuidado implementadas por distintos actores sociales.,EVIDENCIA_CANDIDATA_DE,0.565762,0.565762,resumen
+FRAGMENTO::2-s2.0-85141889957::resumen::12,INDICADOR::el proyecto contribuye a prevenir riesgos en salud publica.,EVIDENCIA_CANDIDATA_DE,0.549862,0.549862,resumen
+FRAGMENTO::2-s2.0-85141889957::resumen::13,INDICADOR::el proyecto fortalece estrategias participativas de cuidado implementadas por distintos actores sociales.,EVIDENCIA_CANDIDATA_DE,0.450986,0.450986,resumen
+FRAGMENTO::2-s2.0-85141889957::resumen::13,INDICADOR::el proyecto desarrolla intervenciones que contribuyeron a disminuir tasas de mortalidad en poblaciones especificas.,EVIDENCIA_CANDIDATA_DE,0.450326,0.450326,resumen
+FRAGMENTO::2-s2.0-85141889957::resumen::15,INDICADOR::el proyecto desarrolla intervenciones que contribuyeron a disminuir tasas de mortalidad en poblaciones especificas.,EVIDENCIA_CANDIDATA_DE,0.487135,0.487135,resumen
+FRAGMENTO::2-s2.0-85141889957::resumen::15,INDICADOR::el proyecto contribuye a prevenir riesgos en salud publica.,EVIDENCIA_CANDIDATA_DE,0.442331,0.442331,resumen
+FRAGMENTO::2-s2.0-85141889957::resumen::16,"INDICADOR::el proyecto incorpora enfoques interdisciplinarios o transdisciplinarios tanto en el planteamiento del problema como en los metodos, tipos de analisis y perspectivas conceptuales utilizadas.",EVIDENCIA_CANDIDATA_DE,0.594072,0.594072,resumen
+FRAGMENTO::2-s2.0-85141889957::resumen::16,INDICADOR::el proyecto cuenta con la participacion activa y significativa de actores externos (academicos y/o no academicos) en distintas etapas del proceso investigativo.,EVIDENCIA_CANDIDATA_DE,0.509883,0.509883,resumen
+FRAGMENTO::2-s2.0-85141889957::resumen::16,"INDICADOR::el proyecto facilita la participacion activa de los grupos de interes en procesos de formulacion, monitoreo o evaluacion de politicas publicas o iniciativas de ciencia ciudadana.",EVIDENCIA_CANDIDATA_DE,0.502527,0.502527,resumen
+FRAGMENTO::2-s2.0-85141889957::palabras_clave::17,INDICADOR::numero de espacios publicos promovidos por el proyecto para debatir la problematica investigativa y social mas alla del ambito academico.,EVIDENCIA_CANDIDATA_DE,0.500139,0.500139,palabras_clave
+FRAGMENTO::2-s2.0-85141889957::palabras_clave::17,INDICADOR::numero de beneficiarios directos e indirectos.,EVIDENCIA_CANDIDATA_DE,0.492473,0.492473,palabras_clave
+FRAGMENTO::2-s2.0-85141889957::palabras_clave::17,INDICADOR::numero de politicas publicas o programas gubernamentales modificados o implementados con base en hallazgos del proyecto.,EVIDENCIA_CANDIDATA_DE,0.473521,0.473521,palabras_clave
+ARTICULO::2-s2.0-85189898702,FRAGMENTO::2-s2.0-85189898702::facultad::1,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85189898702,FRAGMENTO::2-s2.0-85189898702::programa_creacion::2,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85189898702,FRAGMENTO::2-s2.0-85189898702::tipo_documental::3,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85189898702,FRAGMENTO::2-s2.0-85189898702::investigador_docente::4,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85189898702,FRAGMENTO::2-s2.0-85189898702::anio::5,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85189898702,FRAGMENTO::2-s2.0-85189898702::nombre_producto::6,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85189898702,FRAGMENTO::2-s2.0-85189898702::resumen::7,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85189898702,FRAGMENTO::2-s2.0-85189898702::resumen::8,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85189898702,FRAGMENTO::2-s2.0-85189898702::resumen::9,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85189898702,FRAGMENTO::2-s2.0-85189898702::resumen::10,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85189898702,FRAGMENTO::2-s2.0-85189898702::resumen::11,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85189898702,FRAGMENTO::2-s2.0-85189898702::resumen::12,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85189898702,FRAGMENTO::2-s2.0-85189898702::resumen::13,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85189898702,FRAGMENTO::2-s2.0-85189898702::resumen::14,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85189898702,FRAGMENTO::2-s2.0-85189898702::resumen::15,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85189898702,FRAGMENTO::2-s2.0-85189898702::nombre_revista_libro::16,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85189898702,FRAGMENTO::2-s2.0-85189898702::fuente::17,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85189898702,FRAGMENTO::2-s2.0-85189898702::coautores::18,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85189898702,FRAGMENTO::2-s2.0-85189898702::afiliacion_coautores::19,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85189898702,FRAGMENTO::2-s2.0-85189898702::pais_coautores::20,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85189898702,FRAGMENTO::2-s2.0-85189898702::financiadores::21,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85189898702,FACULTAD::ingenieria,PERTENECE_FACULTAD,0.35,,
+ARTICULO::2-s2.0-85189898702,PROGRAMA::tandaprime ingenieria,PERTENECE_PROGRAMA,0.4,,
+ARTICULO::2-s2.0-85189898702,"INVESTIGADOR::barrero solano, lope hugo",TIENE_INVESTIGADOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::naghavi, mohsen",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::ong, kanyin liane",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::aali, amirali",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::ababneh, hazim s.",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::abate, yohannes habtegiorgis",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::abbafati, cristiana",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::abbasgholizadeh, rouzbeh",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::abbasian, mohammadreza",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::abbasi-kangevari, mohsen",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::abbastabar, hedayat",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::abd elhafeez, samar",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::abdelmasseh, michael",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::abd-elsalam, sherief",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::abdelwahab, ahmed",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::abdollahi, mohammad",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::abdollahifar, mohammad amin",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::abdoun, meriem",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::abdulah, deldar morad",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::abdullahi, auwal",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::abebe, mesfin",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::abebe, samrawit shawel",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::abedi, aidin",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::abegaz, kedir hussein",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::abhilash, e. s.",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::abidi, hassan",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::abiodun, olumide",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::aboagye, richard gyan",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::abolhassani, hassan",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::abolmaali, meysam",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::abouzid, mohamed",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::aboye, girma beressa",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::abreu, lucas guimaraes",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::abrha, woldu aberhe",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::abtahi, dariush",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::abu rumeileh, samir",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::abualruz, hasan",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::abubakar, bilyaminu",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::abu-gharbieh, eman",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::abu-rmeileh, niveen me",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::aburuz, salahdein",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::abu-zaid, ahmed",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::accrombessi, manfred mario kokou",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::adal, tadele girum",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::adamu, abdu a.",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::addo, isaac yeboah",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::addolorato, giovanni",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::adebiyi, akindele olupelumi",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::adekanmbi, victor",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::adepoju, abiola victor",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::adetunji, charles oluwaseun",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::adetunji, juliana bunmi",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::adeyeoluwa, temitayo esther",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::adeyinka, daniel adedayo",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::adeyomoye, olorunsola israel",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::admass, biruk adie",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::adnani, qorinah estiningtyas sakilah",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::adra, saryia",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::afolabi, aanuoluwapo adeyimika",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::afzal, muhammad sohail",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::afzal, saira",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::agampodi, suneth buddhika",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::agasthi, pradyumna",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::aggarwal, manik",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::aghamiri, shahin",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::agide, feleke doyore",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::agodi, antonella",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::agrawal, anurag",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::agyemang-duah, williams",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::ahinkorah, bright opoku",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::ahmad, aqeel",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::ahmad, danish",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::ahmad, firdos",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::ahmad, muayyad m.",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::ahmad, sajjad",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::ahmad, shahzaib",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::ahmad, tauseef",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::ahmadi, keivan",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::ahmadzade, amir mahmoud",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::ahmed, ali",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::ahmed, ayman",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::ahmed, haroon",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::ahmed, luai a.",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::ahmed, mehrunnisha sharif",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::ahmed, meqdad saleh",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::ahmed, muktar beshir",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::ahmed, syed anees",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::ajami, marjan",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::aji, budi",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::akara, essona matatom",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::akbarialiabad, hossein",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::akinosoglou, karolina",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::akinyemiju, tomi",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::akkaif, mohammed ahmed",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::akyirem, samuel",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::al hamad, hanadi",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::al hasan, syed mahfuz",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::alahdab, fares",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::alalalmeh, samer o.",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::alalwan, tariq a.",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,"COAUTOR::al-aly, ziyad",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::school of medicine and psychology,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::university of medical sciences,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::abasyn university,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::university general hospital of patras,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::public health foundation of india,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::jhpiego corporation,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::babcock university,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::school of pharmacy,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::advanced diagnostic and interventional radiology research center,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::the institute of pharmaceutical sciences (tips),AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::research center for immunodeficiencies,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::non-communicable diseases research center,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,"AFILIACION::university of health and allied sciences, ghana",AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::ashoka university,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::majmaah university,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::shaqra university,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::aksum university,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::wachemo university,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::wolkite university,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::madda walabu university,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::dilla university,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::osun state university,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::alfaisal university,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::ucsi university,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::institute for health metrics and evaluation,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::comsats university islamabad,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::nigerian institute of medical research,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::cancer institute nsw,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::university of duhok,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::university of gondar,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,"AFILIACION::sree narayana guru college, chelannur",AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::rajarata university of sri lanka,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::fondazione policlinico universitario agostino gemelli irccs,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::rumailah hospital,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::hamad medical corporation,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::birzeit university,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::institute of endemic diseases sudan,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::haramaya university,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::jimma university,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::ajman university,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::university of management and technology lahore,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::universitas jenderal soedirman,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::universitas padjadjaran,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::poznan university of medical sciences,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::lebanese american university,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::universite ferhat abbas setif 1,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,"AFILIACION::international vaccine institute, seoul",AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::al-zaytoonah university of jordan,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::the university of jordan,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::king edward medical university lahore,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::yasuj university of medical sciences,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::alexandria university,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::usmanu danfodiyo university,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::sapienza universita di roma,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,"AFILIACION::universita cattolica del sacro cuore, campus di roma",AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::university of south australia,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::london school of hygiene & tropical medicine,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::university of patras,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,"AFILIACION::university of california, san diego",AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::universidade federal de minas gerais,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::massachusetts general hospital,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::university of southern california,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::university of washington school of medicine,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::unsw sydney,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,"AFILIACION::university of california, los angeles",AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,"AFILIACION::mayo clinic scottsdale-phoenix, arizona",AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::university of technology sydney,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::u.s. department of veterans affairs,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::universitat basel,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::washington university school of medicine in st. louis,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::cleveland clinic foundation,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::the brody school of medicine,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::university of missouri school of medicine,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,"AFILIACION::university college hospital, ibadan",AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::john sealy school of medicine,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::queen's university,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,"AFILIACION::national nutrition and food technology research institute, shahid beheshti university of medical sciences",AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::university of saskatchewan,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::keck school of medicine of usc,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::imperial college london,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::martin-luther-universitat halle-wittenberg,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::unsw medicine,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::fudan university,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::the hong kong polytechnic university,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::united arab emirates university,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::yale school of nursing,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::yakn dogu universitesi,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::university of ibadan,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::southeast university,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::duke university school of medicine,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::joan c. edwards school of medicine,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::bayero university,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,"AFILIACION::universita degli studi di catania, scuola di medicina",AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::harvard medical school,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::baylor college of medicine,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::university of tennessee health science center,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::stellenbosch university,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,"AFILIACION::mashhad university of medical sciences, school of medicine",AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::mashhad university of medical sciences,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::faculty of medicine,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::university of bahrain,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::ministry of health,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::mcwilliams school of biomedical informatics,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::clinical sciences department,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::aleta wondo hospital,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::edo state university uzairue,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::clinical research institute of benin (ircb),AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::khatam alanbia hospital,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::adolescent friendly research initiative and care,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::federal ministry of health,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::shefa neuroscience research center,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::king edward memorial hospital,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::riphah institute of pharmaceutical sciences,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::college of medicine,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::conservation south africa,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::miami cancer institute,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,AFILIACION::institute of public health,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85189898702,PAIS::australia,PAIS_RELACIONADO,0.1,,
+ARTICULO::2-s2.0-85189898702,PAIS::nigeria,PAIS_RELACIONADO,0.1,,
+ARTICULO::2-s2.0-85189898702,PAIS::pakistan,PAIS_RELACIONADO,0.1,,
+ARTICULO::2-s2.0-85189898702,PAIS::greece,PAIS_RELACIONADO,0.1,,
+ARTICULO::2-s2.0-85189898702,PAIS::india,PAIS_RELACIONADO,0.1,,
+ARTICULO::2-s2.0-85189898702,PAIS::united states,PAIS_RELACIONADO,0.1,,
+ARTICULO::2-s2.0-85189898702,PAIS::iran,PAIS_RELACIONADO,0.1,,
+ARTICULO::2-s2.0-85189898702,PAIS::ghana,PAIS_RELACIONADO,0.1,,
+ARTICULO::2-s2.0-85189898702,PAIS::saudi arabia,PAIS_RELACIONADO,0.1,,
+ARTICULO::2-s2.0-85189898702,PAIS::ethiopia,PAIS_RELACIONADO,0.1,,
+ARTICULO::2-s2.0-85189898702,PAIS::malaysia,PAIS_RELACIONADO,0.1,,
+ARTICULO::2-s2.0-85189898702,PAIS::iraq,PAIS_RELACIONADO,0.1,,
+ARTICULO::2-s2.0-85189898702,PAIS::sri lanka,PAIS_RELACIONADO,0.1,,
+ARTICULO::2-s2.0-85189898702,PAIS::italy,PAIS_RELACIONADO,0.1,,
+ARTICULO::2-s2.0-85189898702,PAIS::qatar,PAIS_RELACIONADO,0.1,,
+ARTICULO::2-s2.0-85189898702,PAIS::palestine,PAIS_RELACIONADO,0.1,,
+ARTICULO::2-s2.0-85189898702,PAIS::sudan,PAIS_RELACIONADO,0.1,,
+ARTICULO::2-s2.0-85189898702,PAIS::united arab emirates,PAIS_RELACIONADO,0.1,,
+ARTICULO::2-s2.0-85189898702,PAIS::indonesia,PAIS_RELACIONADO,0.1,,
+ARTICULO::2-s2.0-85189898702,PAIS::poland,PAIS_RELACIONADO,0.1,,
+ARTICULO::2-s2.0-85189898702,PAIS::lebanon,PAIS_RELACIONADO,0.1,,
+ARTICULO::2-s2.0-85189898702,PAIS::algeria,PAIS_RELACIONADO,0.1,,
+ARTICULO::2-s2.0-85189898702,PAIS::south korea,PAIS_RELACIONADO,0.1,,
+ARTICULO::2-s2.0-85189898702,PAIS::jordan,PAIS_RELACIONADO,0.1,,
+ARTICULO::2-s2.0-85189898702,PAIS::egypt,PAIS_RELACIONADO,0.1,,
+ARTICULO::2-s2.0-85189898702,PAIS::united kingdom,PAIS_RELACIONADO,0.1,,
+ARTICULO::2-s2.0-85189898702,PAIS::brazil,PAIS_RELACIONADO,0.1,,
+ARTICULO::2-s2.0-85189898702,PAIS::switzerland,PAIS_RELACIONADO,0.1,,
+ARTICULO::2-s2.0-85189898702,PAIS::canada,PAIS_RELACIONADO,0.1,,
+ARTICULO::2-s2.0-85189898702,PAIS::germany,PAIS_RELACIONADO,0.1,,
+ARTICULO::2-s2.0-85189898702,PAIS::china,PAIS_RELACIONADO,0.1,,
+ARTICULO::2-s2.0-85189898702,PAIS::hong kong,PAIS_RELACIONADO,0.1,,
+ARTICULO::2-s2.0-85189898702,PAIS::cyprus,PAIS_RELACIONADO,0.1,,
+ARTICULO::2-s2.0-85189898702,PAIS::south africa,PAIS_RELACIONADO,0.1,,
+ARTICULO::2-s2.0-85189898702,PAIS::bahrain,PAIS_RELACIONADO,0.1,,
+ARTICULO::2-s2.0-85189898702,PAIS::togo,PAIS_RELACIONADO,0.1,,
+ARTICULO::2-s2.0-85189898702,PAIS::benin,PAIS_RELACIONADO,0.1,,
+ARTICULO::2-s2.0-85189898702,FINANCIADOR::united states agency for international development,TIENE_FINANCIADOR,0.65,,
+FRAGMENTO::2-s2.0-85189898702::nombre_producto::6,INDICADOR::el proyecto desarrolla intervenciones que contribuyeron a disminuir tasas de mortalidad en poblaciones especificas.,EVIDENCIA_CANDIDATA_DE,0.595132,0.595132,nombre_producto
+FRAGMENTO::2-s2.0-85189898702::nombre_producto::6,INDICADOR::el proyecto contribuye a prevenir riesgos en salud publica.,EVIDENCIA_CANDIDATA_DE,0.428185,0.428185,nombre_producto
+FRAGMENTO::2-s2.0-85189898702::nombre_producto::6,INDICADOR::mejora en la calidad de vida o bienestar atribuida al proyecto.,EVIDENCIA_CANDIDATA_DE,0.424181,0.424181,nombre_producto
+FRAGMENTO::2-s2.0-85189898702::resumen::7,INDICADOR::el proyecto desarrolla intervenciones que contribuyeron a disminuir tasas de mortalidad en poblaciones especificas.,EVIDENCIA_CANDIDATA_DE,0.62004,0.62004,resumen
+FRAGMENTO::2-s2.0-85189898702::resumen::7,INDICADOR::el proyecto contribuye a prevenir riesgos en salud publica.,EVIDENCIA_CANDIDATA_DE,0.475283,0.475283,resumen
+FRAGMENTO::2-s2.0-85189898702::resumen::7,INDICADOR::mejora en la calidad de vida o bienestar atribuida al proyecto.,EVIDENCIA_CANDIDATA_DE,0.429709,0.429709,resumen
+FRAGMENTO::2-s2.0-85189898702::resumen::8,INDICADOR::el proyecto desarrolla intervenciones que contribuyeron a disminuir tasas de mortalidad en poblaciones especificas.,EVIDENCIA_CANDIDATA_DE,0.475205,0.475205,resumen
+FRAGMENTO::2-s2.0-85189898702::resumen::9,INDICADOR::el proyecto desarrolla intervenciones que contribuyeron a disminuir tasas de mortalidad en poblaciones especificas.,EVIDENCIA_CANDIDATA_DE,0.492412,0.492412,resumen
+FRAGMENTO::2-s2.0-85189898702::resumen::10,INDICADOR::el proyecto desarrolla intervenciones que contribuyeron a disminuir tasas de mortalidad en poblaciones especificas.,EVIDENCIA_CANDIDATA_DE,0.522949,0.522949,resumen
+FRAGMENTO::2-s2.0-85189898702::resumen::11,INDICADOR::el proyecto desarrolla intervenciones que contribuyeron a disminuir tasas de mortalidad en poblaciones especificas.,EVIDENCIA_CANDIDATA_DE,0.433058,0.433058,resumen
+FRAGMENTO::2-s2.0-85189898702::resumen::12,INDICADOR::el proyecto desarrolla intervenciones que contribuyeron a disminuir tasas de mortalidad en poblaciones especificas.,EVIDENCIA_CANDIDATA_DE,0.456676,0.456676,resumen
+FRAGMENTO::2-s2.0-85189898702::resumen::13,INDICADOR::el proyecto desarrolla intervenciones que contribuyeron a disminuir tasas de mortalidad en poblaciones especificas.,EVIDENCIA_CANDIDATA_DE,0.55368,0.55368,resumen
+FRAGMENTO::2-s2.0-85189898702::resumen::14,INDICADOR::el proyecto desarrolla intervenciones que contribuyeron a disminuir tasas de mortalidad en poblaciones especificas.,EVIDENCIA_CANDIDATA_DE,0.533794,0.533794,resumen
+FRAGMENTO::2-s2.0-85189898702::resumen::15,INDICADOR::el proyecto desarrolla intervenciones que contribuyeron a disminuir tasas de mortalidad en poblaciones especificas.,EVIDENCIA_CANDIDATA_DE,0.589961,0.589961,resumen
+ARTICULO::2-s2.0-85156248326,FRAGMENTO::2-s2.0-85156248326::facultad::1,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85156248326,FRAGMENTO::2-s2.0-85156248326::programa_creacion::2,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85156248326,FRAGMENTO::2-s2.0-85156248326::tipo_documental::3,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85156248326,FRAGMENTO::2-s2.0-85156248326::investigador_docente::4,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85156248326,FRAGMENTO::2-s2.0-85156248326::anio::5,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85156248326,FRAGMENTO::2-s2.0-85156248326::nombre_producto::6,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85156248326,FRAGMENTO::2-s2.0-85156248326::resumen::7,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85156248326,FRAGMENTO::2-s2.0-85156248326::resumen::8,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85156248326,FRAGMENTO::2-s2.0-85156248326::resumen::9,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85156248326,FRAGMENTO::2-s2.0-85156248326::resumen::10,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85156248326,FRAGMENTO::2-s2.0-85156248326::resumen::11,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85156248326,FRAGMENTO::2-s2.0-85156248326::resumen::12,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85156248326,FRAGMENTO::2-s2.0-85156248326::resumen::13,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85156248326,FRAGMENTO::2-s2.0-85156248326::palabras_clave::14,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85156248326,FRAGMENTO::2-s2.0-85156248326::nombre_revista_libro::15,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85156248326,FRAGMENTO::2-s2.0-85156248326::fuente::16,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85156248326,FRAGMENTO::2-s2.0-85156248326::coautores::17,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85156248326,FRAGMENTO::2-s2.0-85156248326::afiliacion_coautores::18,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85156248326,FRAGMENTO::2-s2.0-85156248326::pais_coautores::19,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85156248326,FACULTAD::educacion,PERTENECE_FACULTAD,0.35,,
+ARTICULO::2-s2.0-85156248326,PROGRAMA::mega prime educacion,PERTENECE_PROGRAMA,0.4,,
+ARTICULO::2-s2.0-85156248326,"INVESTIGADOR::de souza martins, marlucio",TIENE_INVESTIGADOR,0.65,,
+ARTICULO::2-s2.0-85156248326,PALABRA_CLAVE::health,TIENE_PALABRA_CLAVE,0.7,,
+ARTICULO::2-s2.0-85156248326,PALABRA_CLAVE::psychological factors,TIENE_PALABRA_CLAVE,0.7,,
+ARTICULO::2-s2.0-85156248326,PALABRA_CLAVE::quality of life,TIENE_PALABRA_CLAVE,0.7,,
+ARTICULO::2-s2.0-85156248326,PALABRA_CLAVE::systematic review,TIENE_PALABRA_CLAVE,0.7,,
+ARTICULO::2-s2.0-85156248326,PALABRA_CLAVE::university students,TIENE_PALABRA_CLAVE,0.7,,
+ARTICULO::2-s2.0-85156248326,"COAUTOR::de souza-martins, marlucio",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85156248326,"COAUTOR::figueroa-angel, melba ximena",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85156248326,AFILIACION::universidad santo tomas,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85156248326,AFILIACION::pontificia universidad javeriana,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85156248326,PAIS::colombia,PAIS_RELACIONADO,0.1,,
+FRAGMENTO::2-s2.0-85156248326::nombre_producto::6,INDICADOR::mejora en la calidad de vida o bienestar atribuida al proyecto.,EVIDENCIA_CANDIDATA_DE,0.423873,0.423873,nombre_producto
+FRAGMENTO::2-s2.0-85156248326::resumen::7,"INDICADOR::el proyecto incorpora enfoques interdisciplinarios o transdisciplinarios tanto en el planteamiento del problema como en los metodos, tipos de analisis y perspectivas conceptuales utilizadas.",EVIDENCIA_CANDIDATA_DE,0.542274,0.542274,resumen
+FRAGMENTO::2-s2.0-85156248326::resumen::7,INDICADOR::el proyecto fortalece el bienestar fisico y mental de la poblacion.,EVIDENCIA_CANDIDATA_DE,0.5285,0.5285,resumen
+FRAGMENTO::2-s2.0-85156248326::resumen::7,INDICADOR::mejora en la calidad de vida o bienestar atribuida al proyecto.,EVIDENCIA_CANDIDATA_DE,0.505439,0.505439,resumen
+FRAGMENTO::2-s2.0-85156248326::resumen::8,INDICADOR::el proyecto fortalece el bienestar fisico y mental de la poblacion.,EVIDENCIA_CANDIDATA_DE,0.497965,0.497965,resumen
+FRAGMENTO::2-s2.0-85156248326::resumen::8,INDICADOR::mejora en la calidad de vida o bienestar atribuida al proyecto.,EVIDENCIA_CANDIDATA_DE,0.495478,0.495478,resumen
+FRAGMENTO::2-s2.0-85156248326::resumen::8,"INDICADOR::el proyecto impulsa el crecimiento economico de los grupos de interes (medido en tir, ingresos, calidad de vida, etc.).",EVIDENCIA_CANDIDATA_DE,0.443964,0.443964,resumen
+FRAGMENTO::2-s2.0-85156248326::resumen::9,INDICADOR::el proyecto fortalece el bienestar fisico y mental de la poblacion.,EVIDENCIA_CANDIDATA_DE,0.491545,0.491545,resumen
+FRAGMENTO::2-s2.0-85156248326::resumen::9,INDICADOR::mejora en la calidad de vida o bienestar atribuida al proyecto.,EVIDENCIA_CANDIDATA_DE,0.487117,0.487117,resumen
+FRAGMENTO::2-s2.0-85156248326::resumen::9,INDICADOR::el proyecto implementa acciones orientadas a mejorar la calidad de vida de personas en situacion de discapacidad.,EVIDENCIA_CANDIDATA_DE,0.446755,0.446755,resumen
+FRAGMENTO::2-s2.0-85156248326::resumen::10,"INDICADOR::el proyecto desarrolla soluciones ambientales asociadas a servicios ecosistemicos, biodiversidad o sostenibilidad ambiental.",EVIDENCIA_CANDIDATA_DE,0.543469,0.543469,resumen
+FRAGMENTO::2-s2.0-85156248326::resumen::10,"INDICADOR::el proyecto genera mejoras sostenibles en el entorno ambiental, economico y social de los grupos de interes.",EVIDENCIA_CANDIDATA_DE,0.538302,0.538302,resumen
+FRAGMENTO::2-s2.0-85156248326::resumen::10,INDICADOR::el proyecto establece mecanismos para el dialogo de saberes entre actores academicos y otros actores sociales.,EVIDENCIA_CANDIDATA_DE,0.49721,0.49721,resumen
+FRAGMENTO::2-s2.0-85156248326::resumen::11,"INDICADOR::el proyecto incorpora enfoques interdisciplinarios o transdisciplinarios tanto en el planteamiento del problema como en los metodos, tipos de analisis y perspectivas conceptuales utilizadas.",EVIDENCIA_CANDIDATA_DE,0.441104,0.441104,resumen
+FRAGMENTO::2-s2.0-85156248326::resumen::11,"INDICADOR::nivel en que los resultados, metodologias o saberes generados por el proyecto son difundidos en formatos comprensibles, abiertos y reutilizables, y en que dichos materiales son efectivamente consultados y aprovechados por publicos diversos.",EVIDENCIA_CANDIDATA_DE,0.427231,0.427231,resumen
+FRAGMENTO::2-s2.0-85156248326::resumen::11,INDICADOR::mejora en la calidad de vida o bienestar atribuida al proyecto.,EVIDENCIA_CANDIDATA_DE,0.426338,0.426338,resumen
+FRAGMENTO::2-s2.0-85156248326::resumen::13,INDICADOR::mejora en la calidad de vida o bienestar atribuida al proyecto.,EVIDENCIA_CANDIDATA_DE,0.498963,0.498963,resumen
+FRAGMENTO::2-s2.0-85156248326::resumen::13,INDICADOR::el proyecto fortalece el bienestar fisico y mental de la poblacion.,EVIDENCIA_CANDIDATA_DE,0.497361,0.497361,resumen
+FRAGMENTO::2-s2.0-85156248326::resumen::13,INDICADOR::el proyecto implementa acciones orientadas a mejorar la calidad de vida de personas en situacion de discapacidad.,EVIDENCIA_CANDIDATA_DE,0.439248,0.439248,resumen
+FRAGMENTO::2-s2.0-85156248326::palabras_clave::14,INDICADOR::mejora en la calidad de vida o bienestar atribuida al proyecto.,EVIDENCIA_CANDIDATA_DE,0.612708,0.612708,palabras_clave
+FRAGMENTO::2-s2.0-85156248326::palabras_clave::14,INDICADOR::el proyecto fortalece el bienestar fisico y mental de la poblacion.,EVIDENCIA_CANDIDATA_DE,0.574101,0.574101,palabras_clave
+FRAGMENTO::2-s2.0-85156248326::palabras_clave::14,INDICADOR::el proyecto implementa acciones orientadas a mejorar la calidad de vida de personas en situacion de discapacidad.,EVIDENCIA_CANDIDATA_DE,0.519835,0.519835,palabras_clave
+ARTICULO::2-s2.0-85099940331,FRAGMENTO::2-s2.0-85099940331::facultad::1,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85099940331,FRAGMENTO::2-s2.0-85099940331::programa_creacion::2,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85099940331,FRAGMENTO::2-s2.0-85099940331::tipo_documental::3,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85099940331,FRAGMENTO::2-s2.0-85099940331::investigador_docente::4,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85099940331,FRAGMENTO::2-s2.0-85099940331::anio::5,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85099940331,FRAGMENTO::2-s2.0-85099940331::nombre_producto::6,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85099940331,FRAGMENTO::2-s2.0-85099940331::resumen::7,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85099940331,FRAGMENTO::2-s2.0-85099940331::resumen::8,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85099940331,FRAGMENTO::2-s2.0-85099940331::resumen::9,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85099940331,FRAGMENTO::2-s2.0-85099940331::resumen::10,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85099940331,FRAGMENTO::2-s2.0-85099940331::resumen::11,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85099940331,FRAGMENTO::2-s2.0-85099940331::resumen::12,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85099940331,FRAGMENTO::2-s2.0-85099940331::palabras_clave::13,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85099940331,FRAGMENTO::2-s2.0-85099940331::nombre_revista_libro::14,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85099940331,FRAGMENTO::2-s2.0-85099940331::fuente::15,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85099940331,FRAGMENTO::2-s2.0-85099940331::coautores::16,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85099940331,FRAGMENTO::2-s2.0-85099940331::afiliacion_coautores::17,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85099940331,FRAGMENTO::2-s2.0-85099940331::pais_coautores::18,CONTIENE,1.0,,
+ARTICULO::2-s2.0-85099940331,FACULTAD::psicologia,PERTENECE_FACULTAD,0.35,,
+ARTICULO::2-s2.0-85099940331,PROGRAMA::tanda mega prime,PERTENECE_PROGRAMA,0.4,,
+ARTICULO::2-s2.0-85099940331,"INVESTIGADOR::lopez lopez, wilson",TIENE_INVESTIGADOR,0.65,,
+ARTICULO::2-s2.0-85099940331,PALABRA_CLAVE::bibliometric analysis,TIENE_PALABRA_CLAVE,0.7,,
+ARTICULO::2-s2.0-85099940331,PALABRA_CLAVE::history of psychology,TIENE_PALABRA_CLAVE,0.7,,
+ARTICULO::2-s2.0-85099940331,PALABRA_CLAVE::ibero-america,TIENE_PALABRA_CLAVE,0.7,,
+ARTICULO::2-s2.0-85099940331,PALABRA_CLAVE::metabibliometric analysis,TIENE_PALABRA_CLAVE,0.7,,
+ARTICULO::2-s2.0-85099940331,PALABRA_CLAVE::scientometrics,TIENE_PALABRA_CLAVE,0.7,,
+ARTICULO::2-s2.0-85099940331,"COAUTOR::gallegos m., perez-acosta a.m., klappenbach h., lopez w.l., bregman c.",TIENE_COAUTOR,0.65,,
+ARTICULO::2-s2.0-85099940331,"AFILIACION::universidad nacional de rosario, argentina",AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85099940331,"AFILIACION::universidad catolica del maule, chile",AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85099940331,"AFILIACION::universidade catolica de minas gerais, brazil",AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85099940331,"AFILIACION::nacional de investigaciones cientificas y tecnicas (conicet), buenos aires, argentina",AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85099940331,"AFILIACION::escuela de medicina y ciencias de la salud de la universidad del rosario, bogota, colombia",AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85099940331,"AFILIACION::universidad nacional de san luis, nacional de investigaciones cientificas y tecnicas (conicet), argentina",AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85099940331,"AFILIACION::universidad javeriana, bogota, colombia",AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85099940331,"AFILIACION::psicoterapeuta, fundacion aigle, buenos aires, argentina",AFILIACION_RELACIONADA,0.55,,
+ARTICULO::2-s2.0-85099940331,PAIS::colombia chile argentina brazil,PAIS_RELACIONADO,0.1,,
+FRAGMENTO::2-s2.0-85099940331::resumen::7,"INDICADOR::el proyecto incorpora enfoques interdisciplinarios o transdisciplinarios tanto en el planteamiento del problema como en los metodos, tipos de analisis y perspectivas conceptuales utilizadas.",EVIDENCIA_CANDIDATA_DE,0.454477,0.454477,resumen
+FRAGMENTO::2-s2.0-85099940331::resumen::8,"INDICADOR::nivel en que los resultados, metodologias o saberes generados por el proyecto son difundidos en formatos comprensibles, abiertos y reutilizables, y en que dichos materiales son efectivamente consultados y aprovechados por publicos diversos.",EVIDENCIA_CANDIDATA_DE,0.49721,0.49721,resumen
+FRAGMENTO::2-s2.0-85099940331::resumen::8,"INDICADOR::el proyecto incorpora enfoques interdisciplinarios o transdisciplinarios tanto en el planteamiento del problema como en los metodos, tipos de analisis y perspectivas conceptuales utilizadas.",EVIDENCIA_CANDIDATA_DE,0.483016,0.483016,resumen
+FRAGMENTO::2-s2.0-85099940331::resumen::8,"INDICADOR::numero de productos (comunicados, articulos, blogs, libros, videos, material para redes sociales, entre otros) disenados y utilizados para comunicar los resultados del proyecto a publicos diversos.",EVIDENCIA_CANDIDATA_DE,0.432282,0.432282,resumen
+FRAGMENTO::2-s2.0-85099940331::resumen::10,INDICADOR::numero de menciones en medios de comunicacion y redes sociales de los hallazgos del proyecto.,EVIDENCIA_CANDIDATA_DE,0.497807,0.497807,resumen
+FRAGMENTO::2-s2.0-85099940331::resumen::10,"INDICADOR::numero de documentos oficiales (politica publica, leyes, regulaciones o decisiones judiciales) que citan resultados del proyecto.",EVIDENCIA_CANDIDATA_DE,0.48526,0.48526,resumen
+FRAGMENTO::2-s2.0-85099940331::resumen::10,INDICADOR::numero de informes tecnicos o documentos de politica generados desde el proyecto y entregados a entidades gubernamentales.,EVIDENCIA_CANDIDATA_DE,0.451699,0.451699,resumen
+FRAGMENTO::2-s2.0-85099940331::resumen::12,"INDICADOR::el proyecto incorpora enfoques interdisciplinarios o transdisciplinarios tanto en el planteamiento del problema como en los metodos, tipos de analisis y perspectivas conceptuales utilizadas.",EVIDENCIA_CANDIDATA_DE,0.444404,0.444404,resumen
+FRAGMENTO::2-s2.0-85099940331::palabras_clave::13,INDICADOR::numero de espacios publicos promovidos por el proyecto para debatir la problematica investigativa y social mas alla del ambito academico.,EVIDENCIA_CANDIDATA_DE,0.452533,0.452533,palabras_clave
+FRAGMENTO::2-s2.0-85099940331::palabras_clave::13,"INDICADOR::numero de manuales, herramientas o metodologias derivadas del proyecto y adoptadas por entidades estatales.",EVIDENCIA_CANDIDATA_DE,0.438735,0.438735,palabras_clave
+FRAGMENTO::2-s2.0-85099940331::palabras_clave::13,INDICADOR::numero de menciones en medios de comunicacion y redes sociales de los hallazgos del proyecto.,EVIDENCIA_CANDIDATA_DE,0.435722,0.435722,palabras_clave
+ARTICULO::ART-DEMO-001,FRAGMENTO::ART-DEMO-001::tipo_documental::1,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-001,FRAGMENTO::ART-DEMO-001::investigador_docente::2,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-001,FRAGMENTO::ART-DEMO-001::anio::3,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-001,FRAGMENTO::ART-DEMO-001::nombre_producto::4,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-001,FRAGMENTO::ART-DEMO-001::resumen::5,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-001,FRAGMENTO::ART-DEMO-001::palabras_clave::6,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-001,FRAGMENTO::ART-DEMO-001::nombre_revista_libro::7,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-001,FRAGMENTO::ART-DEMO-001::fuente::8,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-001,FRAGMENTO::ART-DEMO-001::coautores::9,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-001,FRAGMENTO::ART-DEMO-001::afiliacion_coautores::10,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-001,FRAGMENTO::ART-DEMO-001::pais_coautores::11,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-001,FRAGMENTO::ART-DEMO-001::objetivos::12,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-001,"INVESTIGADOR::autora demo, elena",TIENE_INVESTIGADOR,0.65,,
+ARTICULO::ART-DEMO-001,PALABRA_CLAVE::telehealth,TIENE_PALABRA_CLAVE,0.7,,
+ARTICULO::ART-DEMO-001,PALABRA_CLAVE::caregivers,TIENE_PALABRA_CLAVE,0.7,,
+ARTICULO::ART-DEMO-001,PALABRA_CLAVE::active participation,TIENE_PALABRA_CLAVE,0.7,,
+ARTICULO::ART-DEMO-001,PALABRA_CLAVE::rural health,TIENE_PALABRA_CLAVE,0.7,,
+ARTICULO::ART-DEMO-001,"COAUTOR::autor demo, andres",TIENE_COAUTOR,0.65,,
+ARTICULO::ART-DEMO-001,AFILIACION::universidad demo,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::ART-DEMO-001,PAIS::colombia,PAIS_RELACIONADO,0.1,,
+FRAGMENTO::ART-DEMO-001::nombre_producto::4,INDICADOR::el proyecto fortalece estrategias participativas de cuidado implementadas por distintos actores sociales.,EVIDENCIA_CANDIDATA_DE,0.59376,0.59376,nombre_producto
+FRAGMENTO::ART-DEMO-001::nombre_producto::4,INDICADOR::el proyecto implementa acciones orientadas a mejorar la calidad de vida de personas en situacion de discapacidad.,EVIDENCIA_CANDIDATA_DE,0.469536,0.469536,nombre_producto
+FRAGMENTO::ART-DEMO-001::resumen::5,INDICADOR::el proyecto fortalece estrategias participativas de cuidado implementadas por distintos actores sociales.,EVIDENCIA_CANDIDATA_DE,0.671364,0.671364,resumen
+FRAGMENTO::ART-DEMO-001::resumen::5,"INDICADOR::el proyecto incorpora enfoques interdisciplinarios o transdisciplinarios tanto en el planteamiento del problema como en los metodos, tipos de analisis y perspectivas conceptuales utilizadas.",EVIDENCIA_CANDIDATA_DE,0.587642,0.587642,resumen
+FRAGMENTO::ART-DEMO-001::resumen::5,"INDICADOR::nivel de participacion efectiva de actores de la comunidad, estado, sociedad o empresa en la formulacion, ejecucion y evaluacion del proyecto.",EVIDENCIA_CANDIDATA_DE,0.570398,0.570398,resumen
+FRAGMENTO::ART-DEMO-001::palabras_clave::6,INDICADOR::el proyecto fortalece estrategias participativas de cuidado implementadas por distintos actores sociales.,EVIDENCIA_CANDIDATA_DE,0.650896,0.650896,palabras_clave
+FRAGMENTO::ART-DEMO-001::palabras_clave::6,INDICADOR::el proyecto fortalece el bienestar fisico y mental de la poblacion.,EVIDENCIA_CANDIDATA_DE,0.51055,0.51055,palabras_clave
+FRAGMENTO::ART-DEMO-001::palabras_clave::6,INDICADOR::el proyecto implementa acciones orientadas a mejorar la calidad de vida de personas en situacion de discapacidad.,EVIDENCIA_CANDIDATA_DE,0.508361,0.508361,palabras_clave
+FRAGMENTO::ART-DEMO-001::objetivos::12,INDICADOR::el proyecto fortalece estrategias participativas de cuidado implementadas por distintos actores sociales.,EVIDENCIA_CANDIDATA_DE,0.686523,0.686523,objetivos
+FRAGMENTO::ART-DEMO-001::objetivos::12,"INDICADOR::nivel de participacion efectiva de actores de la comunidad, estado, sociedad o empresa en la formulacion, ejecucion y evaluacion del proyecto.",EVIDENCIA_CANDIDATA_DE,0.650734,0.650734,objetivos
+FRAGMENTO::ART-DEMO-001::objetivos::12,"INDICADOR::el proyecto contribuye a consolidar redes de colaboracion y alianzas entre comunidades, organizaciones e instituciones.",EVIDENCIA_CANDIDATA_DE,0.579073,0.579073,objetivos
+ARTICULO::ART-DEMO-002,FRAGMENTO::ART-DEMO-002::tipo_documental::1,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-002,FRAGMENTO::ART-DEMO-002::investigador_docente::2,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-002,FRAGMENTO::ART-DEMO-002::anio::3,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-002,FRAGMENTO::ART-DEMO-002::nombre_producto::4,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-002,FRAGMENTO::ART-DEMO-002::resumen::5,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-002,FRAGMENTO::ART-DEMO-002::palabras_clave::6,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-002,FRAGMENTO::ART-DEMO-002::nombre_revista_libro::7,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-002,FRAGMENTO::ART-DEMO-002::fuente::8,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-002,FRAGMENTO::ART-DEMO-002::coautores::9,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-002,FRAGMENTO::ART-DEMO-002::afiliacion_coautores::10,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-002,FRAGMENTO::ART-DEMO-002::pais_coautores::11,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-002,FRAGMENTO::ART-DEMO-002::objetivos::12,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-002,"INVESTIGADOR::autor demo, nicolas",TIENE_INVESTIGADOR,0.65,,
+ARTICULO::ART-DEMO-002,PALABRA_CLAVE::citizen science,TIENE_PALABRA_CLAVE,0.7,,
+ARTICULO::ART-DEMO-002,PALABRA_CLAVE::open sensors,TIENE_PALABRA_CLAVE,0.7,,
+ARTICULO::ART-DEMO-002,PALABRA_CLAVE::air quality,TIENE_PALABRA_CLAVE,0.7,,
+ARTICULO::ART-DEMO-002,PALABRA_CLAVE::public communication,TIENE_PALABRA_CLAVE,0.7,,
+ARTICULO::ART-DEMO-002,"COAUTOR::autora demo, valeria",TIENE_COAUTOR,0.65,,
+ARTICULO::ART-DEMO-002,AFILIACION::universidad demo,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::ART-DEMO-002,PAIS::colombia,PAIS_RELACIONADO,0.1,,
+FRAGMENTO::ART-DEMO-002::nombre_producto::4,"INDICADOR::el proyecto facilita la participacion activa de los grupos de interes en procesos de formulacion, monitoreo o evaluacion de politicas publicas o iniciativas de ciencia ciudadana.",EVIDENCIA_CANDIDATA_DE,0.436686,0.436686,nombre_producto
+FRAGMENTO::ART-DEMO-002::nombre_producto::4,INDICADOR::el proyecto contribuye a prevenir riesgos en salud publica.,EVIDENCIA_CANDIDATA_DE,0.432765,0.432765,nombre_producto
+FRAGMENTO::ART-DEMO-002::nombre_producto::4,INDICADOR::el proyecto desarrolla productos y estrategias eficaces para comunicar el conocimiento generado a publicos no especializados.,EVIDENCIA_CANDIDATA_DE,0.428669,0.428669,nombre_producto
+FRAGMENTO::ART-DEMO-002::resumen::5,"INDICADOR::nivel en que los resultados, metodologias o saberes generados por el proyecto son difundidos en formatos comprensibles, abiertos y reutilizables, y en que dichos materiales son efectivamente consultados y aprovechados por publicos diversos.",EVIDENCIA_CANDIDATA_DE,0.533809,0.533809,resumen
+FRAGMENTO::ART-DEMO-002::resumen::5,"INDICADOR::el proyecto facilita la participacion activa de los grupos de interes en procesos de formulacion, monitoreo o evaluacion de politicas publicas o iniciativas de ciencia ciudadana.",EVIDENCIA_CANDIDATA_DE,0.518385,0.518385,resumen
+FRAGMENTO::ART-DEMO-002::resumen::5,INDICADOR::el proyecto utiliza tecnologia para maximizar el impacto positivo en comunidades o actores destinatarios.,EVIDENCIA_CANDIDATA_DE,0.511945,0.511945,resumen
+FRAGMENTO::ART-DEMO-002::palabras_clave::6,"INDICADOR::el proyecto facilita la participacion activa de los grupos de interes en procesos de formulacion, monitoreo o evaluacion de politicas publicas o iniciativas de ciencia ciudadana.",EVIDENCIA_CANDIDATA_DE,0.606439,0.606439,palabras_clave
+FRAGMENTO::ART-DEMO-002::palabras_clave::6,INDICADOR::el proyecto desarrolla productos y estrategias eficaces para comunicar el conocimiento generado a publicos no especializados.,EVIDENCIA_CANDIDATA_DE,0.572359,0.572359,palabras_clave
+FRAGMENTO::ART-DEMO-002::palabras_clave::6,"INDICADOR::nivel en que los resultados, metodologias o saberes generados por el proyecto son difundidos en formatos comprensibles, abiertos y reutilizables, y en que dichos materiales son efectivamente consultados y aprovechados por publicos diversos.",EVIDENCIA_CANDIDATA_DE,0.54731,0.54731,palabras_clave
+FRAGMENTO::ART-DEMO-002::objetivos::12,INDICADOR::el proyecto desarrolla productos y estrategias eficaces para comunicar el conocimiento generado a publicos no especializados.,EVIDENCIA_CANDIDATA_DE,0.859679,0.859679,objetivos
+FRAGMENTO::ART-DEMO-002::objetivos::12,"INDICADOR::numero de productos (comunicados, articulos, blogs, libros, videos, material para redes sociales, entre otros) disenados y utilizados para comunicar los resultados del proyecto a publicos diversos.",EVIDENCIA_CANDIDATA_DE,0.673903,0.673903,objetivos
+FRAGMENTO::ART-DEMO-002::objetivos::12,"INDICADOR::nivel en que los resultados, metodologias o saberes generados por el proyecto son difundidos en formatos comprensibles, abiertos y reutilizables, y en que dichos materiales son efectivamente consultados y aprovechados por publicos diversos.",EVIDENCIA_CANDIDATA_DE,0.610031,0.610031,objetivos
+ARTICULO::ART-DEMO-003,FRAGMENTO::ART-DEMO-003::tipo_documental::1,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-003,FRAGMENTO::ART-DEMO-003::investigador_docente::2,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-003,FRAGMENTO::ART-DEMO-003::anio::3,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-003,FRAGMENTO::ART-DEMO-003::nombre_producto::4,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-003,FRAGMENTO::ART-DEMO-003::resumen::5,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-003,FRAGMENTO::ART-DEMO-003::palabras_clave::6,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-003,FRAGMENTO::ART-DEMO-003::nombre_revista_libro::7,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-003,FRAGMENTO::ART-DEMO-003::fuente::8,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-003,FRAGMENTO::ART-DEMO-003::coautores::9,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-003,FRAGMENTO::ART-DEMO-003::afiliacion_coautores::10,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-003,FRAGMENTO::ART-DEMO-003::pais_coautores::11,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-003,FRAGMENTO::ART-DEMO-003::objetivos::12,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-003,"INVESTIGADOR::autora demo, manuela",TIENE_INVESTIGADOR,0.65,,
+ARTICULO::ART-DEMO-003,PALABRA_CLAVE::cultural memory,TIENE_PALABRA_CLAVE,0.7,,
+ARTICULO::ART-DEMO-003,PALABRA_CLAVE::community identity,TIENE_PALABRA_CLAVE,0.7,,
+ARTICULO::ART-DEMO-003,PALABRA_CLAVE::heritage,TIENE_PALABRA_CLAVE,0.7,,
+ARTICULO::ART-DEMO-003,PALABRA_CLAVE::digital storytelling,TIENE_PALABRA_CLAVE,0.7,,
+ARTICULO::ART-DEMO-003,"COAUTOR::autor demo, felipe",TIENE_COAUTOR,0.65,,
+ARTICULO::ART-DEMO-003,AFILIACION::universidad demo,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::ART-DEMO-003,PAIS::colombia,PAIS_RELACIONADO,0.1,,
+FRAGMENTO::ART-DEMO-003::nombre_producto::4,"INDICADOR::el proyecto fortalece procesos de construccion, preservacion y revitalizacion de la memoria e identidad cultural en comunidades o territorios.",EVIDENCIA_CANDIDATA_DE,0.670673,0.670673,nombre_producto
+FRAGMENTO::ART-DEMO-003::nombre_producto::4,"INDICADOR::el proyecto promueve la conservacion, valorizacion o enriquecimiento del patrimonio cultural, ya sea material o inmaterial.",EVIDENCIA_CANDIDATA_DE,0.454246,0.454246,nombre_producto
+FRAGMENTO::ART-DEMO-003::nombre_producto::4,INDICADOR::el proyecto desarrolla productos y estrategias eficaces para comunicar el conocimiento generado a publicos no especializados.,EVIDENCIA_CANDIDATA_DE,0.442848,0.442848,nombre_producto
+FRAGMENTO::ART-DEMO-003::resumen::5,"INDICADOR::el proyecto fortalece procesos de construccion, preservacion y revitalizacion de la memoria e identidad cultural en comunidades o territorios.",EVIDENCIA_CANDIDATA_DE,0.601351,0.601351,resumen
+FRAGMENTO::ART-DEMO-003::resumen::5,"INDICADOR::numero de productos (comunicados, articulos, blogs, libros, videos, material para redes sociales, entre otros) disenados y utilizados para comunicar los resultados del proyecto a publicos diversos.",EVIDENCIA_CANDIDATA_DE,0.535655,0.535655,resumen
+FRAGMENTO::ART-DEMO-003::resumen::5,INDICADOR::numero de espacios publicos promovidos por el proyecto para debatir la problematica investigativa y social mas alla del ambito academico.,EVIDENCIA_CANDIDATA_DE,0.534914,0.534914,resumen
+FRAGMENTO::ART-DEMO-003::palabras_clave::6,"INDICADOR::el proyecto fortalece procesos de construccion, preservacion y revitalizacion de la memoria e identidad cultural en comunidades o territorios.",EVIDENCIA_CANDIDATA_DE,0.734671,0.734671,palabras_clave
+FRAGMENTO::ART-DEMO-003::palabras_clave::6,"INDICADOR::el proyecto promueve la conservacion, valorizacion o enriquecimiento del patrimonio cultural, ya sea material o inmaterial.",EVIDENCIA_CANDIDATA_DE,0.562508,0.562508,palabras_clave
+FRAGMENTO::ART-DEMO-003::palabras_clave::6,INDICADOR::numero de espacios publicos promovidos por el proyecto para debatir la problematica investigativa y social mas alla del ambito academico.,EVIDENCIA_CANDIDATA_DE,0.468612,0.468612,palabras_clave
+FRAGMENTO::ART-DEMO-003::objetivos::12,"INDICADOR::el proyecto fortalece procesos de construccion, preservacion y revitalizacion de la memoria e identidad cultural en comunidades o territorios.",EVIDENCIA_CANDIDATA_DE,0.832114,0.832114,objetivos
+FRAGMENTO::ART-DEMO-003::objetivos::12,"INDICADOR::el proyecto promueve la conservacion, valorizacion o enriquecimiento del patrimonio cultural, ya sea material o inmaterial.",EVIDENCIA_CANDIDATA_DE,0.588173,0.588173,objetivos
+FRAGMENTO::ART-DEMO-003::objetivos::12,"INDICADOR::la solucion generada por el proyecto es usada, adaptada, replicada o sostenida por la comunidad, territorio o entidad beneficiaria.",EVIDENCIA_CANDIDATA_DE,0.452123,0.452123,objetivos
+ARTICULO::ART-DEMO-004,FRAGMENTO::ART-DEMO-004::tipo_documental::1,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-004,FRAGMENTO::ART-DEMO-004::investigador_docente::2,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-004,FRAGMENTO::ART-DEMO-004::anio::3,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-004,FRAGMENTO::ART-DEMO-004::nombre_producto::4,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-004,FRAGMENTO::ART-DEMO-004::resumen::5,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-004,FRAGMENTO::ART-DEMO-004::palabras_clave::6,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-004,FRAGMENTO::ART-DEMO-004::nombre_revista_libro::7,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-004,FRAGMENTO::ART-DEMO-004::fuente::8,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-004,FRAGMENTO::ART-DEMO-004::coautores::9,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-004,FRAGMENTO::ART-DEMO-004::afiliacion_coautores::10,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-004,FRAGMENTO::ART-DEMO-004::pais_coautores::11,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-004,FRAGMENTO::ART-DEMO-004::objetivos::12,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-004,"INVESTIGADOR::autor demo, tomas",TIENE_INVESTIGADOR,0.65,,
+ARTICULO::ART-DEMO-004,PALABRA_CLAVE::bioeconomy,TIENE_PALABRA_CLAVE,0.7,,
+ARTICULO::ART-DEMO-004,PALABRA_CLAVE::cooperatives,TIENE_PALABRA_CLAVE,0.7,,
+ARTICULO::ART-DEMO-004,PALABRA_CLAVE::additional income,TIENE_PALABRA_CLAVE,0.7,,
+ARTICULO::ART-DEMO-004,PALABRA_CLAVE::value chain,TIENE_PALABRA_CLAVE,0.7,,
+ARTICULO::ART-DEMO-004,"COAUTOR::autora demo, diana",TIENE_COAUTOR,0.65,,
+ARTICULO::ART-DEMO-004,AFILIACION::universidad demo,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::ART-DEMO-004,PAIS::colombia,PAIS_RELACIONADO,0.1,,
+FRAGMENTO::ART-DEMO-004::palabras_clave::6,INDICADOR::el proyecto promueve capacidades productivas mediante la creacion de redes colaborativas o estrategias de economia solidaria.,EVIDENCIA_CANDIDATA_DE,0.524303,0.524303,palabras_clave
+FRAGMENTO::ART-DEMO-004::palabras_clave::6,"INDICADOR::el proyecto impulsa el crecimiento economico de los grupos de interes (medido en tir, ingresos, calidad de vida, etc.).",EVIDENCIA_CANDIDATA_DE,0.49785,0.49785,palabras_clave
+FRAGMENTO::ART-DEMO-004::palabras_clave::6,"INDICADOR::el proyecto genera mejoras sostenibles en el entorno ambiental, economico y social de los grupos de interes.",EVIDENCIA_CANDIDATA_DE,0.497396,0.497396,palabras_clave
+FRAGMENTO::ART-DEMO-004::objetivos::12,"INDICADOR::el proyecto genera ingresos adicionales mediante la implementacion, validacion o comercializacion de procesos, metodologias o productos nuevos o mejorados.",EVIDENCIA_CANDIDATA_DE,0.760597,0.760597,objetivos
+FRAGMENTO::ART-DEMO-004::objetivos::12,INDICADOR::el proyecto logra reducir costos en procesos organizativos o productivos mediante la implementacion de mejoras o innovaciones.,EVIDENCIA_CANDIDATA_DE,0.575703,0.575703,objetivos
+FRAGMENTO::ART-DEMO-004::objetivos::12,INDICADOR::los resultados tecnologicos son desarrollados con potencial de comercializacion.,EVIDENCIA_CANDIDATA_DE,0.553126,0.553126,objetivos
+ARTICULO::ART-DEMO-005,FRAGMENTO::ART-DEMO-005::tipo_documental::1,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-005,FRAGMENTO::ART-DEMO-005::investigador_docente::2,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-005,FRAGMENTO::ART-DEMO-005::anio::3,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-005,FRAGMENTO::ART-DEMO-005::nombre_producto::4,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-005,FRAGMENTO::ART-DEMO-005::resumen::5,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-005,FRAGMENTO::ART-DEMO-005::palabras_clave::6,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-005,FRAGMENTO::ART-DEMO-005::nombre_revista_libro::7,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-005,FRAGMENTO::ART-DEMO-005::fuente::8,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-005,FRAGMENTO::ART-DEMO-005::coautores::9,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-005,FRAGMENTO::ART-DEMO-005::afiliacion_coautores::10,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-005,FRAGMENTO::ART-DEMO-005::pais_coautores::11,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-005,FRAGMENTO::ART-DEMO-005::objetivos::12,CONTIENE,1.0,,
+ARTICULO::ART-DEMO-005,"INVESTIGADOR::autora demo, paula",TIENE_INVESTIGADOR,0.65,,
+ARTICULO::ART-DEMO-005,PALABRA_CLAVE::climate adaptation,TIENE_PALABRA_CLAVE,0.7,,
+ARTICULO::ART-DEMO-005,PALABRA_CLAVE::policy program,TIENE_PALABRA_CLAVE,0.7,,
+ARTICULO::ART-DEMO-005,PALABRA_CLAVE::evidence briefs,TIENE_PALABRA_CLAVE,0.7,,
+ARTICULO::ART-DEMO-005,PALABRA_CLAVE::public policy,TIENE_PALABRA_CLAVE,0.7,,
+ARTICULO::ART-DEMO-005,"COAUTOR::autor demo, sergio",TIENE_COAUTOR,0.65,,
+ARTICULO::ART-DEMO-005,AFILIACION::universidad demo,AFILIACION_RELACIONADA,0.55,,
+ARTICULO::ART-DEMO-005,PAIS::colombia,PAIS_RELACIONADO,0.1,,
+FRAGMENTO::ART-DEMO-005::nombre_producto::4,"INDICADOR::el proyecto genera mejoras sostenibles en el entorno ambiental, economico y social de los grupos de interes.",EVIDENCIA_CANDIDATA_DE,0.512006,0.512006,nombre_producto
+FRAGMENTO::ART-DEMO-005::nombre_producto::4,"INDICADOR::el proyecto desarrolla soluciones ambientales asociadas a servicios ecosistemicos, biodiversidad o sostenibilidad ambiental.",EVIDENCIA_CANDIDATA_DE,0.484128,0.484128,nombre_producto
+FRAGMENTO::ART-DEMO-005::nombre_producto::4,INDICADOR::el proyecto contribuye a mejorar practicas productivas sostenibles en los sectores o territorios involucrados.,EVIDENCIA_CANDIDATA_DE,0.463855,0.463855,nombre_producto
+FRAGMENTO::ART-DEMO-005::resumen::5,"INDICADOR::el proyecto facilita la participacion activa de los grupos de interes en procesos de formulacion, monitoreo o evaluacion de politicas publicas o iniciativas de ciencia ciudadana.",EVIDENCIA_CANDIDATA_DE,0.621186,0.621186,resumen
+FRAGMENTO::ART-DEMO-005::resumen::5,INDICADOR::numero de informes tecnicos o documentos de politica generados desde el proyecto y entregados a entidades gubernamentales.,EVIDENCIA_CANDIDATA_DE,0.612117,0.612117,resumen
+FRAGMENTO::ART-DEMO-005::resumen::5,"INDICADOR::numero de manuales, herramientas o metodologias derivadas del proyecto y adoptadas por entidades estatales.",EVIDENCIA_CANDIDATA_DE,0.591292,0.591292,resumen
+FRAGMENTO::ART-DEMO-005::palabras_clave::6,"INDICADOR::el proyecto genera mejoras sostenibles en el entorno ambiental, economico y social de los grupos de interes.",EVIDENCIA_CANDIDATA_DE,0.581279,0.581279,palabras_clave
+FRAGMENTO::ART-DEMO-005::palabras_clave::6,INDICADOR::numero de politicas publicas o programas gubernamentales modificados o implementados con base en hallazgos del proyecto.,EVIDENCIA_CANDIDATA_DE,0.575389,0.575389,palabras_clave
+FRAGMENTO::ART-DEMO-005::palabras_clave::6,"INDICADOR::el proyecto facilita la participacion activa de los grupos de interes en procesos de formulacion, monitoreo o evaluacion de politicas publicas o iniciativas de ciencia ciudadana.",EVIDENCIA_CANDIDATA_DE,0.529257,0.529257,palabras_clave
+FRAGMENTO::ART-DEMO-005::objetivos::12,INDICADOR::numero de politicas publicas o programas gubernamentales modificados o implementados con base en hallazgos del proyecto.,EVIDENCIA_CANDIDATA_DE,0.708295,0.708295,objetivos
+FRAGMENTO::ART-DEMO-005::objetivos::12,"INDICADOR::el proyecto facilita la participacion activa de los grupos de interes en procesos de formulacion, monitoreo o evaluacion de politicas publicas o iniciativas de ciencia ciudadana.",EVIDENCIA_CANDIDATA_DE,0.707345,0.707345,objetivos
+FRAGMENTO::ART-DEMO-005::objetivos::12,INDICADOR::el proyecto implica colaboracion efectiva con entidades publicas o actores sociales en la formulacion o evaluacion de politicas.,EVIDENCIA_CANDIDATA_DE,0.650861,0.650861,objetivos

@@ -1,0 +1,662 @@
+{
+  "consulta": "¿Qué proyectos presentan evidencia relacionada con los indicadores institucionales?",
+  "modelo_embeddings": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "proyectos_recuperados_semanticamente": [
+    {
+      "id_proyecto": "ART-DEMO-005",
+      "titulo": "Evidence briefs for local climate adaptation policy",
+      "score_semantico": 0.468949,
+      "fragmentos_relevantes": [
+        {
+          "id_fragmento": "ART-DEMO-005::objetivos::12",
+          "campo_origen": "objetivos",
+          "texto": "Examinar programas públicos implementados a partir de los hallazgos y recomendaciones del estudio.",
+          "score_semantico": 0.656421
+        },
+        {
+          "id_fragmento": "ART-DEMO-005::resumen::5",
+          "campo_origen": "resumen",
+          "texto": "The article analyzes the co-production of evidence briefs with local government, environmental groups and residents to support climate adaptation decisions. Findings informed a local policy program, were translated into accessible materials and discussed in public policy roundtables.",
+          "score_semantico": 0.550552
+        }
+      ]
+    },
+    {
+      "id_proyecto": "2-s2.0-85088984023",
+      "titulo": "The social balance and the relations between the sustainable development goals and the cooperative principles for colombia under a social network analysis [El Balance Social y las relaciones entre los Objetivos de Desarrollo Sostenible y los Principios Cooperativos mediante un Análisis de Redes Sociales]",
+      "score_semantico": 0.436221,
+      "fragmentos_relevantes": [
+        {
+          "id_fragmento": "2-s2.0-85088984023::resumen::7",
+          "campo_origen": "resumen",
+          "texto": "Objectives This article lays down two strong elements in the search for a consensus between the indicators that best represent the practices of the Social and Solidarity Economy-based economy (SSE, hereinafter) and their contribution to the Sustainable Development Goals (SDGs, hereinafter), 1) sustainability according to Brundtland, and 2) the idea that something must be achieved \"beyond GDP\" as an integral indicator of progress, always on the economic, social and environmental level The tendency for accountability upon the intrinsic aspects regarding social profitability tends to make the metrics micro. In fact, the tools based on social balance which are drawn out raise this perspective and leave out the importance of the aggregates, even if they were groups of component units of cooperativism or belonging to the SSE (sectors, communities, territories of varying levels).",
+          "score_semantico": 0.593606
+        },
+        {
+          "id_fragmento": "2-s2.0-85088984023::resumen::18",
+          "campo_origen": "resumen",
+          "texto": "But this does not undermine the importance of the other cooperative principles as they play a part in the organizational environment of multiple actors making up the cooperatives. In this way, the findings reinforce cooperative identity as a core element to direct contributions of cooperatives to the decisions made under Agenda 2030. Original Value and Limitations The work notes that, at this time and because of partiality, it is feasible to reach consensus on micro, meso and macroeconomic indicators to perform comparative and differentiated analyzes regarding each geography aimed at giving a usefulness to Social Balances as an instrument for the construction of Public Policies.",
+          "score_semantico": 0.494869
+        }
+      ]
+    },
+    {
+      "id_proyecto": "ART-DEMO-002",
+      "titulo": "Open sensors and citizen science for urban air quality communication",
+      "score_semantico": 0.428583,
+      "fragmentos_relevantes": [
+        {
+          "id_fragmento": "ART-DEMO-002::resumen::5",
+          "campo_origen": "resumen",
+          "texto": "The study documents an open sensor network developed with schools and neighborhood organizations to measure urban air quality. Participants interpreted results, created and used accessible communication materials for non-specialized publics, and proposed local mitigation actions.",
+          "score_semantico": 0.467927
+        },
+        {
+          "id_fragmento": "ART-DEMO-002::palabras_clave::6",
+          "campo_origen": "palabras_clave",
+          "texto": "citizen science; open sensors; air quality; public communication",
+          "score_semantico": 0.446528
+        }
+      ]
+    }
+  ],
+  "proyectos_agregados_por_grafo": [
+    {
+      "id_proyecto": "ART-DEMO-004",
+      "titulo": "Circular bioeconomy pathways for farmer cooperatives",
+      "score_grafo": 7.167333,
+      "relacionado_mediante": [
+        {
+          "tipo": "INDICADOR",
+          "valor": "El proyecto genera mejoras sostenibles en el entorno ambiental, económico y social de los grupos de interés.",
+          "peso": 1.0
+        },
+        {
+          "tipo": "AFILIACION",
+          "valor": "Universidad Demo",
+          "peso": 0.55
+        },
+        {
+          "tipo": "PAIS",
+          "valor": "Colombia",
+          "peso": 0.1
+        },
+        {
+          "tipo": "INDICADOR",
+          "valor": "El proyecto promueve capacidades productivas mediante la creación de redes colaborativas o estrategias de economía solidaria.",
+          "peso": 1.0
+        }
+      ]
+    },
+    {
+      "id_proyecto": "ART-DEMO-001",
+      "titulo": "Participatory evaluation of a community telehealth program for rural caregivers",
+      "score_grafo": 4.453441,
+      "relacionado_mediante": [
+        {
+          "tipo": "AFILIACION",
+          "valor": "Universidad Demo",
+          "peso": 0.55
+        },
+        {
+          "tipo": "PAIS",
+          "valor": "Colombia",
+          "peso": 0.1
+        },
+        {
+          "tipo": "INDICADOR",
+          "valor": "El proyecto contribuye a consolidar redes de colaboración y alianzas entre comunidades, organizaciones e instituciones.",
+          "peso": 1.0
+        }
+      ]
+    },
+    {
+      "id_proyecto": "ART-DEMO-003",
+      "titulo": "Cultural memory workshops and digital storytelling with displaced youth",
+      "score_grafo": 3.813264,
+      "relacionado_mediante": [
+        {
+          "tipo": "AFILIACION",
+          "valor": "Universidad Demo",
+          "peso": 0.55
+        },
+        {
+          "tipo": "PAIS",
+          "valor": "Colombia",
+          "peso": 0.1
+        },
+        {
+          "tipo": "INDICADOR",
+          "valor": "La solución generada por el proyecto es usada, adaptada, replicada o sostenida por la comunidad, territorio o entidad beneficiaria.",
+          "peso": 1.0
+        },
+        {
+          "tipo": "INDICADOR",
+          "valor": "El proyecto desarrolla productos y estrategias eficaces para comunicar el conocimiento generado a públicos no especializados.",
+          "peso": 1.0
+        },
+        {
+          "tipo": "INDICADOR",
+          "valor": "Número de productos (comunicados, artículos, blogs, libros, videos, material para redes sociales, entre otros) diseñados y utilizados para comunicar los resultados del proyecto a públicos diversos.",
+          "peso": 1.0
+        }
+      ]
+    },
+    {
+      "id_proyecto": "2-s2.0-85141889957",
+      "titulo": "Consenso Colombiano de Tratamiento del Espectro de Acretismo Placentario (EAP)",
+      "score_grafo": 3.082494,
+      "relacionado_mediante": [
+        {
+          "tipo": "INDICADOR",
+          "valor": "El proyecto facilita la participación activa de los grupos de interés en procesos de formulación, monitoreo o evaluación de políticas públicas o iniciativas de ciencia ciudadana.",
+          "peso": 1.0
+        },
+        {
+          "tipo": "INDICADOR",
+          "valor": "Número de políticas públicas o programas gubernamentales modificados o implementados con base en hallazgos del proyecto.",
+          "peso": 1.0
+        },
+        {
+          "tipo": "PAIS",
+          "valor": "Colombia",
+          "peso": 0.1
+        }
+      ]
+    },
+    {
+      "id_proyecto": "2-s2.0-85156248326",
+      "titulo": "Factores psicológicos de los estudiantes universitarios y calidad de vida: Una revisión sistemática prepandemia [Psychological factors of university students and quality of life: A systematic review pre-pandemic]",
+      "score_grafo": 2.378042,
+      "relacionado_mediante": [
+        {
+          "tipo": "INDICADOR",
+          "valor": "El proyecto genera mejoras sostenibles en el entorno ambiental, económico y social de los grupos de interés.",
+          "peso": 1.0
+        },
+        {
+          "tipo": "PAIS",
+          "valor": "Colombia",
+          "peso": 0.1
+        },
+        {
+          "tipo": "AFILIACION",
+          "valor": "Pontificia Universidad Javeriana",
+          "peso": 0.55
+        },
+        {
+          "tipo": "INDICADOR",
+          "valor": "Nivel en que los resultados, metodologías o saberes generados por el proyecto son difundidos en formatos comprensibles, abiertos y reutilizables, y en que dichos materiales son efectivamente consultados y aprovechados por públicos diversos.",
+          "peso": 1.0
+        }
+      ]
+    },
+    {
+      "id_proyecto": "2-s2.0-85099940331",
+      "titulo": "The Bibliometric Studies in the Field of Ibero-American Psychology: A Metabibliometric Review",
+      "score_grafo": 1.94476,
+      "relacionado_mediante": [
+        {
+          "tipo": "INDICADOR",
+          "valor": "Número de informes técnicos o documentos de política generados desde el proyecto y entregados a entidades gubernamentales.",
+          "peso": 1.0
+        },
+        {
+          "tipo": "INDICADOR",
+          "valor": "Número de manuales, herramientas o metodologías derivadas del proyecto y adoptadas por entidades estatales.",
+          "peso": 1.0
+        },
+        {
+          "tipo": "INDICADOR",
+          "valor": "Número de productos (comunicados, artículos, blogs, libros, videos, material para redes sociales, entre otros) diseñados y utilizados para comunicar los resultados del proyecto a públicos diversos.",
+          "peso": 1.0
+        },
+        {
+          "tipo": "INDICADOR",
+          "valor": "Nivel en que los resultados, metodologías o saberes generados por el proyecto son difundidos en formatos comprensibles, abiertos y reutilizables, y en que dichos materiales son efectivamente consultados y aprovechados por públicos diversos.",
+          "peso": 1.0
+        }
+      ]
+    }
+  ],
+  "indicadores_detectados": [
+    {
+      "id_proyecto": "2-s2.0-85088984023",
+      "titulo": "The social balance and the relations between the sustainable development goals and the cooperative principles for colombia under a social network analysis [El Balance Social y las relaciones entre los Objetivos de Desarrollo Sostenible y los Principios Cooperativos mediante un Análisis de Redes Sociales]",
+      "id_fragmento": "2-s2.0-85088984023::palabras_clave::20",
+      "campo_origen": "palabras_clave",
+      "indicador": "El proyecto promueve capacidades productivas mediante la creación de redes colaborativas o estrategias de economía solidaria.",
+      "id_indicador": "ECO-07",
+      "categoria": "IMPACTO_MAS_ALLA_ACADEMIA",
+      "ambito": "ECONOMIA",
+      "score_semantico": 0.718291,
+      "evidencia_original": "Cooperative principles | Social balance | Social networks analysis | Social transfers in kind | Sustainable development goals"
+    },
+    {
+      "id_proyecto": "2-s2.0-85088984023",
+      "titulo": "The social balance and the relations between the sustainable development goals and the cooperative principles for colombia under a social network analysis [El Balance Social y las relaciones entre los Objetivos de Desarrollo Sostenible y los Principios Cooperativos mediante un Análisis de Redes Sociales]",
+      "id_fragmento": "2-s2.0-85088984023::palabras_clave::20",
+      "campo_origen": "palabras_clave",
+      "indicador": "El proyecto contribuye a consolidar redes de colaboración y alianzas entre comunidades, organizaciones e instituciones.",
+      "id_indicador": "SOC-02",
+      "categoria": "IMPACTO_MAS_ALLA_ACADEMIA",
+      "ambito": "SOCIEDAD",
+      "score_semantico": 0.666241,
+      "evidencia_original": "Cooperative principles | Social balance | Social networks analysis | Social transfers in kind | Sustainable development goals"
+    },
+    {
+      "id_proyecto": "2-s2.0-85088984023",
+      "titulo": "The social balance and the relations between the sustainable development goals and the cooperative principles for colombia under a social network analysis [El Balance Social y las relaciones entre los Objetivos de Desarrollo Sostenible y los Principios Cooperativos mediante un Análisis de Redes Sociales]",
+      "id_fragmento": "2-s2.0-85088984023::palabras_clave::20",
+      "campo_origen": "palabras_clave",
+      "indicador": "El proyecto fortalece o consolida eslabones clave de la cadena productiva y/o de suministros estratégicos.",
+      "id_indicador": "ECO-04",
+      "categoria": "IMPACTO_MAS_ALLA_ACADEMIA",
+      "ambito": "ECONOMIA",
+      "score_semantico": 0.607092,
+      "evidencia_original": "Cooperative principles | Social balance | Social networks analysis | Social transfers in kind | Sustainable development goals"
+    },
+    {
+      "id_proyecto": "2-s2.0-85088984023",
+      "titulo": "The social balance and the relations between the sustainable development goals and the cooperative principles for colombia under a social network analysis [El Balance Social y las relaciones entre los Objetivos de Desarrollo Sostenible y los Principios Cooperativos mediante un Análisis de Redes Sociales]",
+      "id_fragmento": "2-s2.0-85088984023::resumen::7",
+      "campo_origen": "resumen",
+      "indicador": "El proyecto contribuye a mejorar prácticas productivas sostenibles en los sectores o territorios involucrados.",
+      "id_indicador": "ECO-05",
+      "categoria": "IMPACTO_MAS_ALLA_ACADEMIA",
+      "ambito": "ECONOMIA",
+      "score_semantico": 0.572048,
+      "evidencia_original": "Objectives This article lays down two strong elements in the search for a consensus between the indicators that best represent the practices of the Social and Solidarity Economy-based economy (SSE, hereinafter) and their contribution to the Sustainable Development Goals (SDGs, hereinafter), 1) sustainability according to Brundtland, and 2) the idea that something must be achieved \"beyond GDP\" as an integral indicator of progress, always on the economic, social and environmental level The tendency for accountability upon the intrinsic aspects regarding social profitability tends to make the metrics micro. In fact, the tools based on social balance which are drawn out raise this perspective and leave out the importance of the aggregates, even if they were groups of component units of cooperativism or belonging to the SSE (sectors, communities, territories of varying levels)."
+    },
+    {
+      "id_proyecto": "2-s2.0-85088984023",
+      "titulo": "The social balance and the relations between the sustainable development goals and the cooperative principles for colombia under a social network analysis [El Balance Social y las relaciones entre los Objetivos de Desarrollo Sostenible y los Principios Cooperativos mediante un Análisis de Redes Sociales]",
+      "id_fragmento": "2-s2.0-85088984023::nombre_producto::6",
+      "campo_origen": "nombre_producto",
+      "indicador": "El proyecto genera mejoras sostenibles en el entorno ambiental, económico y social de los grupos de interés.",
+      "id_indicador": "AMB-02",
+      "categoria": "IMPACTO_MAS_ALLA_ACADEMIA",
+      "ambito": "MEDIO_AMBIENTE",
+      "score_semantico": 0.569767,
+      "evidencia_original": "The social balance and the relations between the sustainable development goals and the cooperative principles for colombia under a social network analysis [El Balance Social y las relaciones entre los Objetivos de Desarrollo Sostenible y los Principios Cooperativos mediante un Análisis de Redes Sociales]"
+    },
+    {
+      "id_proyecto": "2-s2.0-85088984023",
+      "titulo": "The social balance and the relations between the sustainable development goals and the cooperative principles for colombia under a social network analysis [El Balance Social y las relaciones entre los Objetivos de Desarrollo Sostenible y los Principios Cooperativos mediante un Análisis de Redes Sociales]",
+      "id_fragmento": "2-s2.0-85088984023::resumen::9",
+      "campo_origen": "resumen",
+      "indicador": "La solución generada por el proyecto es usada, adaptada, replicada o sostenida por la comunidad, territorio o entidad beneficiaria.",
+      "id_indicador": "ASC-02",
+      "categoria": "APROPIACION_SOCIAL",
+      "ambito": "",
+      "score_semantico": 0.568881,
+      "evidencia_original": "The methodological design If the Social Balance reports the incidence of cooperative action and with it the social progress achieved, how much do the results coming from cooperatives contribute to the SDGs? This work aims at identifying which constructs relying on economic theories that govern monetary, non-monetary and convertible measurement should be taken into account. To pursue it, a measurement of Release of Resources, Social Surpluses and Merit Goods of Cooperativism. Each of these calculations is based on the fact that there is Non-Persistence in Personalist Profit Motive. Furthermore, the Release of Resources, Social Surpluses and Merit Goods stemming from cooperativism make up routines that result, technically speaking, in extended Social Transfers in Kind (STK, hereinafter), but they are on the \"expanded way\"."
+    },
+    {
+      "id_proyecto": "2-s2.0-85141889957",
+      "titulo": "Consenso Colombiano de Tratamiento del Espectro de Acretismo Placentario (EAP)",
+      "id_fragmento": "2-s2.0-85141889957::resumen::7",
+      "campo_origen": "resumen",
+      "indicador": "El proyecto desarrolla intervenciones que contribuyeron a disminuir tasas de mortalidad en poblaciones específicas.",
+      "id_indicador": "SAL-04",
+      "categoria": "IMPACTO_MAS_ALLA_ACADEMIA",
+      "ambito": "SALUD",
+      "score_semantico": 0.66888,
+      "evidencia_original": "Introducción: el espectro de acretismo placentario (EAP) es una condición asociada a sangrado masivo posparto y mortalidad materna. Las guías de manejo publicadas en países de altos ingresos recomiendan la participación de grupos interdisciplinarios en hospitales con recursos suficientes para realizar procedimientos complejos. Sin embargo, algunas de las recomendaciones de estas guías resultan difíciles de aplicar en países de bajos y medianos ingresos. OBJETIVOS: este consenso busca formular recomendaciones generales para el tratamiento del EAP en Colombia. Materiales y métodos: en el consenso participaron 23 panelistas, quienes respondieron 31 preguntas sobre el tratamiento de EAP. Los panelistas fueron seleccionados con base en la participación en dos encuestas realizadas para determinar la capacidad resolutiva de hospitales en el país y la región."
+    },
+    {
+      "id_proyecto": "2-s2.0-85141889957",
+      "titulo": "Consenso Colombiano de Tratamiento del Espectro de Acretismo Placentario (EAP)",
+      "id_fragmento": "2-s2.0-85141889957::resumen::7",
+      "campo_origen": "resumen",
+      "indicador": "El proyecto contribuye a prevenir riesgos en salud pública.",
+      "id_indicador": "SAL-02",
+      "categoria": "IMPACTO_MAS_ALLA_ACADEMIA",
+      "ambito": "SALUD",
+      "score_semantico": 0.650134,
+      "evidencia_original": "Introducción: el espectro de acretismo placentario (EAP) es una condición asociada a sangrado masivo posparto y mortalidad materna. Las guías de manejo publicadas en países de altos ingresos recomiendan la participación de grupos interdisciplinarios en hospitales con recursos suficientes para realizar procedimientos complejos. Sin embargo, algunas de las recomendaciones de estas guías resultan difíciles de aplicar en países de bajos y medianos ingresos. OBJETIVOS: este consenso busca formular recomendaciones generales para el tratamiento del EAP en Colombia. Materiales y métodos: en el consenso participaron 23 panelistas, quienes respondieron 31 preguntas sobre el tratamiento de EAP. Los panelistas fueron seleccionados con base en la participación en dos encuestas realizadas para determinar la capacidad resolutiva de hospitales en el país y la región."
+    },
+    {
+      "id_proyecto": "2-s2.0-85141889957",
+      "titulo": "Consenso Colombiano de Tratamiento del Espectro de Acretismo Placentario (EAP)",
+      "id_fragmento": "2-s2.0-85141889957::resumen::10",
+      "campo_origen": "resumen",
+      "indicador": "El proyecto fortalece estrategias participativas de cuidado implementadas por distintos actores sociales.",
+      "id_indicador": "SAL-06",
+      "categoria": "IMPACTO_MAS_ALLA_ACADEMIA",
+      "ambito": "SALUD",
+      "score_semantico": 0.604735,
+      "evidencia_original": "Para lograr ese objetivo los participantes recomiendan que los entes reguladores de la prestación de servicios de salud a nivel nacional, regional o local vigilen el proceso de remisión de estas pacientes, facilitando rutas administrativas en caso de que no exista contrato previo entre el asegurador y el hospital o la clínica seleccionada (IPS). Recomendación 3. En los centros de referencia para pacientes con EAP se invita a la creación de equipos que incorporen un grupo fijo de especialistas (obstetras, urólogos, cirujanos generales, radiólogos intervencionistas) encargados de atender todos los casos de EAP. Es recomendable que esos grupos interdisciplinarios utilicen el modelo de \"paquete de intervención\" como guía para la preparación de los centros de referencia para EAP."
+    },
+    {
+      "id_proyecto": "2-s2.0-85141889957",
+      "titulo": "Consenso Colombiano de Tratamiento del Espectro de Acretismo Placentario (EAP)",
+      "id_fragmento": "2-s2.0-85141889957::resumen::16",
+      "campo_origen": "resumen",
+      "indicador": "El proyecto incorpora enfoques interdisciplinarios o transdisciplinarios tanto en el planteamiento del problema como en los métodos, tipos de análisis y perspectivas conceptuales utilizadas.",
+      "id_indicador": "COL-01",
+      "categoria": "CONDICIONES_COLABORACION",
+      "ambito": "",
+      "score_semantico": 0.594072,
+      "evidencia_original": "Evaluar la aplicabilidad y efectividad de las recomendaciones emitidas requerirá investigaciones adicionales."
+    },
+    {
+      "id_proyecto": "2-s2.0-85156248326",
+      "titulo": "Factores psicológicos de los estudiantes universitarios y calidad de vida: Una revisión sistemática prepandemia [Psychological factors of university students and quality of life: A systematic review pre-pandemic]",
+      "id_fragmento": "2-s2.0-85156248326::palabras_clave::14",
+      "campo_origen": "palabras_clave",
+      "indicador": "Mejora en la calidad de vida o bienestar atribuida al proyecto.",
+      "id_indicador": "SOC-01",
+      "categoria": "IMPACTO_MAS_ALLA_ACADEMIA",
+      "ambito": "SOCIEDAD",
+      "score_semantico": 0.612708,
+      "evidencia_original": "health | psychological factors | quality of life | systematic review | university students"
+    },
+    {
+      "id_proyecto": "2-s2.0-85156248326",
+      "titulo": "Factores psicológicos de los estudiantes universitarios y calidad de vida: Una revisión sistemática prepandemia [Psychological factors of university students and quality of life: A systematic review pre-pandemic]",
+      "id_fragmento": "2-s2.0-85156248326::palabras_clave::14",
+      "campo_origen": "palabras_clave",
+      "indicador": "El proyecto fortalece el bienestar físico y mental de la población.",
+      "id_indicador": "SAL-01",
+      "categoria": "IMPACTO_MAS_ALLA_ACADEMIA",
+      "ambito": "SALUD",
+      "score_semantico": 0.574101,
+      "evidencia_original": "health | psychological factors | quality of life | systematic review | university students"
+    },
+    {
+      "id_proyecto": "2-s2.0-85189898702",
+      "titulo": "Global burden of 288 causes of death and life expectancy decomposition in 204 countries and territories and 811 subnational locations, 1990–2021: a systematic analysis for the Global Burden of Disease Study 2021",
+      "id_fragmento": "2-s2.0-85189898702::resumen::7",
+      "campo_origen": "resumen",
+      "indicador": "El proyecto desarrolla intervenciones que contribuyeron a disminuir tasas de mortalidad en poblaciones específicas.",
+      "id_indicador": "SAL-04",
+      "categoria": "IMPACTO_MAS_ALLA_ACADEMIA",
+      "ambito": "SALUD",
+      "score_semantico": 0.62004,
+      "evidencia_original": "Background: Regular, detailed reporting on population health by underlying cause of death is fundamental for public health decision making. Cause-specific estimates of mortality and the subsequent effects on life expectancy worldwide are valuable metrics to gauge progress in reducing mortality rates. These estimates are particularly important following large-scale mortality spikes, such as the COVID-19 pandemic. When systematically analysed, mortality rates and life expectancy allow comparisons of the consequences of causes of death globally and over time, providing a nuanced understanding of the effect of these causes on global populations."
+    },
+    {
+      "id_proyecto": "ART-DEMO-001",
+      "titulo": "Participatory evaluation of a community telehealth program for rural caregivers",
+      "id_fragmento": "ART-DEMO-001::objetivos::12",
+      "campo_origen": "objetivos",
+      "indicador": "El proyecto fortalece estrategias participativas de cuidado implementadas por distintos actores sociales.",
+      "id_indicador": "SAL-06",
+      "categoria": "IMPACTO_MAS_ALLA_ACADEMIA",
+      "ambito": "SALUD",
+      "score_semantico": 0.686523,
+      "evidencia_original": "Documentar la participación de organizaciones comunitarias y equipos de salud durante la formulación, ejecución y evaluación del servicio."
+    },
+    {
+      "id_proyecto": "ART-DEMO-001",
+      "titulo": "Participatory evaluation of a community telehealth program for rural caregivers",
+      "id_fragmento": "ART-DEMO-001::objetivos::12",
+      "campo_origen": "objetivos",
+      "indicador": "Nivel de participación efectiva de actores de la comunidad, Estado, sociedad o empresa en la formulación, ejecución y evaluación del proyecto.",
+      "id_indicador": "COL-03",
+      "categoria": "CONDICIONES_COLABORACION",
+      "ambito": "",
+      "score_semantico": 0.650734,
+      "evidencia_original": "Documentar la participación de organizaciones comunitarias y equipos de salud durante la formulación, ejecución y evaluación del servicio."
+    },
+    {
+      "id_proyecto": "ART-DEMO-001",
+      "titulo": "Participatory evaluation of a community telehealth program for rural caregivers",
+      "id_fragmento": "ART-DEMO-001::resumen::5",
+      "campo_origen": "resumen",
+      "indicador": "El proyecto incorpora enfoques interdisciplinarios o transdisciplinarios tanto en el planteamiento del problema como en los métodos, tipos de análisis y perspectivas conceptuales utilizadas.",
+      "id_indicador": "COL-01",
+      "categoria": "CONDICIONES_COLABORACION",
+      "ambito": "",
+      "score_semantico": 0.587642,
+      "evidencia_original": "This article reports a participatory evaluation of a telehealth program with rural caregivers, community leaders and primary care teams. External academic and non-academic actors participated actively in defining the problem, implementing the service and evaluating the results. Workshops identified needs, tested the service and discussed changes in access to support."
+    },
+    {
+      "id_proyecto": "ART-DEMO-001",
+      "titulo": "Participatory evaluation of a community telehealth program for rural caregivers",
+      "id_fragmento": "ART-DEMO-001::objetivos::12",
+      "campo_origen": "objetivos",
+      "indicador": "El proyecto contribuye a consolidar redes de colaboración y alianzas entre comunidades, organizaciones e instituciones.",
+      "id_indicador": "SOC-02",
+      "categoria": "IMPACTO_MAS_ALLA_ACADEMIA",
+      "ambito": "SOCIEDAD",
+      "score_semantico": 0.579073,
+      "evidencia_original": "Documentar la participación de organizaciones comunitarias y equipos de salud durante la formulación, ejecución y evaluación del servicio."
+    },
+    {
+      "id_proyecto": "ART-DEMO-002",
+      "titulo": "Open sensors and citizen science for urban air quality communication",
+      "id_fragmento": "ART-DEMO-002::objetivos::12",
+      "campo_origen": "objetivos",
+      "indicador": "El proyecto desarrolla productos y estrategias eficaces para comunicar el conocimiento generado a públicos no especializados.",
+      "id_indicador": "DIV-01",
+      "categoria": "DIVULGACION",
+      "ambito": "",
+      "score_semantico": 0.859679,
+      "evidencia_original": "Diseñar y utilizar productos de comunicación del conocimiento para públicos no especializados."
+    },
+    {
+      "id_proyecto": "ART-DEMO-002",
+      "titulo": "Open sensors and citizen science for urban air quality communication",
+      "id_fragmento": "ART-DEMO-002::objetivos::12",
+      "campo_origen": "objetivos",
+      "indicador": "Número de productos (comunicados, artículos, blogs, libros, videos, material para redes sociales, entre otros) diseñados y utilizados para comunicar los resultados del proyecto a públicos diversos.",
+      "id_indicador": "DIV-02",
+      "categoria": "DIVULGACION",
+      "ambito": "",
+      "score_semantico": 0.673903,
+      "evidencia_original": "Diseñar y utilizar productos de comunicación del conocimiento para públicos no especializados."
+    },
+    {
+      "id_proyecto": "ART-DEMO-002",
+      "titulo": "Open sensors and citizen science for urban air quality communication",
+      "id_fragmento": "ART-DEMO-002::objetivos::12",
+      "campo_origen": "objetivos",
+      "indicador": "Nivel en que los resultados, metodologías o saberes generados por el proyecto son difundidos en formatos comprensibles, abiertos y reutilizables, y en que dichos materiales son efectivamente consultados y aprovechados por públicos diversos.",
+      "id_indicador": "DIV-04",
+      "categoria": "DIVULGACION",
+      "ambito": "",
+      "score_semantico": 0.610031,
+      "evidencia_original": "Diseñar y utilizar productos de comunicación del conocimiento para públicos no especializados."
+    },
+    {
+      "id_proyecto": "ART-DEMO-002",
+      "titulo": "Open sensors and citizen science for urban air quality communication",
+      "id_fragmento": "ART-DEMO-002::palabras_clave::6",
+      "campo_origen": "palabras_clave",
+      "indicador": "El proyecto facilita la participación activa de los grupos de interés en procesos de formulación, monitoreo o evaluación de políticas públicas o iniciativas de ciencia ciudadana.",
+      "id_indicador": "POL-01",
+      "categoria": "IMPACTO_MAS_ALLA_ACADEMIA",
+      "ambito": "POLITICA_PUBLICA",
+      "score_semantico": 0.606439,
+      "evidencia_original": "citizen science; open sensors; air quality; public communication"
+    },
+    {
+      "id_proyecto": "ART-DEMO-003",
+      "titulo": "Cultural memory workshops and digital storytelling with displaced youth",
+      "id_fragmento": "ART-DEMO-003::objetivos::12",
+      "campo_origen": "objetivos",
+      "indicador": "El proyecto fortalece procesos de construcción, preservación y revitalización de la memoria e identidad cultural en comunidades o territorios.",
+      "id_indicador": "CUL-01",
+      "categoria": "IMPACTO_MAS_ALLA_ACADEMIA",
+      "ambito": "CULTURA",
+      "score_semantico": 0.832114,
+      "evidencia_original": "Fortalecer la preservación y revitalización de la memoria e identidad cultural en la comunidad participante."
+    },
+    {
+      "id_proyecto": "ART-DEMO-003",
+      "titulo": "Cultural memory workshops and digital storytelling with displaced youth",
+      "id_fragmento": "ART-DEMO-003::objetivos::12",
+      "campo_origen": "objetivos",
+      "indicador": "El proyecto promueve la conservación, valorización o enriquecimiento del patrimonio cultural, ya sea material o inmaterial.",
+      "id_indicador": "CUL-02",
+      "categoria": "IMPACTO_MAS_ALLA_ACADEMIA",
+      "ambito": "CULTURA",
+      "score_semantico": 0.588173,
+      "evidencia_original": "Fortalecer la preservación y revitalización de la memoria e identidad cultural en la comunidad participante."
+    },
+    {
+      "id_proyecto": "ART-DEMO-004",
+      "titulo": "Circular bioeconomy pathways for farmer cooperatives",
+      "id_fragmento": "ART-DEMO-004::objetivos::12",
+      "campo_origen": "objetivos",
+      "indicador": "El proyecto genera ingresos adicionales mediante la implementación, validación o comercialización de procesos, metodologías o productos nuevos o mejorados.",
+      "id_indicador": "ECO-01",
+      "categoria": "IMPACTO_MAS_ALLA_ACADEMIA",
+      "ambito": "ECONOMIA",
+      "score_semantico": 0.760597,
+      "evidencia_original": "Analizar ingresos adicionales derivados de la implementación y comercialización de procesos productivos mejorados."
+    },
+    {
+      "id_proyecto": "ART-DEMO-004",
+      "titulo": "Circular bioeconomy pathways for farmer cooperatives",
+      "id_fragmento": "ART-DEMO-004::objetivos::12",
+      "campo_origen": "objetivos",
+      "indicador": "El proyecto logra reducir costos en procesos organizativos o productivos mediante la implementación de mejoras o innovaciones.",
+      "id_indicador": "ECO-02",
+      "categoria": "IMPACTO_MAS_ALLA_ACADEMIA",
+      "ambito": "ECONOMIA",
+      "score_semantico": 0.575703,
+      "evidencia_original": "Analizar ingresos adicionales derivados de la implementación y comercialización de procesos productivos mejorados."
+    },
+    {
+      "id_proyecto": "ART-DEMO-004",
+      "titulo": "Circular bioeconomy pathways for farmer cooperatives",
+      "id_fragmento": "ART-DEMO-004::objetivos::12",
+      "campo_origen": "objetivos",
+      "indicador": "Los resultados tecnológicos son desarrollados con potencial de comercialización.",
+      "id_indicador": "TEC-03",
+      "categoria": "IMPACTO_MAS_ALLA_ACADEMIA",
+      "ambito": "TECNOLOGIA",
+      "score_semantico": 0.553126,
+      "evidencia_original": "Analizar ingresos adicionales derivados de la implementación y comercialización de procesos productivos mejorados."
+    },
+    {
+      "id_proyecto": "ART-DEMO-005",
+      "titulo": "Evidence briefs for local climate adaptation policy",
+      "id_fragmento": "ART-DEMO-005::objetivos::12",
+      "campo_origen": "objetivos",
+      "indicador": "Número de políticas públicas o programas gubernamentales modificados o implementados con base en hallazgos del proyecto.",
+      "id_indicador": "POL-03",
+      "categoria": "IMPACTO_MAS_ALLA_ACADEMIA",
+      "ambito": "POLITICA_PUBLICA",
+      "score_semantico": 0.708295,
+      "evidencia_original": "Examinar programas públicos implementados a partir de los hallazgos y recomendaciones del estudio."
+    },
+    {
+      "id_proyecto": "ART-DEMO-005",
+      "titulo": "Evidence briefs for local climate adaptation policy",
+      "id_fragmento": "ART-DEMO-005::objetivos::12",
+      "campo_origen": "objetivos",
+      "indicador": "El proyecto facilita la participación activa de los grupos de interés en procesos de formulación, monitoreo o evaluación de políticas públicas o iniciativas de ciencia ciudadana.",
+      "id_indicador": "POL-01",
+      "categoria": "IMPACTO_MAS_ALLA_ACADEMIA",
+      "ambito": "POLITICA_PUBLICA",
+      "score_semantico": 0.707345,
+      "evidencia_original": "Examinar programas públicos implementados a partir de los hallazgos y recomendaciones del estudio."
+    },
+    {
+      "id_proyecto": "ART-DEMO-005",
+      "titulo": "Evidence briefs for local climate adaptation policy",
+      "id_fragmento": "ART-DEMO-005::objetivos::12",
+      "campo_origen": "objetivos",
+      "indicador": "El proyecto implica colaboración efectiva con entidades públicas o actores sociales en la formulación o evaluación de políticas.",
+      "id_indicador": "POL-06",
+      "categoria": "IMPACTO_MAS_ALLA_ACADEMIA",
+      "ambito": "POLITICA_PUBLICA",
+      "score_semantico": 0.650861,
+      "evidencia_original": "Examinar programas públicos implementados a partir de los hallazgos y recomendaciones del estudio."
+    },
+    {
+      "id_proyecto": "ART-DEMO-005",
+      "titulo": "Evidence briefs for local climate adaptation policy",
+      "id_fragmento": "ART-DEMO-005::resumen::5",
+      "campo_origen": "resumen",
+      "indicador": "Número de informes técnicos o documentos de política generados desde el proyecto y entregados a entidades gubernamentales.",
+      "id_indicador": "POL-07",
+      "categoria": "IMPACTO_MAS_ALLA_ACADEMIA",
+      "ambito": "POLITICA_PUBLICA",
+      "score_semantico": 0.612117,
+      "evidencia_original": "The article analyzes the co-production of evidence briefs with local government, environmental groups and residents to support climate adaptation decisions. Findings informed a local policy program, were translated into accessible materials and discussed in public policy roundtables."
+    },
+    {
+      "id_proyecto": "ART-DEMO-005",
+      "titulo": "Evidence briefs for local climate adaptation policy",
+      "id_fragmento": "ART-DEMO-005::resumen::5",
+      "campo_origen": "resumen",
+      "indicador": "Número de manuales, herramientas o metodologías derivadas del proyecto y adoptadas por entidades estatales.",
+      "id_indicador": "POL-04",
+      "categoria": "IMPACTO_MAS_ALLA_ACADEMIA",
+      "ambito": "POLITICA_PUBLICA",
+      "score_semantico": 0.591292,
+      "evidencia_original": "The article analyzes the co-production of evidence briefs with local government, environmental groups and residents to support climate adaptation decisions. Findings informed a local policy program, were translated into accessible materials and discussed in public policy roundtables."
+    },
+    {
+      "id_proyecto": "ART-DEMO-005",
+      "titulo": "Evidence briefs for local climate adaptation policy",
+      "id_fragmento": "ART-DEMO-005::palabras_clave::6",
+      "campo_origen": "palabras_clave",
+      "indicador": "El proyecto genera mejoras sostenibles en el entorno ambiental, económico y social de los grupos de interés.",
+      "id_indicador": "AMB-02",
+      "categoria": "IMPACTO_MAS_ALLA_ACADEMIA",
+      "ambito": "MEDIO_AMBIENTE",
+      "score_semantico": 0.581279,
+      "evidencia_original": "climate adaptation; policy program; evidence briefs; public policy"
+    }
+  ],
+  "indicadores_compartidos": [
+    {
+      "indicador": "El proyecto contribuye a consolidar redes de colaboración y alianzas entre comunidades, organizaciones e instituciones.",
+      "proyectos": [
+        "2-s2.0-85088984023",
+        "ART-DEMO-001"
+      ]
+    },
+    {
+      "indicador": "El proyecto desarrolla intervenciones que contribuyeron a disminuir tasas de mortalidad en poblaciones específicas.",
+      "proyectos": [
+        "2-s2.0-85141889957",
+        "2-s2.0-85189898702"
+      ]
+    },
+    {
+      "indicador": "El proyecto facilita la participación activa de los grupos de interés en procesos de formulación, monitoreo o evaluación de políticas públicas o iniciativas de ciencia ciudadana.",
+      "proyectos": [
+        "ART-DEMO-002",
+        "ART-DEMO-005"
+      ]
+    },
+    {
+      "indicador": "El proyecto fortalece estrategias participativas de cuidado implementadas por distintos actores sociales.",
+      "proyectos": [
+        "2-s2.0-85141889957",
+        "ART-DEMO-001"
+      ]
+    },
+    {
+      "indicador": "El proyecto genera mejoras sostenibles en el entorno ambiental, económico y social de los grupos de interés.",
+      "proyectos": [
+        "2-s2.0-85088984023",
+        "ART-DEMO-005"
+      ]
+    },
+    {
+      "indicador": "El proyecto incorpora enfoques interdisciplinarios o transdisciplinarios tanto en el planteamiento del problema como en los métodos, tipos de análisis y perspectivas conceptuales utilizadas.",
+      "proyectos": [
+        "2-s2.0-85141889957",
+        "ART-DEMO-001"
+      ]
+    }
+  ],
+  "resumen_tecnico": {
+    "proyectos_semanticos": 3,
+    "proyectos_agregados_grafo": 6,
+    "indicadores_detectados": 32,
+    "top_k_proyectos": 3,
+    "umbral_candidato": 0.42,
+    "umbral_indicador_claro": 0.55,
+    "umbral_grafo": 0.5
+  },
+  "ground_truth_leido_antes_de_prediccion": false
+}

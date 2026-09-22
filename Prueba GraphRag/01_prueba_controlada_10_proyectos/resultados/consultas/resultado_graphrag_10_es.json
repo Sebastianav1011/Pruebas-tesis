@@ -1,0 +1,417 @@
+{
+  "consulta": "¿Qué proyectos presentan evidencia relacionada con los indicadores institucionales?",
+  "modelo_embeddings": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "proyectos_recuperados_semanticamente": [
+    {
+      "id_proyecto": "titulo_anio:modelo de referencia para la deteccion de eventos de contaminacion industrial basado en una red de sensores [a reference model for detection of industrial pollution events based on a sensors network|2016",
+      "titulo": "Modelo de referencia para la detección de eventos de contaminación industrial basado en una red de sensores [A reference model for detection of industrial pollution events based on a sensors network",
+      "score_semantico": 0.408659,
+      "fragmentos_relevantes": [
+        {
+          "id_fragmento": "titulo_anio:modelo de referencia para la deteccion de eventos de contaminacion industrial basado en una red de sensores [a reference model for detection of industrial pollution events based on a sensors network|2016::resumen::8",
+          "campo_origen": "resumen",
+          "texto": "El manejo de esta heterogeneidad motivó a diseñar un modelo de referencia que sirviera de guía para realizar las funciones de detección, almacenamiento, procesamiento y visualización/publicación de los datos, usando las tecnologías más adecuadas. La idea es que este modelo de referencia pueda posteriormente ser instanciado con componentes de hardware y software específicos, que respondan a las necesidades de determinadas empresas o entes gubernamentales, interesados en tomar acciones preventivas o correctivas sobre la contaminación ambiental. En este artículo se presenta el modelo de referencia propuesto y se describe un prototipo que instancia este modelo. El prototipo desarrollado está enfocado en la medición de la contaminación auditiva en una empresa del sector automotriz en Bogotá.",
+          "score_semantico": 0.527854
+        },
+        {
+          "id_fragmento": "titulo_anio:modelo de referencia para la deteccion de eventos de contaminacion industrial basado en una red de sensores [a reference model for detection of industrial pollution events based on a sensors network|2016::resumen::7",
+          "campo_origen": "resumen",
+          "texto": "La contaminación industrial es un aspecto que está afectando en forma importante la sostenibilidad del planeta. Para poder manejar la contaminación, el primer paso es detectarla tan pronto como ésta ocurra, de ahí la importancia de la recolección oportuna de datos. Actualmente la tecnología nos da un gran soporte para esta tarea porque se cuenta con redes de sensores que, al estar en el ambiente, permiten recolectar grandes cantidades de datos. Si estos datos son procesados de forma adecuada, pueden ayudar en la detección temprana de focos de contaminación. No obstante, hay que enfrentar el problema de manejar de forma efectiva una gran cantidad de datos provenientes de dispositivos heterogéneos, que incluyen tanto a los sensores tradicionales o motas de las redes inalámbricas de sensores, como a los sensores ubicados en teléfonos inteligentes.",
+          "score_semantico": 0.426719
+        }
+      ]
+    },
+    {
+      "id_proyecto": "2-s2.0-85049317946",
+      "titulo": "Monitoring air pollution by combining a static infrastructure with a participatory sensing approach: Design and performance evaluation",
+      "score_semantico": 0.380647,
+      "fragmentos_relevantes": [
+        {
+          "id_fragmento": "2-s2.0-85049317946::palabras_clave::9",
+          "campo_origen": "palabras_clave",
+          "texto": "Air pollution | Incentives | Participatory sensing | Privacy protection",
+          "score_semantico": 0.389804
+        },
+        {
+          "id_fragmento": "2-s2.0-85049317946::nombre_revista_libro::10",
+          "campo_origen": "nombre_revista_libro",
+          "texto": "International Journal of Sustainable Development and Planning",
+          "score_semantico": 0.37471
+        }
+      ]
+    },
+    {
+      "id_proyecto": "2-s2.0-85131371279",
+      "titulo": "A nutritionally focused program for community-living older adults resulted in improved health and well-being",
+      "score_semantico": 0.348739,
+      "fragmentos_relevantes": [
+        {
+          "id_fragmento": "2-s2.0-85131371279::resumen::7",
+          "campo_origen": "resumen",
+          "texto": "Objectives: Among older adults, malnutrition is common and is associated with increased risk for impaired health and functionality, conditions further associated with poorer quality of life. In this study of community-living older adults, our objective was to quantify outcome changes following identification and treatment of malnutrition or its risk. Design: Our intervention was a nutritional quality improvement program (QIP). The nutritional QIP included: (i) education of participants about the importance of complete and balanced macro- and micronutrient intake plus physical exercise, (ii) nutritional intervention with dietary counseling; and (iii) provision of oral nutritional supplements (ONS) for daily intake over 60 days. Follow-up measurements took place 30 days after ONS treatment ended, i.e., 90 days after start of intervention.",
+          "score_semantico": 0.388983
+        },
+        {
+          "id_fragmento": "2-s2.0-85131371279::financiadores::17",
+          "campo_origen": "financiadores",
+          "texto": "Abbott Laboratories",
+          "score_semantico": 0.342714
+        }
+      ]
+    }
+  ],
+  "proyectos_agregados_por_grafo": [
+    {
+      "id_proyecto": "2-s2.0-105014099823",
+      "titulo": "Enhancing medication adherence, depression, and values-based behaviors in HIV-positive individuals through acceptance and commitment therapy: A pilot study",
+      "score_grafo": 4.004355,
+      "relacionado_mediante": [
+        {
+          "tipo": "AFILIACION",
+          "valor": "Pontificia Universidad Javeriana",
+          "peso": 0.55
+        },
+        {
+          "tipo": "PAIS",
+          "valor": "Colombia",
+          "peso": 0.1
+        },
+        {
+          "tipo": "INDICADOR",
+          "valor": "El proyecto implementa acciones orientadas a mejorar la calidad de vida de personas en situación de discapacidad.",
+          "peso": 1.0
+        },
+        {
+          "tipo": "AFILIACION",
+          "valor": "Hospital Universitario San Ignacio",
+          "peso": 0.55
+        }
+      ]
+    },
+    {
+      "id_proyecto": "2-s2.0-105005783887",
+      "titulo": "Co-Designing, Developing, and Testing a Mental Health Platform for Young People Using a Participatory Design Methodology in Colombia: Mixed Methods Study",
+      "score_grafo": 3.81774,
+      "relacionado_mediante": [
+        {
+          "tipo": "INDICADOR",
+          "valor": "Nivel en que los resultados, metodologías o saberes generados por el proyecto son difundidos en formatos comprensibles, abiertos y reutilizables, y en que dichos materiales son efectivamente consultados y aprovechados por públicos diversos.",
+          "peso": 1.0
+        },
+        {
+          "tipo": "FACULTAD",
+          "valor": "INGENIERÍA",
+          "peso": 0.35
+        },
+        {
+          "tipo": "AFILIACION",
+          "valor": "Pontificia Universidad Javeriana",
+          "peso": 0.55
+        },
+        {
+          "tipo": "PAIS",
+          "valor": "Colombia",
+          "peso": 0.1
+        },
+        {
+          "tipo": "INDICADOR",
+          "valor": "El proyecto implementa acciones orientadas a mejorar la calidad de vida de personas en situación de discapacidad.",
+          "peso": 1.0
+        }
+      ]
+    },
+    {
+      "id_proyecto": "2-s2.0-85213377303",
+      "titulo": "Software codesign between end users and developers to enhance utility for biodiversity conservation",
+      "score_grafo": 3.672265,
+      "relacionado_mediante": [
+        {
+          "tipo": "INDICADOR",
+          "valor": "Nivel en que los resultados, metodologías o saberes generados por el proyecto son difundidos en formatos comprensibles, abiertos y reutilizables, y en que dichos materiales son efectivamente consultados y aprovechados por públicos diversos.",
+          "peso": 1.0
+        },
+        {
+          "tipo": "INDICADOR",
+          "valor": "El proyecto desarrolla productos tecnológicos con participación de actores no académicos o sectores aplicados.",
+          "peso": 1.0
+        },
+        {
+          "tipo": "AFILIACION",
+          "valor": "Pontificia Universidad Javeriana",
+          "peso": 0.55
+        },
+        {
+          "tipo": "PAIS",
+          "valor": "Colombia",
+          "peso": 0.1
+        },
+        {
+          "tipo": "PAIS",
+          "valor": "United States",
+          "peso": 0.1
+        }
+      ]
+    },
+    {
+      "id_proyecto": "2-s2.0-85213954883",
+      "titulo": "Estudia: A Recommendation System for Higher Education Career Choice",
+      "score_grafo": 3.525465,
+      "relacionado_mediante": [
+        {
+          "tipo": "INDICADOR",
+          "valor": "El proyecto desarrolla productos tecnológicos con participación de actores no académicos o sectores aplicados.",
+          "peso": 1.0
+        },
+        {
+          "tipo": "FACULTAD",
+          "valor": "INGENIERÍA",
+          "peso": 0.35
+        },
+        {
+          "tipo": "PROGRAMA",
+          "valor": "Inge Arte",
+          "peso": 0.4
+        },
+        {
+          "tipo": "AFILIACION",
+          "valor": "Pontificia Universidad Javeriana",
+          "peso": 0.55
+        },
+        {
+          "tipo": "PAIS",
+          "valor": "Colombia",
+          "peso": 0.1
+        }
+      ]
+    },
+    {
+      "id_proyecto": "2-s2.0-105020034198",
+      "titulo": "Development and Implementation of DIALOG+S in the School Setting as a Tool for Promoting Adolescent Mental Well-Being and Resilience in a Post–Armed Conflict Area in Colombia: Exploratory Cluster Randomized Controlled Trial",
+      "score_grafo": 2.230703,
+      "relacionado_mediante": [
+        {
+          "tipo": "PAIS",
+          "valor": "Colombia",
+          "peso": 0.1
+        },
+        {
+          "tipo": "INDICADOR",
+          "valor": "El proyecto implementa acciones orientadas a mejorar la calidad de vida de personas en situación de discapacidad.",
+          "peso": 1.0
+        },
+        {
+          "tipo": "FACULTAD",
+          "valor": "MEDICINA",
+          "peso": 0.35
+        },
+        {
+          "tipo": "AFILIACION",
+          "valor": "Hospital Universitario San Ignacio",
+          "peso": 0.55
+        }
+      ]
+    },
+    {
+      "id_proyecto": "2-s2.0-85107701593",
+      "titulo": "Is a cloud-based platform useful for diabetes management in Colombia? The Tidepool experience",
+      "score_grafo": 2.064005,
+      "relacionado_mediante": [
+        {
+          "tipo": "PAIS",
+          "valor": "Colombia",
+          "peso": 0.1
+        },
+        {
+          "tipo": "INDICADOR",
+          "valor": "El proyecto implementa acciones orientadas a mejorar la calidad de vida de personas en situación de discapacidad.",
+          "peso": 1.0
+        },
+        {
+          "tipo": "FACULTAD",
+          "valor": "MEDICINA",
+          "peso": 0.35
+        },
+        {
+          "tipo": "PROGRAMA",
+          "valor": "Mega Prime Medicina",
+          "peso": 0.4
+        },
+        {
+          "tipo": "AFILIACION",
+          "valor": "Hospital Universitario San Ignacio",
+          "peso": 0.55
+        }
+      ]
+    },
+    {
+      "id_proyecto": "2-s2.0-105014027137",
+      "titulo": "Subverting patriarchal narratives: a feminist approach to critical video game design through participatory methods",
+      "score_grafo": 1.95,
+      "relacionado_mediante": [
+        {
+          "tipo": "AFILIACION",
+          "valor": "Pontificia Universidad Javeriana",
+          "peso": 0.55
+        },
+        {
+          "tipo": "PAIS",
+          "valor": "Colombia",
+          "peso": 0.1
+        }
+      ]
+    }
+  ],
+  "indicadores_detectados": [
+    {
+      "id_proyecto": "2-s2.0-105005783887",
+      "titulo": "Co-Designing, Developing, and Testing a Mental Health Platform for Young People Using a Participatory Design Methodology in Colombia: Mixed Methods Study",
+      "id_fragmento": "2-s2.0-105005783887::palabras_clave::12",
+      "campo_origen": "palabras_clave",
+      "indicador": "El proyecto fortalece estrategias participativas de cuidado implementadas por distintos actores sociales.",
+      "id_indicador": "SAL-06",
+      "categoria": "IMPACTO_MAS_ALLA_ACADEMIA",
+      "ambito": "SALUD",
+      "score_semantico": 0.642145,
+      "evidencia_original": "community-based participatory research | eHealth | help seeking | Latin America | low- and middle-income countries | medical informatics | mental health | patient participation | patient satisfaction | telemedicine"
+    },
+    {
+      "id_proyecto": "2-s2.0-105005783887",
+      "titulo": "Co-Designing, Developing, and Testing a Mental Health Platform for Young People Using a Participatory Design Methodology in Colombia: Mixed Methods Study",
+      "id_fragmento": "2-s2.0-105005783887::resumen::8",
+      "campo_origen": "resumen",
+      "indicador": "El proyecto incluye procesos participativos de validación tecnológica con usuarios reales.",
+      "id_indicador": "TEC-02",
+      "categoria": "IMPACTO_MAS_ALLA_ACADEMIA",
+      "ambito": "TECNOLOGIA",
+      "score_semantico": 0.628831,
+      "evidencia_original": "To ensure a user-centered design, we began with a series of co-design workshops, where stakeholders collaboratively identified key user needs. Following this, usability testing was conducted in 2 stages, alpha and beta, using the System Usability Scale (SUS) to assess functionality and user experience. To capture real-world interactions, a naturalistic observational trial ran from July 2022 to October 2023, collecting data on user engagement and system performance. This study integrated quantitative and qualitative analyses. Results: A total of 146 individuals participated in the co-design process, with 110 (75.3%) contributing to the development of platform components and 36 (24.7%) participating in usability testing."
+    },
+    {
+      "id_proyecto": "2-s2.0-105005783887",
+      "titulo": "Co-Designing, Developing, and Testing a Mental Health Platform for Young People Using a Participatory Design Methodology in Colombia: Mixed Methods Study",
+      "id_fragmento": "2-s2.0-105005783887::palabras_clave::12",
+      "campo_origen": "palabras_clave",
+      "indicador": "El proyecto contribuye a consolidar redes de colaboración y alianzas entre comunidades, organizaciones e instituciones.",
+      "id_indicador": "SOC-02",
+      "categoria": "IMPACTO_MAS_ALLA_ACADEMIA",
+      "ambito": "SOCIEDAD",
+      "score_semantico": 0.561092,
+      "evidencia_original": "community-based participatory research | eHealth | help seeking | Latin America | low- and middle-income countries | medical informatics | mental health | patient participation | patient satisfaction | telemedicine"
+    },
+    {
+      "id_proyecto": "2-s2.0-105005783887",
+      "titulo": "Co-Designing, Developing, and Testing a Mental Health Platform for Young People Using a Participatory Design Methodology in Colombia: Mixed Methods Study",
+      "id_fragmento": "2-s2.0-105005783887::palabras_clave::12",
+      "campo_origen": "palabras_clave",
+      "indicador": "El proyecto fortalece el bienestar físico y mental de la población.",
+      "id_indicador": "SAL-01",
+      "categoria": "IMPACTO_MAS_ALLA_ACADEMIA",
+      "ambito": "SALUD",
+      "score_semantico": 0.558455,
+      "evidencia_original": "community-based participatory research | eHealth | help seeking | Latin America | low- and middle-income countries | medical informatics | mental health | patient participation | patient satisfaction | telemedicine"
+    },
+    {
+      "id_proyecto": "2-s2.0-105014099823",
+      "titulo": "Enhancing medication adherence, depression, and values-based behaviors in HIV-positive individuals through acceptance and commitment therapy: A pilot study",
+      "id_fragmento": "2-s2.0-105014099823::resumen::8",
+      "campo_origen": "resumen",
+      "indicador": "El proyecto fortalece estrategias participativas de cuidado implementadas por distintos actores sociales.",
+      "id_indicador": "SAL-06",
+      "categoria": "IMPACTO_MAS_ALLA_ACADEMIA",
+      "ambito": "SALUD",
+      "score_semantico": 0.566351,
+      "evidencia_original": "Participants described the intervention as acceptable and relevant to addressing adherence barriers and mental health concerns. Findings underscore the potential for ACT to enhance antiretroviral adherence and psychological outcomes in middle-income countries, offering a scalable, culturally adaptable intervention for improving HIV care."
+    },
+    {
+      "id_proyecto": "2-s2.0-105020034198",
+      "titulo": "Development and Implementation of DIALOG+S in the School Setting as a Tool for Promoting Adolescent Mental Well-Being and Resilience in a Post–Armed Conflict Area in Colombia: Exploratory Cluster Randomized Controlled Trial",
+      "id_fragmento": "2-s2.0-105020034198::palabras_clave::11",
+      "campo_origen": "palabras_clave",
+      "indicador": "Número de espacios públicos promovidos por el proyecto para debatir la problemática investigativa y social más allá del ámbito académico.",
+      "id_indicador": "DIV-05",
+      "categoria": "DIVULGACION",
+      "ambito": "",
+      "score_semantico": 0.551727,
+      "evidencia_original": "adolescents | armed conflict | DIALOG+ | DIALOG+S | digital intervention | mental health | mobile phone | psychosocial intervention | school"
+    },
+    {
+      "id_proyecto": "2-s2.0-85131371279",
+      "titulo": "A nutritionally focused program for community-living older adults resulted in improved health and well-being",
+      "id_fragmento": "2-s2.0-85131371279::resumen::7",
+      "campo_origen": "resumen",
+      "indicador": "El proyecto implementa acciones orientadas a mejorar la calidad de vida de personas en situación de discapacidad.",
+      "id_indicador": "SAL-03",
+      "categoria": "IMPACTO_MAS_ALLA_ACADEMIA",
+      "ambito": "SALUD",
+      "score_semantico": 0.571826,
+      "evidencia_original": "Objectives: Among older adults, malnutrition is common and is associated with increased risk for impaired health and functionality, conditions further associated with poorer quality of life. In this study of community-living older adults, our objective was to quantify outcome changes following identification and treatment of malnutrition or its risk. Design: Our intervention was a nutritional quality improvement program (QIP). The nutritional QIP included: (i) education of participants about the importance of complete and balanced macro- and micronutrient intake plus physical exercise, (ii) nutritional intervention with dietary counseling; and (iii) provision of oral nutritional supplements (ONS) for daily intake over 60 days. Follow-up measurements took place 30 days after ONS treatment ended, i.e., 90 days after start of intervention."
+    },
+    {
+      "id_proyecto": "2-s2.0-85213377303",
+      "titulo": "Software codesign between end users and developers to enhance utility for biodiversity conservation",
+      "id_fragmento": "2-s2.0-85213377303::palabras_clave::9",
+      "campo_origen": "palabras_clave",
+      "indicador": "El proyecto desarrolla soluciones ambientales asociadas a servicios ecosistémicos, biodiversidad o sostenibilidad ambiental.",
+      "id_indicador": "AMB-01",
+      "categoria": "IMPACTO_MAS_ALLA_ACADEMIA",
+      "ambito": "MEDIO_AMBIENTE",
+      "score_semantico": 0.678049,
+      "evidencia_original": "applied ecology | biodiversity | biogeography | conservation | informatics"
+    },
+    {
+      "id_proyecto": "titulo_anio:modelo de referencia para la deteccion de eventos de contaminacion industrial basado en una red de sensores [a reference model for detection of industrial pollution events based on a sensors network|2016",
+      "titulo": "Modelo de referencia para la detección de eventos de contaminación industrial basado en una red de sensores [A reference model for detection of industrial pollution events based on a sensors network",
+      "id_fragmento": "titulo_anio:modelo de referencia para la deteccion de eventos de contaminacion industrial basado en una red de sensores [a reference model for detection of industrial pollution events based on a sensors network|2016::resumen::8",
+      "campo_origen": "resumen",
+      "indicador": "Nivel en que los resultados, metodologías o saberes generados por el proyecto son difundidos en formatos comprensibles, abiertos y reutilizables, y en que dichos materiales son efectivamente consultados y aprovechados por públicos diversos.",
+      "id_indicador": "DIV-04",
+      "categoria": "DIVULGACION",
+      "ambito": "",
+      "score_semantico": 0.619431,
+      "evidencia_original": "El manejo de esta heterogeneidad motivó a diseñar un modelo de referencia que sirviera de guía para realizar las funciones de detección, almacenamiento, procesamiento y visualización/publicación de los datos, usando las tecnologías más adecuadas. La idea es que este modelo de referencia pueda posteriormente ser instanciado con componentes de hardware y software específicos, que respondan a las necesidades de determinadas empresas o entes gubernamentales, interesados en tomar acciones preventivas o correctivas sobre la contaminación ambiental. En este artículo se presenta el modelo de referencia propuesto y se describe un prototipo que instancia este modelo. El prototipo desarrollado está enfocado en la medición de la contaminación auditiva en una empresa del sector automotriz en Bogotá."
+    },
+    {
+      "id_proyecto": "titulo_anio:modelo de referencia para la deteccion de eventos de contaminacion industrial basado en una red de sensores [a reference model for detection of industrial pollution events based on a sensors network|2016",
+      "titulo": "Modelo de referencia para la detección de eventos de contaminación industrial basado en una red de sensores [A reference model for detection of industrial pollution events based on a sensors network",
+      "id_fragmento": "titulo_anio:modelo de referencia para la deteccion de eventos de contaminacion industrial basado en una red de sensores [a reference model for detection of industrial pollution events based on a sensors network|2016::resumen::8",
+      "campo_origen": "resumen",
+      "indicador": "El proyecto desarrolla productos tecnológicos con participación de actores no académicos o sectores aplicados.",
+      "id_indicador": "TEC-01",
+      "categoria": "IMPACTO_MAS_ALLA_ACADEMIA",
+      "ambito": "TECNOLOGIA",
+      "score_semantico": 0.601599,
+      "evidencia_original": "El manejo de esta heterogeneidad motivó a diseñar un modelo de referencia que sirviera de guía para realizar las funciones de detección, almacenamiento, procesamiento y visualización/publicación de los datos, usando las tecnologías más adecuadas. La idea es que este modelo de referencia pueda posteriormente ser instanciado con componentes de hardware y software específicos, que respondan a las necesidades de determinadas empresas o entes gubernamentales, interesados en tomar acciones preventivas o correctivas sobre la contaminación ambiental. En este artículo se presenta el modelo de referencia propuesto y se describe un prototipo que instancia este modelo. El prototipo desarrollado está enfocado en la medición de la contaminación auditiva en una empresa del sector automotriz en Bogotá."
+    },
+    {
+      "id_proyecto": "titulo_anio:modelo de referencia para la deteccion de eventos de contaminacion industrial basado en una red de sensores [a reference model for detection of industrial pollution events based on a sensors network|2016",
+      "titulo": "Modelo de referencia para la detección de eventos de contaminación industrial basado en una red de sensores [A reference model for detection of industrial pollution events based on a sensors network",
+      "id_fragmento": "titulo_anio:modelo de referencia para la deteccion de eventos de contaminacion industrial basado en una red de sensores [a reference model for detection of industrial pollution events based on a sensors network|2016::resumen::8",
+      "campo_origen": "resumen",
+      "indicador": "El proyecto genera desarrollos tecnológicos originales con aplicación demostrada fuera del ámbito académico.",
+      "id_indicador": "TEC-05",
+      "categoria": "IMPACTO_MAS_ALLA_ACADEMIA",
+      "ambito": "TECNOLOGIA",
+      "score_semantico": 0.590465,
+      "evidencia_original": "El manejo de esta heterogeneidad motivó a diseñar un modelo de referencia que sirviera de guía para realizar las funciones de detección, almacenamiento, procesamiento y visualización/publicación de los datos, usando las tecnologías más adecuadas. La idea es que este modelo de referencia pueda posteriormente ser instanciado con componentes de hardware y software específicos, que respondan a las necesidades de determinadas empresas o entes gubernamentales, interesados en tomar acciones preventivas o correctivas sobre la contaminación ambiental. En este artículo se presenta el modelo de referencia propuesto y se describe un prototipo que instancia este modelo. El prototipo desarrollado está enfocado en la medición de la contaminación auditiva en una empresa del sector automotriz en Bogotá."
+    }
+  ],
+  "indicadores_compartidos": [
+    {
+      "indicador": "El proyecto fortalece estrategias participativas de cuidado implementadas por distintos actores sociales.",
+      "proyectos": [
+        "2-s2.0-105005783887",
+        "2-s2.0-105014099823"
+      ]
+    }
+  ],
+  "resumen_tecnico": {
+    "proyectos_semanticos": 3,
+    "proyectos_agregados_grafo": 7,
+    "indicadores_detectados": 11,
+    "top_k_proyectos": 3,
+    "umbral_candidato": 0.42,
+    "umbral_indicador_claro": 0.55,
+    "umbral_grafo": 0.5
+  },
+  "ground_truth_leido_antes_de_prediccion": false
+}

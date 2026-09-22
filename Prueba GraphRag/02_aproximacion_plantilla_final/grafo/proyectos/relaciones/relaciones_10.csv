@@ -1,0 +1,664 @@
+﻿origen,destino,tipo_relacion,peso,score_semantico,campo_origen
+"INDICADOR::el proyecto incorpora enfoques interdisciplinarios o transdisciplinarios tanto en el planteamiento del problema como en los metodos, tipos de analisis y perspectivas conceptuales utilizadas.",CATEGORIA_INDICADOR::condiciones_colaboracion,PERTENECE_A,1.0,,
+INDICADOR::el proyecto cuenta con la participacion activa y significativa de actores externos (academicos y/o no academicos) en distintas etapas del proceso investigativo.,CATEGORIA_INDICADOR::condiciones_colaboracion,PERTENECE_A,1.0,,
+"INDICADOR::nivel de participacion efectiva de actores de la comunidad, estado, sociedad o empresa en la formulacion, ejecucion y evaluacion del proyecto.",CATEGORIA_INDICADOR::condiciones_colaboracion,PERTENECE_A,1.0,,
+INDICADOR::el proyecto establece mecanismos para el dialogo de saberes entre actores academicos y otros actores sociales.,CATEGORIA_INDICADOR::apropiacion_social,PERTENECE_A,1.0,,
+"INDICADOR::la solucion generada por el proyecto es usada, adaptada, replicada o sostenida por la comunidad, territorio o entidad beneficiaria.",CATEGORIA_INDICADOR::apropiacion_social,PERTENECE_A,1.0,,
+"INDICADOR::los materiales y productos entregados son pertinentes, comprensibles, de alta calidad y valorados positivamente por los grupos de interes.",CATEGORIA_INDICADOR::apropiacion_social,PERTENECE_A,1.0,,
+INDICADOR::el proyecto desarrolla productos y estrategias eficaces para comunicar el conocimiento generado a publicos no especializados.,CATEGORIA_INDICADOR::divulgacion,PERTENECE_A,1.0,,
+"INDICADOR::numero de productos (comunicados, articulos, blogs, libros, videos, material para redes sociales, entre otros) disenados y utilizados para comunicar los resultados del proyecto a publicos diversos.",CATEGORIA_INDICADOR::divulgacion,PERTENECE_A,1.0,,
+INDICADOR::numero de menciones en medios de comunicacion y redes sociales de los hallazgos del proyecto.,CATEGORIA_INDICADOR::divulgacion,PERTENECE_A,1.0,,
+"INDICADOR::nivel en que los resultados, metodologias o saberes generados por el proyecto son difundidos en formatos comprensibles, abiertos y reutilizables, y en que dichos materiales son efectivamente consultados y aprovechados por publicos diversos.",CATEGORIA_INDICADOR::divulgacion,PERTENECE_A,1.0,,
+INDICADOR::numero de espacios publicos promovidos por el proyecto para debatir la problematica investigativa y social mas alla del ambito academico.,CATEGORIA_INDICADOR::divulgacion,PERTENECE_A,1.0,,
+"INDICADOR::el proyecto fortalece procesos de construccion, preservacion y revitalizacion de la memoria e identidad cultural en comunidades o territorios.",CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+"INDICADOR::el proyecto promueve la conservacion, valorizacion o enriquecimiento del patrimonio cultural, ya sea material o inmaterial.",CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+INDICADOR::mejora en la calidad de vida o bienestar atribuida al proyecto.,CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+"INDICADOR::el proyecto contribuye a consolidar redes de colaboracion y alianzas entre comunidades, organizaciones e instituciones.",CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+"INDICADOR::el proyecto contribuyo a enfrentar desigualdades, exclusion o injusticia, promoviendo justicia social, equidad, inclusion y respeto a los derechos humanos.",CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+INDICADOR::numero de beneficiarios directos e indirectos.,CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+INDICADOR::el proyecto desarrolla productos tecnologicos con participacion de actores no academicos o sectores aplicados.,CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+INDICADOR::el proyecto incluye procesos participativos de validacion tecnologica con usuarios reales.,CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+INDICADOR::los resultados tecnologicos son desarrollados con potencial de comercializacion.,CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+INDICADOR::el proyecto utiliza tecnologia para maximizar el impacto positivo en comunidades o actores destinatarios.,CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+INDICADOR::el proyecto genera desarrollos tecnologicos originales con aplicacion demostrada fuera del ambito academico.,CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+INDICADOR::el proyecto aplica tecnologias preexistentes de forma novedosa y contextualizada para resolver problemas locales.,CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+"INDICADOR::las soluciones tecnologicas generadas por el proyecto son adoptadas, adaptadas o sostenidas por actores de interes externos a la academia.",CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+"INDICADOR::el proyecto genera ingresos adicionales mediante la implementacion, validacion o comercializacion de procesos, metodologias o productos nuevos o mejorados.",CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+INDICADOR::el proyecto logra reducir costos en procesos organizativos o productivos mediante la implementacion de mejoras o innovaciones.,CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+INDICADOR::el proyecto genera nuevas oportunidades laborales directas o indirectas.,CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+INDICADOR::el proyecto fortalece o consolida eslabones clave de la cadena productiva y/o de suministros estrategicos.,CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+INDICADOR::el proyecto contribuye a mejorar practicas productivas sostenibles en los sectores o territorios involucrados.,CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+"INDICADOR::el proyecto impulsa el crecimiento economico de los grupos de interes (medido en tir, ingresos, calidad de vida, etc.).",CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+INDICADOR::el proyecto promueve capacidades productivas mediante la creacion de redes colaborativas o estrategias de economia solidaria.,CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+"INDICADOR::el proyecto desarrolla soluciones ambientales asociadas a servicios ecosistemicos, biodiversidad o sostenibilidad ambiental.",CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+"INDICADOR::el proyecto genera mejoras sostenibles en el entorno ambiental, economico y social de los grupos de interes.",CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+INDICADOR::el proyecto fortalece el bienestar fisico y mental de la poblacion.,CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+INDICADOR::el proyecto contribuye a prevenir riesgos en salud publica.,CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+INDICADOR::el proyecto implementa acciones orientadas a mejorar la calidad de vida de personas en situacion de discapacidad.,CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+INDICADOR::el proyecto desarrolla intervenciones que contribuyeron a disminuir tasas de mortalidad en poblaciones especificas.,CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+INDICADOR::el proyecto fomenta el dialogo y la integracion entre medicina occidental y tradicional/ancestral.,CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+INDICADOR::el proyecto fortalece estrategias participativas de cuidado implementadas por distintos actores sociales.,CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+"INDICADOR::el proyecto facilita la participacion activa de los grupos de interes en procesos de formulacion, monitoreo o evaluacion de politicas publicas o iniciativas de ciencia ciudadana.",CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+"INDICADOR::numero de documentos oficiales (politica publica, leyes, regulaciones o decisiones judiciales) que citan resultados del proyecto.",CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+INDICADOR::numero de politicas publicas o programas gubernamentales modificados o implementados con base en hallazgos del proyecto.,CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+"INDICADOR::numero de manuales, herramientas o metodologias derivadas del proyecto y adoptadas por entidades estatales.",CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+INDICADOR::numero de participaciones del equipo del proyecto en audiencias legislativas o judiciales.,CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+INDICADOR::el proyecto implica colaboracion efectiva con entidades publicas o actores sociales en la formulacion o evaluacion de politicas.,CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+INDICADOR::numero de informes tecnicos o documentos de politica generados desde el proyecto y entregados a entidades gubernamentales.,CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+"INDICADOR::numero de seminarios, talleres o capacitaciones organizadas para funcionarios publicos basadas en el proyecto.",CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+"INDICADOR::numero de redes relacionadas con politicas publicas en las que el proyecto ha participado o contribuido a crear, conformadas por actores de diversos sectores.",CATEGORIA_INDICADOR::impacto_mas_alla_academia,PERTENECE_A,1.0,,
+PROYECTO::21806,FRAGMENTO::21806::tipo_documental::1,CONTIENE,1.0,,
+PROYECTO::21806,FRAGMENTO::21806::investigador_docente::2,CONTIENE,1.0,,
+PROYECTO::21806,FRAGMENTO::21806::nombre_producto::3,CONTIENE,1.0,,
+PROYECTO::21806,FRAGMENTO::21806::resumen::4,CONTIENE,1.0,,
+PROYECTO::21806,FRAGMENTO::21806::resumen::5,CONTIENE,1.0,,
+PROYECTO::21806,FRAGMENTO::21806::resumen::6,CONTIENE,1.0,,
+PROYECTO::21806,FRAGMENTO::21806::resumen::7,CONTIENE,1.0,,
+PROYECTO::21806,FRAGMENTO::21806::resumen::8,CONTIENE,1.0,,
+PROYECTO::21806,FRAGMENTO::21806::resumen::9,CONTIENE,1.0,,
+PROYECTO::21806,FRAGMENTO::21806::palabras_clave::10,CONTIENE,1.0,,
+PROYECTO::21806,FRAGMENTO::21806::objetivos::11,CONTIENE,1.0,,
+PROYECTO::21806,FRAGMENTO::21806::metodologia::12,CONTIENE,1.0,,
+PROYECTO::21806,FRAGMENTO::21806::resultados_investigacion::13,CONTIENE,1.0,,
+PROYECTO::21806,FRAGMENTO::21806::gran_area::14,CONTIENE,1.0,,
+PROYECTO::21806,FRAGMENTO::21806::area_conocimiento::15,CONTIENE,1.0,,
+PROYECTO::21806,FRAGMENTO::21806::objetivo_socioeconomico::16,CONTIENE,1.0,,
+PROYECTO::21806,"INVESTIGADOR::""janneth arcelia aldana cedeno""",TIENE_INVESTIGADOR,0.65,,
+PROYECTO::21806,PALABRA_CLAVE::cuidado,TIENE_PALABRA_CLAVE,0.7,,
+PROYECTO::21806,PALABRA_CLAVE::discapacidad,TIENE_PALABRA_CLAVE,0.7,,
+PROYECTO::21806,PALABRA_CLAVE::inequidad,TIENE_PALABRA_CLAVE,0.7,,
+PROYECTO::21806,GRAN_AREA::ciencias sociales,PERTENECE_GRAN_AREA,0.35,,
+PROYECTO::21806,AREA_CONOCIMIENTO::otras ciencias sociales,PERTENECE_AREA_CONOCIMIENTO,0.35,,
+PROYECTO::21806,"OBJETIVO_SOCIOECONOMICO::sistemas politicos y sociales, estructuras y procesos",TIENE_OBJETIVO_SOCIOECONOMICO,0.35,,
+FRAGMENTO::21806::nombre_producto::3,INDICADOR::numero de menciones en medios de comunicacion y redes sociales de los hallazgos del proyecto.,EVIDENCIA_CANDIDATA_DE,0.627318,0.627318,nombre_producto
+FRAGMENTO::21806::nombre_producto::3,INDICADOR::numero de espacios publicos promovidos por el proyecto para debatir la problematica investigativa y social mas alla del ambito academico.,EVIDENCIA_CANDIDATA_DE,0.532155,0.532155,nombre_producto
+FRAGMENTO::21806::nombre_producto::3,"INDICADOR::numero de manuales, herramientas o metodologias derivadas del proyecto y adoptadas por entidades estatales.",EVIDENCIA_CANDIDATA_DE,0.520591,0.520591,nombre_producto
+FRAGMENTO::21806::resumen::4,INDICADOR::el proyecto implementa acciones orientadas a mejorar la calidad de vida de personas en situacion de discapacidad.,EVIDENCIA_CANDIDATA_DE,0.553523,0.553523,resumen
+FRAGMENTO::21806::resumen::4,"INDICADOR::el proyecto contribuyo a enfrentar desigualdades, exclusion o injusticia, promoviendo justicia social, equidad, inclusion y respeto a los derechos humanos.",EVIDENCIA_CANDIDATA_DE,0.522959,0.522959,resumen
+FRAGMENTO::21806::resumen::4,INDICADOR::el proyecto fortalece el bienestar fisico y mental de la poblacion.,EVIDENCIA_CANDIDATA_DE,0.453447,0.453447,resumen
+FRAGMENTO::21806::resumen::5,INDICADOR::el proyecto implementa acciones orientadas a mejorar la calidad de vida de personas en situacion de discapacidad.,EVIDENCIA_CANDIDATA_DE,0.616094,0.616094,resumen
+FRAGMENTO::21806::resumen::5,"INDICADOR::el proyecto contribuyo a enfrentar desigualdades, exclusion o injusticia, promoviendo justicia social, equidad, inclusion y respeto a los derechos humanos.",EVIDENCIA_CANDIDATA_DE,0.566164,0.566164,resumen
+FRAGMENTO::21806::resumen::5,INDICADOR::el proyecto fortalece estrategias participativas de cuidado implementadas por distintos actores sociales.,EVIDENCIA_CANDIDATA_DE,0.530385,0.530385,resumen
+FRAGMENTO::21806::resumen::6,INDICADOR::el proyecto implementa acciones orientadas a mejorar la calidad de vida de personas en situacion de discapacidad.,EVIDENCIA_CANDIDATA_DE,0.644148,0.644148,resumen
+FRAGMENTO::21806::resumen::6,INDICADOR::el proyecto fortalece estrategias participativas de cuidado implementadas por distintos actores sociales.,EVIDENCIA_CANDIDATA_DE,0.594737,0.594737,resumen
+FRAGMENTO::21806::resumen::6,INDICADOR::el proyecto desarrolla intervenciones que contribuyeron a disminuir tasas de mortalidad en poblaciones especificas.,EVIDENCIA_CANDIDATA_DE,0.564695,0.564695,resumen
+FRAGMENTO::21806::resumen::7,INDICADOR::el proyecto fortalece estrategias participativas de cuidado implementadas por distintos actores sociales.,EVIDENCIA_CANDIDATA_DE,0.65862,0.65862,resumen
+FRAGMENTO::21806::resumen::7,"INDICADOR::el proyecto contribuyo a enfrentar desigualdades, exclusion o injusticia, promoviendo justicia social, equidad, inclusion y respeto a los derechos humanos.",EVIDENCIA_CANDIDATA_DE,0.653303,0.653303,resumen
+FRAGMENTO::21806::resumen::7,INDICADOR::el proyecto desarrolla intervenciones que contribuyeron a disminuir tasas de mortalidad en poblaciones especificas.,EVIDENCIA_CANDIDATA_DE,0.629887,0.629887,resumen
+FRAGMENTO::21806::resumen::8,INDICADOR::el proyecto implementa acciones orientadas a mejorar la calidad de vida de personas en situacion de discapacidad.,EVIDENCIA_CANDIDATA_DE,0.740814,0.740814,resumen
+FRAGMENTO::21806::resumen::8,"INDICADOR::el proyecto contribuyo a enfrentar desigualdades, exclusion o injusticia, promoviendo justicia social, equidad, inclusion y respeto a los derechos humanos.",EVIDENCIA_CANDIDATA_DE,0.701534,0.701534,resumen
+FRAGMENTO::21806::resumen::8,INDICADOR::el proyecto fortalece estrategias participativas de cuidado implementadas por distintos actores sociales.,EVIDENCIA_CANDIDATA_DE,0.645416,0.645416,resumen
+FRAGMENTO::21806::resumen::9,INDICADOR::el proyecto implementa acciones orientadas a mejorar la calidad de vida de personas en situacion de discapacidad.,EVIDENCIA_CANDIDATA_DE,0.731872,0.731872,resumen
+FRAGMENTO::21806::resumen::9,"INDICADOR::el proyecto contribuyo a enfrentar desigualdades, exclusion o injusticia, promoviendo justicia social, equidad, inclusion y respeto a los derechos humanos.",EVIDENCIA_CANDIDATA_DE,0.642749,0.642749,resumen
+FRAGMENTO::21806::resumen::9,INDICADOR::el proyecto fortalece estrategias participativas de cuidado implementadas por distintos actores sociales.,EVIDENCIA_CANDIDATA_DE,0.637548,0.637548,resumen
+FRAGMENTO::21806::palabras_clave::10,INDICADOR::numero de beneficiarios directos e indirectos.,EVIDENCIA_CANDIDATA_DE,0.496726,0.496726,palabras_clave
+FRAGMENTO::21806::palabras_clave::10,INDICADOR::numero de menciones en medios de comunicacion y redes sociales de los hallazgos del proyecto.,EVIDENCIA_CANDIDATA_DE,0.464458,0.464458,palabras_clave
+FRAGMENTO::21806::palabras_clave::10,INDICADOR::el proyecto fomenta el dialogo y la integracion entre medicina occidental y tradicional/ancestral.,EVIDENCIA_CANDIDATA_DE,0.428382,0.428382,palabras_clave
+FRAGMENTO::21806::objetivos::11,INDICADOR::el proyecto implementa acciones orientadas a mejorar la calidad de vida de personas en situacion de discapacidad.,EVIDENCIA_CANDIDATA_DE,0.72791,0.72791,objetivos
+FRAGMENTO::21806::objetivos::11,"INDICADOR::el proyecto contribuyo a enfrentar desigualdades, exclusion o injusticia, promoviendo justicia social, equidad, inclusion y respeto a los derechos humanos.",EVIDENCIA_CANDIDATA_DE,0.64831,0.64831,objetivos
+FRAGMENTO::21806::objetivos::11,INDICADOR::el proyecto fortalece el bienestar fisico y mental de la poblacion.,EVIDENCIA_CANDIDATA_DE,0.61575,0.61575,objetivos
+FRAGMENTO::21806::metodologia::12,INDICADOR::el proyecto implementa acciones orientadas a mejorar la calidad de vida de personas en situacion de discapacidad.,EVIDENCIA_CANDIDATA_DE,0.713852,0.713852,metodologia
+FRAGMENTO::21806::metodologia::12,"INDICADOR::el proyecto contribuyo a enfrentar desigualdades, exclusion o injusticia, promoviendo justicia social, equidad, inclusion y respeto a los derechos humanos.",EVIDENCIA_CANDIDATA_DE,0.651364,0.651364,metodologia
+FRAGMENTO::21806::metodologia::12,INDICADOR::el proyecto fortalece el bienestar fisico y mental de la poblacion.,EVIDENCIA_CANDIDATA_DE,0.596738,0.596738,metodologia
+FRAGMENTO::21806::resultados_investigacion::13,INDICADOR::el proyecto implementa acciones orientadas a mejorar la calidad de vida de personas en situacion de discapacidad.,EVIDENCIA_CANDIDATA_DE,0.713852,0.713852,resultados_investigacion
+FRAGMENTO::21806::resultados_investigacion::13,"INDICADOR::el proyecto contribuyo a enfrentar desigualdades, exclusion o injusticia, promoviendo justicia social, equidad, inclusion y respeto a los derechos humanos.",EVIDENCIA_CANDIDATA_DE,0.651364,0.651364,resultados_investigacion
+FRAGMENTO::21806::resultados_investigacion::13,INDICADOR::el proyecto fortalece el bienestar fisico y mental de la poblacion.,EVIDENCIA_CANDIDATA_DE,0.596738,0.596738,resultados_investigacion
+PROYECTO::20194,FRAGMENTO::20194::tipo_documental::1,CONTIENE,1.0,,
+PROYECTO::20194,FRAGMENTO::20194::investigador_docente::2,CONTIENE,1.0,,
+PROYECTO::20194,FRAGMENTO::20194::nombre_producto::3,CONTIENE,1.0,,
+PROYECTO::20194,FRAGMENTO::20194::resumen::4,CONTIENE,1.0,,
+PROYECTO::20194,FRAGMENTO::20194::resumen::5,CONTIENE,1.0,,
+PROYECTO::20194,FRAGMENTO::20194::resumen::6,CONTIENE,1.0,,
+PROYECTO::20194,FRAGMENTO::20194::resumen::7,CONTIENE,1.0,,
+PROYECTO::20194,FRAGMENTO::20194::resumen::8,CONTIENE,1.0,,
+PROYECTO::20194,FRAGMENTO::20194::resumen::9,CONTIENE,1.0,,
+PROYECTO::20194,FRAGMENTO::20194::resumen::10,CONTIENE,1.0,,
+PROYECTO::20194,FRAGMENTO::20194::resumen::11,CONTIENE,1.0,,
+PROYECTO::20194,FRAGMENTO::20194::resumen::12,CONTIENE,1.0,,
+PROYECTO::20194,FRAGMENTO::20194::resumen::13,CONTIENE,1.0,,
+PROYECTO::20194,FRAGMENTO::20194::resumen::14,CONTIENE,1.0,,
+PROYECTO::20194,FRAGMENTO::20194::resumen::15,CONTIENE,1.0,,
+PROYECTO::20194,FRAGMENTO::20194::resumen::16,CONTIENE,1.0,,
+PROYECTO::20194,FRAGMENTO::20194::resumen::17,CONTIENE,1.0,,
+PROYECTO::20194,FRAGMENTO::20194::resumen::18,CONTIENE,1.0,,
+PROYECTO::20194,FRAGMENTO::20194::resumen::19,CONTIENE,1.0,,
+PROYECTO::20194,FRAGMENTO::20194::resumen::20,CONTIENE,1.0,,
+PROYECTO::20194,FRAGMENTO::20194::resumen::21,CONTIENE,1.0,,
+PROYECTO::20194,FRAGMENTO::20194::resumen::22,CONTIENE,1.0,,
+PROYECTO::20194,FRAGMENTO::20194::resumen::23,CONTIENE,1.0,,
+PROYECTO::20194,FRAGMENTO::20194::resumen::24,CONTIENE,1.0,,
+PROYECTO::20194,FRAGMENTO::20194::resumen::25,CONTIENE,1.0,,
+PROYECTO::20194,FRAGMENTO::20194::resumen::26,CONTIENE,1.0,,
+PROYECTO::20194,FRAGMENTO::20194::resumen::27,CONTIENE,1.0,,
+PROYECTO::20194,FRAGMENTO::20194::resumen::28,CONTIENE,1.0,,
+PROYECTO::20194,FRAGMENTO::20194::resumen::29,CONTIENE,1.0,,
+PROYECTO::20194,FRAGMENTO::20194::resumen::30,CONTIENE,1.0,,
+PROYECTO::20194,FRAGMENTO::20194::resumen::31,CONTIENE,1.0,,
+PROYECTO::20194,FRAGMENTO::20194::resumen::32,CONTIENE,1.0,,
+PROYECTO::20194,FRAGMENTO::20194::resumen::33,CONTIENE,1.0,,
+PROYECTO::20194,FRAGMENTO::20194::resumen::34,CONTIENE,1.0,,
+PROYECTO::20194,FRAGMENTO::20194::resumen::35,CONTIENE,1.0,,
+PROYECTO::20194,FRAGMENTO::20194::resumen::36,CONTIENE,1.0,,
+PROYECTO::20194,FRAGMENTO::20194::resumen::37,CONTIENE,1.0,,
+PROYECTO::20194,FRAGMENTO::20194::resumen::38,CONTIENE,1.0,,
+PROYECTO::20194,FRAGMENTO::20194::resumen::39,CONTIENE,1.0,,
+PROYECTO::20194,FRAGMENTO::20194::resumen::40,CONTIENE,1.0,,
+PROYECTO::20194,FRAGMENTO::20194::resumen::41,CONTIENE,1.0,,
+PROYECTO::20194,FRAGMENTO::20194::resumen::42,CONTIENE,1.0,,
+PROYECTO::20194,FRAGMENTO::20194::resumen::43,CONTIENE,1.0,,
+PROYECTO::20194,FRAGMENTO::20194::resumen::44,CONTIENE,1.0,,
+PROYECTO::20194,FRAGMENTO::20194::resumen::45,CONTIENE,1.0,,
+PROYECTO::20194,FRAGMENTO::20194::resumen::46,CONTIENE,1.0,,
+PROYECTO::20194,FRAGMENTO::20194::resumen::47,CONTIENE,1.0,,
+PROYECTO::20194,FRAGMENTO::20194::resumen::48,CONTIENE,1.0,,
+PROYECTO::20194,FRAGMENTO::20194::palabras_clave::49,CONTIENE,1.0,,
+PROYECTO::20194,FRAGMENTO::20194::objetivos::50,CONTIENE,1.0,,
+PROYECTO::20194,FRAGMENTO::20194::metodologia::51,CONTIENE,1.0,,
+PROYECTO::20194,FRAGMENTO::20194::resultados_investigacion::52,CONTIENE,1.0,,
+PROYECTO::20194,FRAGMENTO::20194::gran_area::53,CONTIENE,1.0,,
+PROYECTO::20194,FRAGMENTO::20194::area_conocimiento::54,CONTIENE,1.0,,
+PROYECTO::20194,FRAGMENTO::20194::objetivo_socioeconomico::55,CONTIENE,1.0,,
+PROYECTO::20194,"INVESTIGADOR::""juan carlos arias herrera""",TIENE_INVESTIGADOR,0.65,,
+PROYECTO::20194,PALABRA_CLAVE::crisis de representacion,TIENE_PALABRA_CLAVE,0.7,,
+PROYECTO::20194,PALABRA_CLAVE::arte latinoamericano,TIENE_PALABRA_CLAVE,0.7,,
+PROYECTO::20194,PALABRA_CLAVE::realismo,TIENE_PALABRA_CLAVE,0.7,,
+PROYECTO::20194,GRAN_AREA::humanidades,PERTENECE_GRAN_AREA,0.35,,
+PROYECTO::20194,AREA_CONOCIMIENTO::arte,PERTENECE_AREA_CONOCIMIENTO,0.35,,
+PROYECTO::20194,"OBJETIVO_SOCIOECONOMICO::cultura, ocio, religion y medio de comunicacion",TIENE_OBJETIVO_SOCIOECONOMICO,0.35,,
+FRAGMENTO::20194::resumen::4,INDICADOR::numero de espacios publicos promovidos por el proyecto para debatir la problematica investigativa y social mas alla del ambito academico.,EVIDENCIA_CANDIDATA_DE,0.499702,0.499702,resumen
+FRAGMENTO::20194::resumen::4,"INDICADOR::el proyecto contribuyo a enfrentar desigualdades, exclusion o injusticia, promoviendo justicia social, equidad, inclusion y respeto a los derechos humanos.",EVIDENCIA_CANDIDATA_DE,0.494901,0.494901,resumen
+FRAGMENTO::20194::resumen::4,INDICADOR::numero de menciones en medios de comunicacion y redes sociales de los hallazgos del proyecto.,EVIDENCIA_CANDIDATA_DE,0.490798,0.490798,resumen
+FRAGMENTO::20194::resumen::5,"INDICADOR::el proyecto promueve la conservacion, valorizacion o enriquecimiento del patrimonio cultural, ya sea material o inmaterial.",EVIDENCIA_CANDIDATA_DE,0.512767,0.512767,resumen
+FRAGMENTO::20194::resumen::5,"INDICADOR::el proyecto fortalece procesos de construccion, preservacion y revitalizacion de la memoria e identidad cultural en comunidades o territorios.",EVIDENCIA_CANDIDATA_DE,0.505511,0.505511,resumen
+FRAGMENTO::20194::resumen::5,INDICADOR::numero de espacios publicos promovidos por el proyecto para debatir la problematica investigativa y social mas alla del ambito academico.,EVIDENCIA_CANDIDATA_DE,0.50178,0.50178,resumen
+FRAGMENTO::20194::resumen::6,"INDICADOR::el proyecto contribuyo a enfrentar desigualdades, exclusion o injusticia, promoviendo justicia social, equidad, inclusion y respeto a los derechos humanos.",EVIDENCIA_CANDIDATA_DE,0.555004,0.555004,resumen
+FRAGMENTO::20194::resumen::6,INDICADOR::el proyecto genera desarrollos tecnologicos originales con aplicacion demostrada fuera del ambito academico.,EVIDENCIA_CANDIDATA_DE,0.540114,0.540114,resumen
+FRAGMENTO::20194::resumen::6,"INDICADOR::el proyecto fortalece procesos de construccion, preservacion y revitalizacion de la memoria e identidad cultural en comunidades o territorios.",EVIDENCIA_CANDIDATA_DE,0.535697,0.535697,resumen
+FRAGMENTO::20194::resumen::7,INDICADOR::el proyecto establece mecanismos para el dialogo de saberes entre actores academicos y otros actores sociales.,EVIDENCIA_CANDIDATA_DE,0.67619,0.67619,resumen
+FRAGMENTO::20194::resumen::7,"INDICADOR::el proyecto fortalece procesos de construccion, preservacion y revitalizacion de la memoria e identidad cultural en comunidades o territorios.",EVIDENCIA_CANDIDATA_DE,0.630855,0.630855,resumen
+FRAGMENTO::20194::resumen::7,"INDICADOR::el proyecto incorpora enfoques interdisciplinarios o transdisciplinarios tanto en el planteamiento del problema como en los metodos, tipos de analisis y perspectivas conceptuales utilizadas.",EVIDENCIA_CANDIDATA_DE,0.621628,0.621628,resumen
+FRAGMENTO::20194::resumen::8,INDICADOR::el proyecto establece mecanismos para el dialogo de saberes entre actores academicos y otros actores sociales.,EVIDENCIA_CANDIDATA_DE,0.641306,0.641306,resumen
+FRAGMENTO::20194::resumen::8,INDICADOR::el proyecto desarrolla productos tecnologicos con participacion de actores no academicos o sectores aplicados.,EVIDENCIA_CANDIDATA_DE,0.624099,0.624099,resumen
+FRAGMENTO::20194::resumen::8,"INDICADOR::las soluciones tecnologicas generadas por el proyecto son adoptadas, adaptadas o sostenidas por actores de interes externos a la academia.",EVIDENCIA_CANDIDATA_DE,0.62388,0.62388,resumen
+FRAGMENTO::20194::resumen::9,"INDICADOR::el proyecto fortalece procesos de construccion, preservacion y revitalizacion de la memoria e identidad cultural en comunidades o territorios.",EVIDENCIA_CANDIDATA_DE,0.589871,0.589871,resumen
+FRAGMENTO::20194::resumen::9,"INDICADOR::el proyecto promueve la conservacion, valorizacion o enriquecimiento del patrimonio cultural, ya sea material o inmaterial.",EVIDENCIA_CANDIDATA_DE,0.583338,0.583338,resumen
+FRAGMENTO::20194::resumen::9,INDICADOR::el proyecto establece mecanismos para el dialogo de saberes entre actores academicos y otros actores sociales.,EVIDENCIA_CANDIDATA_DE,0.553358,0.553358,resumen
+FRAGMENTO::20194::resumen::10,"INDICADOR::el proyecto fortalece procesos de construccion, preservacion y revitalizacion de la memoria e identidad cultural en comunidades o territorios.",EVIDENCIA_CANDIDATA_DE,0.424465,0.424465,resumen
+FRAGMENTO::20194::resumen::11,INDICADOR::numero de espacios publicos promovidos por el proyecto para debatir la problematica investigativa y social mas alla del ambito academico.,EVIDENCIA_CANDIDATA_DE,0.503465,0.503465,resumen
+FRAGMENTO::20194::resumen::11,INDICADOR::el proyecto establece mecanismos para el dialogo de saberes entre actores academicos y otros actores sociales.,EVIDENCIA_CANDIDATA_DE,0.461464,0.461464,resumen
+FRAGMENTO::20194::resumen::11,INDICADOR::el proyecto cuenta con la participacion activa y significativa de actores externos (academicos y/o no academicos) en distintas etapas del proceso investigativo.,EVIDENCIA_CANDIDATA_DE,0.422302,0.422302,resumen
+FRAGMENTO::20194::resumen::12,INDICADOR::el proyecto establece mecanismos para el dialogo de saberes entre actores academicos y otros actores sociales.,EVIDENCIA_CANDIDATA_DE,0.488418,0.488418,resumen
+FRAGMENTO::20194::resumen::13,INDICADOR::numero de espacios publicos promovidos por el proyecto para debatir la problematica investigativa y social mas alla del ambito academico.,EVIDENCIA_CANDIDATA_DE,0.614037,0.614037,resumen
+FRAGMENTO::20194::resumen::13,INDICADOR::el proyecto establece mecanismos para el dialogo de saberes entre actores academicos y otros actores sociales.,EVIDENCIA_CANDIDATA_DE,0.576554,0.576554,resumen
+FRAGMENTO::20194::resumen::13,"INDICADOR::el proyecto incorpora enfoques interdisciplinarios o transdisciplinarios tanto en el planteamiento del problema como en los metodos, tipos de analisis y perspectivas conceptuales utilizadas.",EVIDENCIA_CANDIDATA_DE,0.514493,0.514493,resumen
+FRAGMENTO::20194::resumen::14,INDICADOR::el proyecto establece mecanismos para el dialogo de saberes entre actores academicos y otros actores sociales.,EVIDENCIA_CANDIDATA_DE,0.546257,0.546257,resumen
+FRAGMENTO::20194::resumen::14,"INDICADOR::el proyecto promueve la conservacion, valorizacion o enriquecimiento del patrimonio cultural, ya sea material o inmaterial.",EVIDENCIA_CANDIDATA_DE,0.539736,0.539736,resumen
+FRAGMENTO::20194::resumen::14,INDICADOR::numero de espacios publicos promovidos por el proyecto para debatir la problematica investigativa y social mas alla del ambito academico.,EVIDENCIA_CANDIDATA_DE,0.526728,0.526728,resumen
+FRAGMENTO::20194::resumen::15,INDICADOR::el proyecto establece mecanismos para el dialogo de saberes entre actores academicos y otros actores sociales.,EVIDENCIA_CANDIDATA_DE,0.557971,0.557971,resumen
+FRAGMENTO::20194::resumen::15,INDICADOR::el proyecto cuenta con la participacion activa y significativa de actores externos (academicos y/o no academicos) en distintas etapas del proceso investigativo.,EVIDENCIA_CANDIDATA_DE,0.551927,0.551927,resumen
+FRAGMENTO::20194::resumen::15,"INDICADOR::el proyecto incorpora enfoques interdisciplinarios o transdisciplinarios tanto en el planteamiento del problema como en los metodos, tipos de analisis y perspectivas conceptuales utilizadas.",EVIDENCIA_CANDIDATA_DE,0.513224,0.513224,resumen
+FRAGMENTO::20194::resumen::16,INDICADOR::el proyecto establece mecanismos para el dialogo de saberes entre actores academicos y otros actores sociales.,EVIDENCIA_CANDIDATA_DE,0.541177,0.541177,resumen
+FRAGMENTO::20194::resumen::16,"INDICADOR::el proyecto incorpora enfoques interdisciplinarios o transdisciplinarios tanto en el planteamiento del problema como en los metodos, tipos de analisis y perspectivas conceptuales utilizadas.",EVIDENCIA_CANDIDATA_DE,0.505277,0.505277,resumen
+FRAGMENTO::20194::resumen::16,"INDICADOR::nivel en que los resultados, metodologias o saberes generados por el proyecto son difundidos en formatos comprensibles, abiertos y reutilizables, y en que dichos materiales son efectivamente consultados y aprovechados por publicos diversos.",EVIDENCIA_CANDIDATA_DE,0.498322,0.498322,resumen
+FRAGMENTO::20194::resumen::17,"INDICADOR::el proyecto fortalece procesos de construccion, preservacion y revitalizacion de la memoria e identidad cultural en comunidades o territorios.",EVIDENCIA_CANDIDATA_DE,0.463125,0.463125,resumen
+FRAGMENTO::20194::resumen::17,INDICADOR::numero de espacios publicos promovidos por el proyecto para debatir la problematica investigativa y social mas alla del ambito academico.,EVIDENCIA_CANDIDATA_DE,0.447758,0.447758,resumen
+FRAGMENTO::20194::resumen::17,"INDICADOR::el proyecto promueve la conservacion, valorizacion o enriquecimiento del patrimonio cultural, ya sea material o inmaterial.",EVIDENCIA_CANDIDATA_DE,0.444793,0.444793,resumen
+FRAGMENTO::20194::resumen::18,INDICADOR::el proyecto establece mecanismos para el dialogo de saberes entre actores academicos y otros actores sociales.,EVIDENCIA_CANDIDATA_DE,0.475353,0.475353,resumen
+FRAGMENTO::20194::resumen::18,"INDICADOR::el proyecto promueve la conservacion, valorizacion o enriquecimiento del patrimonio cultural, ya sea material o inmaterial.",EVIDENCIA_CANDIDATA_DE,0.4622,0.4622,resumen
+FRAGMENTO::20194::resumen::18,"INDICADOR::el proyecto fortalece procesos de construccion, preservacion y revitalizacion de la memoria e identidad cultural en comunidades o territorios.",EVIDENCIA_CANDIDATA_DE,0.458283,0.458283,resumen
+FRAGMENTO::20194::resumen::19,"INDICADOR::el proyecto promueve la conservacion, valorizacion o enriquecimiento del patrimonio cultural, ya sea material o inmaterial.",EVIDENCIA_CANDIDATA_DE,0.593056,0.593056,resumen
+FRAGMENTO::20194::resumen::19,"INDICADOR::el proyecto fortalece procesos de construccion, preservacion y revitalizacion de la memoria e identidad cultural en comunidades o territorios.",EVIDENCIA_CANDIDATA_DE,0.587748,0.587748,resumen
+FRAGMENTO::20194::resumen::19,INDICADOR::el proyecto establece mecanismos para el dialogo de saberes entre actores academicos y otros actores sociales.,EVIDENCIA_CANDIDATA_DE,0.480029,0.480029,resumen
+FRAGMENTO::20194::resumen::20,"INDICADOR::el proyecto contribuyo a enfrentar desigualdades, exclusion o injusticia, promoviendo justicia social, equidad, inclusion y respeto a los derechos humanos.",EVIDENCIA_CANDIDATA_DE,0.49931,0.49931,resumen
+FRAGMENTO::20194::resumen::20,INDICADOR::numero de menciones en medios de comunicacion y redes sociales de los hallazgos del proyecto.,EVIDENCIA_CANDIDATA_DE,0.492267,0.492267,resumen
+FRAGMENTO::20194::resumen::20,"INDICADOR::numero de manuales, herramientas o metodologias derivadas del proyecto y adoptadas por entidades estatales.",EVIDENCIA_CANDIDATA_DE,0.483536,0.483536,resumen
+FRAGMENTO::20194::resumen::21,INDICADOR::numero de espacios publicos promovidos por el proyecto para debatir la problematica investigativa y social mas alla del ambito academico.,EVIDENCIA_CANDIDATA_DE,0.526924,0.526924,resumen
+FRAGMENTO::20194::resumen::21,INDICADOR::el proyecto implica colaboracion efectiva con entidades publicas o actores sociales en la formulacion o evaluacion de politicas.,EVIDENCIA_CANDIDATA_DE,0.488606,0.488606,resumen
+FRAGMENTO::20194::resumen::21,INDICADOR::el proyecto establece mecanismos para el dialogo de saberes entre actores academicos y otros actores sociales.,EVIDENCIA_CANDIDATA_DE,0.48666,0.48666,resumen
+FRAGMENTO::20194::resumen::22,INDICADOR::el proyecto establece mecanismos para el dialogo de saberes entre actores academicos y otros actores sociales.,EVIDENCIA_CANDIDATA_DE,0.499696,0.499696,resumen
+FRAGMENTO::20194::resumen::22,INDICADOR::numero de espacios publicos promovidos por el proyecto para debatir la problematica investigativa y social mas alla del ambito academico.,EVIDENCIA_CANDIDATA_DE,0.459568,0.459568,resumen
+FRAGMENTO::20194::resumen::22,"INDICADOR::numero de documentos oficiales (politica publica, leyes, regulaciones o decisiones judiciales) que citan resultados del proyecto.",EVIDENCIA_CANDIDATA_DE,0.454131,0.454131,resumen
+FRAGMENTO::20194::resumen::23,"INDICADOR::el proyecto fortalece procesos de construccion, preservacion y revitalizacion de la memoria e identidad cultural en comunidades o territorios.",EVIDENCIA_CANDIDATA_DE,0.44486,0.44486,resumen
+FRAGMENTO::20194::resumen::25,INDICADOR::el proyecto establece mecanismos para el dialogo de saberes entre actores academicos y otros actores sociales.,EVIDENCIA_CANDIDATA_DE,0.534385,0.534385,resumen
+FRAGMENTO::20194::resumen::25,INDICADOR::numero de espacios publicos promovidos por el proyecto para debatir la problematica investigativa y social mas alla del ambito academico.,EVIDENCIA_CANDIDATA_DE,0.451616,0.451616,resumen
+FRAGMENTO::20194::resumen::25,INDICADOR::el proyecto genera desarrollos tecnologicos originales con aplicacion demostrada fuera del ambito academico.,EVIDENCIA_CANDIDATA_DE,0.443676,0.443676,resumen
+FRAGMENTO::20194::resumen::26,"INDICADOR::el proyecto fortalece procesos de construccion, preservacion y revitalizacion de la memoria e identidad cultural en comunidades o territorios.",EVIDENCIA_CANDIDATA_DE,0.501649,0.501649,resumen
+FRAGMENTO::20194::resumen::27,"INDICADOR::el proyecto fortalece procesos de construccion, preservacion y revitalizacion de la memoria e identidad cultural en comunidades o territorios.",EVIDENCIA_CANDIDATA_DE,0.48142,0.48142,resumen
+FRAGMENTO::20194::resumen::27,"INDICADOR::el proyecto contribuyo a enfrentar desigualdades, exclusion o injusticia, promoviendo justicia social, equidad, inclusion y respeto a los derechos humanos.",EVIDENCIA_CANDIDATA_DE,0.454933,0.454933,resumen
+FRAGMENTO::20194::resumen::27,INDICADOR::numero de espacios publicos promovidos por el proyecto para debatir la problematica investigativa y social mas alla del ambito academico.,EVIDENCIA_CANDIDATA_DE,0.430919,0.430919,resumen
+FRAGMENTO::20194::resumen::28,INDICADOR::el proyecto establece mecanismos para el dialogo de saberes entre actores academicos y otros actores sociales.,EVIDENCIA_CANDIDATA_DE,0.574908,0.574908,resumen
+FRAGMENTO::20194::resumen::28,"INDICADOR::el proyecto promueve la conservacion, valorizacion o enriquecimiento del patrimonio cultural, ya sea material o inmaterial.",EVIDENCIA_CANDIDATA_DE,0.559203,0.559203,resumen
+FRAGMENTO::20194::resumen::28,"INDICADOR::el proyecto incorpora enfoques interdisciplinarios o transdisciplinarios tanto en el planteamiento del problema como en los metodos, tipos de analisis y perspectivas conceptuales utilizadas.",EVIDENCIA_CANDIDATA_DE,0.55413,0.55413,resumen
+FRAGMENTO::20194::resumen::29,"INDICADOR::el proyecto fortalece procesos de construccion, preservacion y revitalizacion de la memoria e identidad cultural en comunidades o territorios.",EVIDENCIA_CANDIDATA_DE,0.5295,0.5295,resumen
+FRAGMENTO::20194::resumen::29,"INDICADOR::el proyecto promueve la conservacion, valorizacion o enriquecimiento del patrimonio cultural, ya sea material o inmaterial.",EVIDENCIA_CANDIDATA_DE,0.522544,0.522544,resumen
+FRAGMENTO::20194::resumen::29,INDICADOR::numero de espacios publicos promovidos por el proyecto para debatir la problematica investigativa y social mas alla del ambito academico.,EVIDENCIA_CANDIDATA_DE,0.462545,0.462545,resumen
+FRAGMENTO::20194::resumen::31,INDICADOR::el proyecto establece mecanismos para el dialogo de saberes entre actores academicos y otros actores sociales.,EVIDENCIA_CANDIDATA_DE,0.535303,0.535303,resumen
+FRAGMENTO::20194::resumen::31,INDICADOR::numero de espacios publicos promovidos por el proyecto para debatir la problematica investigativa y social mas alla del ambito academico.,EVIDENCIA_CANDIDATA_DE,0.48888,0.48888,resumen
+FRAGMENTO::20194::resumen::31,INDICADOR::el proyecto implica colaboracion efectiva con entidades publicas o actores sociales en la formulacion o evaluacion de politicas.,EVIDENCIA_CANDIDATA_DE,0.465865,0.465865,resumen
+FRAGMENTO::20194::resumen::32,INDICADOR::numero de espacios publicos promovidos por el proyecto para debatir la problematica investigativa y social mas alla del ambito academico.,EVIDENCIA_CANDIDATA_DE,0.557656,0.557656,resumen
+FRAGMENTO::20194::resumen::32,INDICADOR::el proyecto establece mecanismos para el dialogo de saberes entre actores academicos y otros actores sociales.,EVIDENCIA_CANDIDATA_DE,0.527474,0.527474,resumen
+FRAGMENTO::20194::resumen::32,"INDICADOR::numero de documentos oficiales (politica publica, leyes, regulaciones o decisiones judiciales) que citan resultados del proyecto.",EVIDENCIA_CANDIDATA_DE,0.487554,0.487554,resumen
+FRAGMENTO::20194::resumen::34,"INDICADOR::el proyecto fortalece procesos de construccion, preservacion y revitalizacion de la memoria e identidad cultural en comunidades o territorios.",EVIDENCIA_CANDIDATA_DE,0.450372,0.450372,resumen
+FRAGMENTO::20194::resumen::34,INDICADOR::numero de espacios publicos promovidos por el proyecto para debatir la problematica investigativa y social mas alla del ambito academico.,EVIDENCIA_CANDIDATA_DE,0.427796,0.427796,resumen
+FRAGMENTO::20194::resumen::35,"INDICADOR::el proyecto incorpora enfoques interdisciplinarios o transdisciplinarios tanto en el planteamiento del problema como en los metodos, tipos de analisis y perspectivas conceptuales utilizadas.",EVIDENCIA_CANDIDATA_DE,0.660436,0.660436,resumen
+FRAGMENTO::20194::resumen::35,INDICADOR::el proyecto establece mecanismos para el dialogo de saberes entre actores academicos y otros actores sociales.,EVIDENCIA_CANDIDATA_DE,0.583437,0.583437,resumen
+FRAGMENTO::20194::resumen::35,INDICADOR::el proyecto cuenta con la participacion activa y significativa de actores externos (academicos y/o no academicos) en distintas etapas del proceso investigativo.,EVIDENCIA_CANDIDATA_DE,0.542685,0.542685,resumen
+FRAGMENTO::20194::resumen::36,INDICADOR::numero de espacios publicos promovidos por el proyecto para debatir la problematica investigativa y social mas alla del ambito academico.,EVIDENCIA_CANDIDATA_DE,0.42847,0.42847,resumen
+FRAGMENTO::20194::resumen::37,"INDICADOR::el proyecto promueve la conservacion, valorizacion o enriquecimiento del patrimonio cultural, ya sea material o inmaterial.",EVIDENCIA_CANDIDATA_DE,0.460181,0.460181,resumen
+FRAGMENTO::20194::resumen::38,"INDICADOR::el proyecto fortalece procesos de construccion, preservacion y revitalizacion de la memoria e identidad cultural en comunidades o territorios.",EVIDENCIA_CANDIDATA_DE,0.442833,0.442833,resumen
+FRAGMENTO::20194::resumen::40,"INDICADOR::el proyecto promueve la conservacion, valorizacion o enriquecimiento del patrimonio cultural, ya sea material o inmaterial.",EVIDENCIA_CANDIDATA_DE,0.493141,0.493141,resumen
+FRAGMENTO::20194::resumen::40,"INDICADOR::el proyecto fortalece procesos de construccion, preservacion y revitalizacion de la memoria e identidad cultural en comunidades o territorios.",EVIDENCIA_CANDIDATA_DE,0.436078,0.436078,resumen
+FRAGMENTO::20194::resumen::41,INDICADOR::numero de espacios publicos promovidos por el proyecto para debatir la problematica investigativa y social mas alla del ambito academico.,EVIDENCIA_CANDIDATA_DE,0.442194,0.442194,resumen
+FRAGMENTO::20194::resumen::42,INDICADOR::el proyecto establece mecanismos para el dialogo de saberes entre actores academicos y otros actores sociales.,EVIDENCIA_CANDIDATA_DE,0.448262,0.448262,resumen
+FRAGMENTO::20194::resumen::44,INDICADOR::el proyecto establece mecanismos para el dialogo de saberes entre actores academicos y otros actores sociales.,EVIDENCIA_CANDIDATA_DE,0.444467,0.444467,resumen
+FRAGMENTO::20194::resumen::46,"INDICADOR::el proyecto promueve la conservacion, valorizacion o enriquecimiento del patrimonio cultural, ya sea material o inmaterial.",EVIDENCIA_CANDIDATA_DE,0.488175,0.488175,resumen
+FRAGMENTO::20194::resumen::46,INDICADOR::el proyecto implica colaboracion efectiva con entidades publicas o actores sociales en la formulacion o evaluacion de politicas.,EVIDENCIA_CANDIDATA_DE,0.450744,0.450744,resumen
+FRAGMENTO::20194::resumen::46,"INDICADOR::el proyecto contribuyo a enfrentar desigualdades, exclusion o injusticia, promoviendo justicia social, equidad, inclusion y respeto a los derechos humanos.",EVIDENCIA_CANDIDATA_DE,0.443844,0.443844,resumen
+FRAGMENTO::20194::resumen::48,"INDICADOR::el proyecto promueve la conservacion, valorizacion o enriquecimiento del patrimonio cultural, ya sea material o inmaterial.",EVIDENCIA_CANDIDATA_DE,0.451849,0.451849,resumen
+FRAGMENTO::20194::resumen::48,"INDICADOR::el proyecto fortalece procesos de construccion, preservacion y revitalizacion de la memoria e identidad cultural en comunidades o territorios.",EVIDENCIA_CANDIDATA_DE,0.443866,0.443866,resumen
+FRAGMENTO::20194::palabras_clave::49,"INDICADOR::el proyecto promueve la conservacion, valorizacion o enriquecimiento del patrimonio cultural, ya sea material o inmaterial.",EVIDENCIA_CANDIDATA_DE,0.47896,0.47896,palabras_clave
+FRAGMENTO::20194::palabras_clave::49,"INDICADOR::el proyecto fortalece procesos de construccion, preservacion y revitalizacion de la memoria e identidad cultural en comunidades o territorios.",EVIDENCIA_CANDIDATA_DE,0.473889,0.473889,palabras_clave
+FRAGMENTO::20194::palabras_clave::49,INDICADOR::el proyecto fomenta el dialogo y la integracion entre medicina occidental y tradicional/ancestral.,EVIDENCIA_CANDIDATA_DE,0.467016,0.467016,palabras_clave
+FRAGMENTO::20194::objetivos::50,"INDICADOR::el proyecto promueve la conservacion, valorizacion o enriquecimiento del patrimonio cultural, ya sea material o inmaterial.",EVIDENCIA_CANDIDATA_DE,0.614326,0.614326,objetivos
+FRAGMENTO::20194::objetivos::50,"INDICADOR::el proyecto fortalece procesos de construccion, preservacion y revitalizacion de la memoria e identidad cultural en comunidades o territorios.",EVIDENCIA_CANDIDATA_DE,0.59971,0.59971,objetivos
+FRAGMENTO::20194::objetivos::50,INDICADOR::numero de menciones en medios de comunicacion y redes sociales de los hallazgos del proyecto.,EVIDENCIA_CANDIDATA_DE,0.572133,0.572133,objetivos
+FRAGMENTO::20194::metodologia::51,"INDICADOR::el proyecto incorpora enfoques interdisciplinarios o transdisciplinarios tanto en el planteamiento del problema como en los metodos, tipos de analisis y perspectivas conceptuales utilizadas.",EVIDENCIA_CANDIDATA_DE,0.640841,0.640841,metodologia
+FRAGMENTO::20194::metodologia::51,INDICADOR::el proyecto genera desarrollos tecnologicos originales con aplicacion demostrada fuera del ambito academico.,EVIDENCIA_CANDIDATA_DE,0.637248,0.637248,metodologia
+FRAGMENTO::20194::metodologia::51,INDICADOR::el proyecto desarrolla productos tecnologicos con participacion de actores no academicos o sectores aplicados.,EVIDENCIA_CANDIDATA_DE,0.622794,0.622794,metodologia
+FRAGMENTO::20194::resultados_investigacion::52,"INDICADOR::el proyecto promueve la conservacion, valorizacion o enriquecimiento del patrimonio cultural, ya sea material o inmaterial.",EVIDENCIA_CANDIDATA_DE,0.584199,0.584199,resultados_investigacion
+FRAGMENTO::20194::resultados_investigacion::52,"INDICADOR::el proyecto fortalece procesos de construccion, preservacion y revitalizacion de la memoria e identidad cultural en comunidades o territorios.",EVIDENCIA_CANDIDATA_DE,0.556583,0.556583,resultados_investigacion
+FRAGMENTO::20194::resultados_investigacion::52,INDICADOR::numero de espacios publicos promovidos por el proyecto para debatir la problematica investigativa y social mas alla del ambito academico.,EVIDENCIA_CANDIDATA_DE,0.488184,0.488184,resultados_investigacion
+PROYECTO::20176,FRAGMENTO::20176::tipo_documental::1,CONTIENE,1.0,,
+PROYECTO::20176,FRAGMENTO::20176::investigador_docente::2,CONTIENE,1.0,,
+PROYECTO::20176,FRAGMENTO::20176::nombre_producto::3,CONTIENE,1.0,,
+PROYECTO::20176,FRAGMENTO::20176::resumen::4,CONTIENE,1.0,,
+PROYECTO::20176,FRAGMENTO::20176::resumen::5,CONTIENE,1.0,,
+PROYECTO::20176,FRAGMENTO::20176::resumen::6,CONTIENE,1.0,,
+PROYECTO::20176,FRAGMENTO::20176::resumen::7,CONTIENE,1.0,,
+PROYECTO::20176,FRAGMENTO::20176::resumen::8,CONTIENE,1.0,,
+PROYECTO::20176,FRAGMENTO::20176::resumen::9,CONTIENE,1.0,,
+PROYECTO::20176,FRAGMENTO::20176::resumen::10,CONTIENE,1.0,,
+PROYECTO::20176,FRAGMENTO::20176::resumen::11,CONTIENE,1.0,,
+PROYECTO::20176,FRAGMENTO::20176::resumen::12,CONTIENE,1.0,,
+PROYECTO::20176,FRAGMENTO::20176::resumen::13,CONTIENE,1.0,,
+PROYECTO::20176,FRAGMENTO::20176::resumen::14,CONTIENE,1.0,,
+PROYECTO::20176,FRAGMENTO::20176::resumen::15,CONTIENE,1.0,,
+PROYECTO::20176,FRAGMENTO::20176::resumen::16,CONTIENE,1.0,,
+PROYECTO::20176,FRAGMENTO::20176::resumen::17,CONTIENE,1.0,,
+PROYECTO::20176,FRAGMENTO::20176::resumen::18,CONTIENE,1.0,,
+PROYECTO::20176,FRAGMENTO::20176::resumen::19,CONTIENE,1.0,,
+PROYECTO::20176,FRAGMENTO::20176::resumen::20,CONTIENE,1.0,,
+PROYECTO::20176,FRAGMENTO::20176::resumen::21,CONTIENE,1.0,,
+PROYECTO::20176,FRAGMENTO::20176::resumen::22,CONTIENE,1.0,,
+PROYECTO::20176,FRAGMENTO::20176::resumen::23,CONTIENE,1.0,,
+PROYECTO::20176,FRAGMENTO::20176::resumen::24,CONTIENE,1.0,,
+PROYECTO::20176,FRAGMENTO::20176::resumen::25,CONTIENE,1.0,,
+PROYECTO::20176,FRAGMENTO::20176::resumen::26,CONTIENE,1.0,,
+PROYECTO::20176,FRAGMENTO::20176::resumen::27,CONTIENE,1.0,,
+PROYECTO::20176,FRAGMENTO::20176::resumen::28,CONTIENE,1.0,,
+PROYECTO::20176,FRAGMENTO::20176::resumen::29,CONTIENE,1.0,,
+PROYECTO::20176,FRAGMENTO::20176::resumen::30,CONTIENE,1.0,,
+PROYECTO::20176,FRAGMENTO::20176::resumen::31,CONTIENE,1.0,,
+PROYECTO::20176,FRAGMENTO::20176::resumen::32,CONTIENE,1.0,,
+PROYECTO::20176,FRAGMENTO::20176::resumen::33,CONTIENE,1.0,,
+PROYECTO::20176,FRAGMENTO::20176::resumen::34,CONTIENE,1.0,,
+PROYECTO::20176,FRAGMENTO::20176::resumen::35,CONTIENE,1.0,,
+PROYECTO::20176,FRAGMENTO::20176::resumen::36,CONTIENE,1.0,,
+PROYECTO::20176,FRAGMENTO::20176::resumen::37,CONTIENE,1.0,,
+PROYECTO::20176,FRAGMENTO::20176::resumen::38,CONTIENE,1.0,,
+PROYECTO::20176,FRAGMENTO::20176::resumen::39,CONTIENE,1.0,,
+PROYECTO::20176,FRAGMENTO::20176::resumen::40,CONTIENE,1.0,,
+PROYECTO::20176,FRAGMENTO::20176::resumen::41,CONTIENE,1.0,,
+PROYECTO::20176,FRAGMENTO::20176::resumen::42,CONTIENE,1.0,,
+PROYECTO::20176,FRAGMENTO::20176::resumen::43,CONTIENE,1.0,,
+PROYECTO::20176,FRAGMENTO::20176::resumen::44,CONTIENE,1.0,,
+PROYECTO::20176,FRAGMENTO::20176::resumen::45,CONTIENE,1.0,,
+PROYECTO::20176,FRAGMENTO::20176::resumen::46,CONTIENE,1.0,,
+PROYECTO::20176,FRAGMENTO::20176::palabras_clave::47,CONTIENE,1.0,,
+PROYECTO::20176,FRAGMENTO::20176::objetivos::48,CONTIENE,1.0,,
+PROYECTO::20176,FRAGMENTO::20176::metodologia::49,CONTIENE,1.0,,
+PROYECTO::20176,FRAGMENTO::20176::resultados_investigacion::50,CONTIENE,1.0,,
+PROYECTO::20176,FRAGMENTO::20176::gran_area::51,CONTIENE,1.0,,
+PROYECTO::20176,FRAGMENTO::20176::area_conocimiento::52,CONTIENE,1.0,,
+PROYECTO::20176,FRAGMENTO::20176::objetivo_socioeconomico::53,CONTIENE,1.0,,
+PROYECTO::20176,"INVESTIGADOR::""janneth gonzalez santos""",TIENE_INVESTIGADOR,0.65,,
+PROYECTO::20176,PALABRA_CLAVE::astrocito,TIENE_PALABRA_CLAVE,0.7,,
+PROYECTO::20176,PALABRA_CLAVE::biologia de sistemas,TIENE_PALABRA_CLAVE,0.7,,
+PROYECTO::20176,PALABRA_CLAVE::simulaciones matematicas,TIENE_PALABRA_CLAVE,0.7,,
+PROYECTO::20176,PALABRA_CLAVE::parkinson,TIENE_PALABRA_CLAVE,0.7,,
+PROYECTO::20176,PALABRA_CLAVE::neurodegeneracion,TIENE_PALABRA_CLAVE,0.7,,
+PROYECTO::20176,GRAN_AREA::ciencias medicas y de la salud,PERTENECE_GRAN_AREA,0.35,,
+PROYECTO::20176,AREA_CONOCIMIENTO::medicina basica,PERTENECE_AREA_CONOCIMIENTO,0.35,,
+PROYECTO::20176,OBJETIVO_SOCIOECONOMICO::salud,TIENE_OBJETIVO_SOCIOECONOMICO,0.35,,
+FRAGMENTO::20176::resumen::10,INDICADOR::el proyecto genera desarrollos tecnologicos originales con aplicacion demostrada fuera del ambito academico.,EVIDENCIA_CANDIDATA_DE,0.424647,0.424647,resumen
+FRAGMENTO::20176::resumen::10,"INDICADOR::nivel en que los resultados, metodologias o saberes generados por el proyecto son difundidos en formatos comprensibles, abiertos y reutilizables, y en que dichos materiales son efectivamente consultados y aprovechados por publicos diversos.",EVIDENCIA_CANDIDATA_DE,0.420188,0.420188,resumen
+FRAGMENTO::20176::resumen::12,INDICADOR::el proyecto genera desarrollos tecnologicos originales con aplicacion demostrada fuera del ambito academico.,EVIDENCIA_CANDIDATA_DE,0.422358,0.422358,resumen
+FRAGMENTO::20176::resumen::13,INDICADOR::el proyecto contribuye a prevenir riesgos en salud publica.,EVIDENCIA_CANDIDATA_DE,0.618094,0.618094,resumen
+FRAGMENTO::20176::resumen::13,"INDICADOR::el proyecto facilita la participacion activa de los grupos de interes en procesos de formulacion, monitoreo o evaluacion de politicas publicas o iniciativas de ciencia ciudadana.",EVIDENCIA_CANDIDATA_DE,0.601952,0.601952,resumen
+FRAGMENTO::20176::resumen::13,"INDICADOR::el proyecto incorpora enfoques interdisciplinarios o transdisciplinarios tanto en el planteamiento del problema como en los metodos, tipos de analisis y perspectivas conceptuales utilizadas.",EVIDENCIA_CANDIDATA_DE,0.578483,0.578483,resumen
+FRAGMENTO::20176::resumen::16,INDICADOR::el proyecto contribuye a prevenir riesgos en salud publica.,EVIDENCIA_CANDIDATA_DE,0.475863,0.475863,resumen
+FRAGMENTO::20176::resumen::20,INDICADOR::el proyecto aplica tecnologias preexistentes de forma novedosa y contextualizada para resolver problemas locales.,EVIDENCIA_CANDIDATA_DE,0.426562,0.426562,resumen
+FRAGMENTO::20176::resumen::41,INDICADOR::el proyecto contribuye a prevenir riesgos en salud publica.,EVIDENCIA_CANDIDATA_DE,0.618094,0.618094,resumen
+FRAGMENTO::20176::resumen::41,"INDICADOR::el proyecto facilita la participacion activa de los grupos de interes en procesos de formulacion, monitoreo o evaluacion de politicas publicas o iniciativas de ciencia ciudadana.",EVIDENCIA_CANDIDATA_DE,0.601952,0.601952,resumen
+FRAGMENTO::20176::resumen::41,"INDICADOR::el proyecto incorpora enfoques interdisciplinarios o transdisciplinarios tanto en el planteamiento del problema como en los metodos, tipos de analisis y perspectivas conceptuales utilizadas.",EVIDENCIA_CANDIDATA_DE,0.578483,0.578483,resumen
+FRAGMENTO::20176::resumen::42,INDICADOR::el proyecto contribuye a prevenir riesgos en salud publica.,EVIDENCIA_CANDIDATA_DE,0.453125,0.453125,resumen
+FRAGMENTO::20176::resumen::42,INDICADOR::numero de menciones en medios de comunicacion y redes sociales de los hallazgos del proyecto.,EVIDENCIA_CANDIDATA_DE,0.428371,0.428371,resumen
+FRAGMENTO::20176::resumen::42,INDICADOR::numero de beneficiarios directos e indirectos.,EVIDENCIA_CANDIDATA_DE,0.42006,0.42006,resumen
+PROYECTO::21182,FRAGMENTO::21182::tipo_documental::1,CONTIENE,1.0,,
+PROYECTO::21182,FRAGMENTO::21182::investigador_docente::2,CONTIENE,1.0,,
+PROYECTO::21182,FRAGMENTO::21182::nombre_producto::3,CONTIENE,1.0,,
+PROYECTO::21182,FRAGMENTO::21182::resumen::4,CONTIENE,1.0,,
+PROYECTO::21182,FRAGMENTO::21182::resumen::5,CONTIENE,1.0,,
+PROYECTO::21182,FRAGMENTO::21182::resumen::6,CONTIENE,1.0,,
+PROYECTO::21182,FRAGMENTO::21182::resumen::7,CONTIENE,1.0,,
+PROYECTO::21182,FRAGMENTO::21182::resumen::8,CONTIENE,1.0,,
+PROYECTO::21182,FRAGMENTO::21182::resumen::9,CONTIENE,1.0,,
+PROYECTO::21182,FRAGMENTO::21182::resumen::10,CONTIENE,1.0,,
+PROYECTO::21182,FRAGMENTO::21182::resumen::11,CONTIENE,1.0,,
+PROYECTO::21182,FRAGMENTO::21182::resumen::12,CONTIENE,1.0,,
+PROYECTO::21182,FRAGMENTO::21182::resumen::13,CONTIENE,1.0,,
+PROYECTO::21182,FRAGMENTO::21182::resumen::14,CONTIENE,1.0,,
+PROYECTO::21182,FRAGMENTO::21182::resumen::15,CONTIENE,1.0,,
+PROYECTO::21182,FRAGMENTO::21182::palabras_clave::16,CONTIENE,1.0,,
+PROYECTO::21182,FRAGMENTO::21182::objetivos::17,CONTIENE,1.0,,
+PROYECTO::21182,FRAGMENTO::21182::metodologia::18,CONTIENE,1.0,,
+PROYECTO::21182,FRAGMENTO::21182::resultados_investigacion::19,CONTIENE,1.0,,
+PROYECTO::21182,FRAGMENTO::21182::gran_area::20,CONTIENE,1.0,,
+PROYECTO::21182,FRAGMENTO::21182::area_conocimiento::21,CONTIENE,1.0,,
+PROYECTO::21182,FRAGMENTO::21182::objetivo_socioeconomico::22,CONTIENE,1.0,,
+PROYECTO::21182,"INVESTIGADOR::""francisco javier quintero cortes""",TIENE_INVESTIGADOR,0.65,,
+PROYECTO::21182,PALABRA_CLAVE::apropiacion social del conocimiento,TIENE_PALABRA_CLAVE,0.7,,
+PROYECTO::21182,PALABRA_CLAVE::transicion energetica justa,TIENE_PALABRA_CLAVE,0.7,,
+PROYECTO::21182,PALABRA_CLAVE::cadena de valor del hidrogeno,TIENE_PALABRA_CLAVE,0.7,,
+PROYECTO::21182,PALABRA_CLAVE::investigacion aplicada,TIENE_PALABRA_CLAVE,0.7,,
+PROYECTO::21182,PALABRA_CLAVE::gobernanza energetica,TIENE_PALABRA_CLAVE,0.7,,
+PROYECTO::21182,GRAN_AREA::ingenieria y tecnologia,PERTENECE_GRAN_AREA,0.35,,
+PROYECTO::21182,AREA_CONOCIMIENTO::nanotecnologia,PERTENECE_AREA_CONOCIMIENTO,0.35,,
+PROYECTO::21182,OBJETIVO_SOCIOECONOMICO::energia,TIENE_OBJETIVO_SOCIOECONOMICO,0.35,,
+FRAGMENTO::21182::nombre_producto::3,"INDICADOR::el proyecto genera mejoras sostenibles en el entorno ambiental, economico y social de los grupos de interes.",EVIDENCIA_CANDIDATA_DE,0.623757,0.623757,nombre_producto
+FRAGMENTO::21182::nombre_producto::3,"INDICADOR::el proyecto desarrolla soluciones ambientales asociadas a servicios ecosistemicos, biodiversidad o sostenibilidad ambiental.",EVIDENCIA_CANDIDATA_DE,0.619765,0.619765,nombre_producto
+FRAGMENTO::21182::nombre_producto::3,INDICADOR::el proyecto contribuye a mejorar practicas productivas sostenibles en los sectores o territorios involucrados.,EVIDENCIA_CANDIDATA_DE,0.588085,0.588085,nombre_producto
+FRAGMENTO::21182::resumen::4,INDICADOR::el proyecto fortalece o consolida eslabones clave de la cadena productiva y/o de suministros estrategicos.,EVIDENCIA_CANDIDATA_DE,0.430837,0.430837,resumen
+FRAGMENTO::21182::resumen::4,INDICADOR::el proyecto contribuye a mejorar practicas productivas sostenibles en los sectores o territorios involucrados.,EVIDENCIA_CANDIDATA_DE,0.429896,0.429896,resumen
+FRAGMENTO::21182::resumen::5,INDICADOR::el proyecto promueve capacidades productivas mediante la creacion de redes colaborativas o estrategias de economia solidaria.,EVIDENCIA_CANDIDATA_DE,0.559115,0.559115,resumen
+FRAGMENTO::21182::resumen::5,INDICADOR::el proyecto fortalece o consolida eslabones clave de la cadena productiva y/o de suministros estrategicos.,EVIDENCIA_CANDIDATA_DE,0.556781,0.556781,resumen
+FRAGMENTO::21182::resumen::5,INDICADOR::el proyecto genera nuevas oportunidades laborales directas o indirectas.,EVIDENCIA_CANDIDATA_DE,0.541324,0.541324,resumen
+FRAGMENTO::21182::resumen::7,INDICADOR::el proyecto genera desarrollos tecnologicos originales con aplicacion demostrada fuera del ambito academico.,EVIDENCIA_CANDIDATA_DE,0.429129,0.429129,resumen
+FRAGMENTO::21182::resumen::8,INDICADOR::el proyecto cuenta con la participacion activa y significativa de actores externos (academicos y/o no academicos) en distintas etapas del proceso investigativo.,EVIDENCIA_CANDIDATA_DE,0.650416,0.650416,resumen
+FRAGMENTO::21182::resumen::8,"INDICADOR::las soluciones tecnologicas generadas por el proyecto son adoptadas, adaptadas o sostenidas por actores de interes externos a la academia.",EVIDENCIA_CANDIDATA_DE,0.577672,0.577672,resumen
+FRAGMENTO::21182::resumen::8,INDICADOR::el proyecto desarrolla productos tecnologicos con participacion de actores no academicos o sectores aplicados.,EVIDENCIA_CANDIDATA_DE,0.575029,0.575029,resumen
+FRAGMENTO::21182::resumen::9,INDICADOR::el proyecto contribuye a mejorar practicas productivas sostenibles en los sectores o territorios involucrados.,EVIDENCIA_CANDIDATA_DE,0.621734,0.621734,resumen
+FRAGMENTO::21182::resumen::9,"INDICADOR::el proyecto genera mejoras sostenibles en el entorno ambiental, economico y social de los grupos de interes.",EVIDENCIA_CANDIDATA_DE,0.619467,0.619467,resumen
+FRAGMENTO::21182::resumen::9,"INDICADOR::el proyecto facilita la participacion activa de los grupos de interes en procesos de formulacion, monitoreo o evaluacion de politicas publicas o iniciativas de ciencia ciudadana.",EVIDENCIA_CANDIDATA_DE,0.617342,0.617342,resumen
+FRAGMENTO::21182::resumen::10,INDICADOR::el proyecto genera desarrollos tecnologicos originales con aplicacion demostrada fuera del ambito academico.,EVIDENCIA_CANDIDATA_DE,0.577722,0.577722,resumen
+FRAGMENTO::21182::resumen::10,"INDICADOR::el proyecto facilita la participacion activa de los grupos de interes en procesos de formulacion, monitoreo o evaluacion de politicas publicas o iniciativas de ciencia ciudadana.",EVIDENCIA_CANDIDATA_DE,0.567647,0.567647,resumen
+FRAGMENTO::21182::resumen::10,INDICADOR::el proyecto desarrolla productos tecnologicos con participacion de actores no academicos o sectores aplicados.,EVIDENCIA_CANDIDATA_DE,0.559058,0.559058,resumen
+FRAGMENTO::21182::resumen::11,"INDICADOR::el proyecto contribuye a consolidar redes de colaboracion y alianzas entre comunidades, organizaciones e instituciones.",EVIDENCIA_CANDIDATA_DE,0.642782,0.642782,resumen
+FRAGMENTO::21182::resumen::11,"INDICADOR::la solucion generada por el proyecto es usada, adaptada, replicada o sostenida por la comunidad, territorio o entidad beneficiaria.",EVIDENCIA_CANDIDATA_DE,0.627885,0.627885,resumen
+FRAGMENTO::21182::resumen::11,INDICADOR::el proyecto promueve capacidades productivas mediante la creacion de redes colaborativas o estrategias de economia solidaria.,EVIDENCIA_CANDIDATA_DE,0.615845,0.615845,resumen
+FRAGMENTO::21182::resumen::12,"INDICADOR::el proyecto facilita la participacion activa de los grupos de interes en procesos de formulacion, monitoreo o evaluacion de politicas publicas o iniciativas de ciencia ciudadana.",EVIDENCIA_CANDIDATA_DE,0.649131,0.649131,resumen
+FRAGMENTO::21182::resumen::12,"INDICADOR::el proyecto contribuye a consolidar redes de colaboracion y alianzas entre comunidades, organizaciones e instituciones.",EVIDENCIA_CANDIDATA_DE,0.624336,0.624336,resumen
+FRAGMENTO::21182::resumen::12,INDICADOR::el proyecto promueve capacidades productivas mediante la creacion de redes colaborativas o estrategias de economia solidaria.,EVIDENCIA_CANDIDATA_DE,0.604837,0.604837,resumen
+FRAGMENTO::21182::resumen::13,"INDICADOR::el proyecto facilita la participacion activa de los grupos de interes en procesos de formulacion, monitoreo o evaluacion de politicas publicas o iniciativas de ciencia ciudadana.",EVIDENCIA_CANDIDATA_DE,0.61892,0.61892,resumen
+FRAGMENTO::21182::resumen::13,"INDICADOR::la solucion generada por el proyecto es usada, adaptada, replicada o sostenida por la comunidad, territorio o entidad beneficiaria.",EVIDENCIA_CANDIDATA_DE,0.594052,0.594052,resumen
+FRAGMENTO::21182::resumen::13,"INDICADOR::el proyecto contribuye a consolidar redes de colaboracion y alianzas entre comunidades, organizaciones e instituciones.",EVIDENCIA_CANDIDATA_DE,0.589232,0.589232,resumen
+FRAGMENTO::21182::resumen::14,"INDICADOR::el proyecto impulsa el crecimiento economico de los grupos de interes (medido en tir, ingresos, calidad de vida, etc.).",EVIDENCIA_CANDIDATA_DE,0.58066,0.58066,resumen
+FRAGMENTO::21182::resumen::14,"INDICADOR::el proyecto facilita la participacion activa de los grupos de interes en procesos de formulacion, monitoreo o evaluacion de politicas publicas o iniciativas de ciencia ciudadana.",EVIDENCIA_CANDIDATA_DE,0.578332,0.578332,resumen
+FRAGMENTO::21182::resumen::14,INDICADOR::el proyecto promueve capacidades productivas mediante la creacion de redes colaborativas o estrategias de economia solidaria.,EVIDENCIA_CANDIDATA_DE,0.576234,0.576234,resumen
+FRAGMENTO::21182::resumen::15,"INDICADOR::el proyecto impulsa el crecimiento economico de los grupos de interes (medido en tir, ingresos, calidad de vida, etc.).",EVIDENCIA_CANDIDATA_DE,0.61118,0.61118,resumen
+FRAGMENTO::21182::resumen::15,INDICADOR::el proyecto logra reducir costos en procesos organizativos o productivos mediante la implementacion de mejoras o innovaciones.,EVIDENCIA_CANDIDATA_DE,0.582089,0.582089,resumen
+FRAGMENTO::21182::resumen::15,INDICADOR::el proyecto fortalece o consolida eslabones clave de la cadena productiva y/o de suministros estrategicos.,EVIDENCIA_CANDIDATA_DE,0.564904,0.564904,resumen
+FRAGMENTO::21182::palabras_clave::16,INDICADOR::numero de beneficiarios directos e indirectos.,EVIDENCIA_CANDIDATA_DE,0.569219,0.569219,palabras_clave
+FRAGMENTO::21182::palabras_clave::16,"INDICADOR::el proyecto genera mejoras sostenibles en el entorno ambiental, economico y social de los grupos de interes.",EVIDENCIA_CANDIDATA_DE,0.559149,0.559149,palabras_clave
+FRAGMENTO::21182::palabras_clave::16,INDICADOR::mejora en la calidad de vida o bienestar atribuida al proyecto.,EVIDENCIA_CANDIDATA_DE,0.545187,0.545187,palabras_clave
+FRAGMENTO::21182::objetivos::17,INDICADOR::el proyecto fortalece o consolida eslabones clave de la cadena productiva y/o de suministros estrategicos.,EVIDENCIA_CANDIDATA_DE,0.472967,0.472967,objetivos
+FRAGMENTO::21182::objetivos::17,INDICADOR::el proyecto contribuye a mejorar practicas productivas sostenibles en los sectores o territorios involucrados.,EVIDENCIA_CANDIDATA_DE,0.445385,0.445385,objetivos
+FRAGMENTO::21182::objetivos::17,INDICADOR::el proyecto desarrolla productos tecnologicos con participacion de actores no academicos o sectores aplicados.,EVIDENCIA_CANDIDATA_DE,0.432082,0.432082,objetivos
+FRAGMENTO::21182::metodologia::18,INDICADOR::el proyecto contribuye a mejorar practicas productivas sostenibles en los sectores o territorios involucrados.,EVIDENCIA_CANDIDATA_DE,0.538161,0.538161,metodologia
+FRAGMENTO::21182::metodologia::18,INDICADOR::el proyecto fortalece o consolida eslabones clave de la cadena productiva y/o de suministros estrategicos.,EVIDENCIA_CANDIDATA_DE,0.528165,0.528165,metodologia
+FRAGMENTO::21182::metodologia::18,"INDICADOR::el proyecto genera mejoras sostenibles en el entorno ambiental, economico y social de los grupos de interes.",EVIDENCIA_CANDIDATA_DE,0.512401,0.512401,metodologia
+FRAGMENTO::21182::resultados_investigacion::19,"INDICADOR::nivel en que los resultados, metodologias o saberes generados por el proyecto son difundidos en formatos comprensibles, abiertos y reutilizables, y en que dichos materiales son efectivamente consultados y aprovechados por publicos diversos.",EVIDENCIA_CANDIDATA_DE,0.644631,0.644631,resultados_investigacion
+FRAGMENTO::21182::resultados_investigacion::19,"INDICADOR::numero de productos (comunicados, articulos, blogs, libros, videos, material para redes sociales, entre otros) disenados y utilizados para comunicar los resultados del proyecto a publicos diversos.",EVIDENCIA_CANDIDATA_DE,0.630042,0.630042,resultados_investigacion
+FRAGMENTO::21182::resultados_investigacion::19,INDICADOR::el proyecto desarrolla productos tecnologicos con participacion de actores no academicos o sectores aplicados.,EVIDENCIA_CANDIDATA_DE,0.614954,0.614954,resultados_investigacion
+PROYECTO::21073,FRAGMENTO::21073::tipo_documental::1,CONTIENE,1.0,,
+PROYECTO::21073,FRAGMENTO::21073::investigador_docente::2,CONTIENE,1.0,,
+PROYECTO::21073,FRAGMENTO::21073::nombre_producto::3,CONTIENE,1.0,,
+PROYECTO::21073,FRAGMENTO::21073::resumen::4,CONTIENE,1.0,,
+PROYECTO::21073,FRAGMENTO::21073::resumen::5,CONTIENE,1.0,,
+PROYECTO::21073,FRAGMENTO::21073::resumen::6,CONTIENE,1.0,,
+PROYECTO::21073,FRAGMENTO::21073::resumen::7,CONTIENE,1.0,,
+PROYECTO::21073,FRAGMENTO::21073::resumen::8,CONTIENE,1.0,,
+PROYECTO::21073,FRAGMENTO::21073::resumen::9,CONTIENE,1.0,,
+PROYECTO::21073,FRAGMENTO::21073::resumen::10,CONTIENE,1.0,,
+PROYECTO::21073,FRAGMENTO::21073::resumen::11,CONTIENE,1.0,,
+PROYECTO::21073,FRAGMENTO::21073::resumen::12,CONTIENE,1.0,,
+PROYECTO::21073,FRAGMENTO::21073::resumen::13,CONTIENE,1.0,,
+PROYECTO::21073,FRAGMENTO::21073::resumen::14,CONTIENE,1.0,,
+PROYECTO::21073,FRAGMENTO::21073::resumen::15,CONTIENE,1.0,,
+PROYECTO::21073,FRAGMENTO::21073::palabras_clave::16,CONTIENE,1.0,,
+PROYECTO::21073,FRAGMENTO::21073::objetivos::17,CONTIENE,1.0,,
+PROYECTO::21073,FRAGMENTO::21073::metodologia::18,CONTIENE,1.0,,
+PROYECTO::21073,FRAGMENTO::21073::resultados_investigacion::19,CONTIENE,1.0,,
+PROYECTO::21073,FRAGMENTO::21073::gran_area::20,CONTIENE,1.0,,
+PROYECTO::21073,FRAGMENTO::21073::area_conocimiento::21,CONTIENE,1.0,,
+PROYECTO::21073,FRAGMENTO::21073::objetivo_socioeconomico::22,CONTIENE,1.0,,
+PROYECTO::21073,"INVESTIGADOR::""aura marina pedroza rodriguez""",TIENE_INVESTIGADOR,0.65,,
+PROYECTO::21073,PALABRA_CLAVE::magnetron sputtering,TIENE_PALABRA_CLAVE,0.7,,
+PROYECTO::21073,PALABRA_CLAVE::fotocatalisis con tio2,TIENE_PALABRA_CLAVE,0.7,,
+PROYECTO::21073,PALABRA_CLAVE::aguas residuales domesticas,TIENE_PALABRA_CLAVE,0.7,,
+PROYECTO::21073,"PALABRA_CLAVE::, biochar laminado de guadua e. coli atcc 25992 inactivacion bacteriana",TIENE_PALABRA_CLAVE,0.7,,
+PROYECTO::21073,GRAN_AREA::ciencias naturales,PERTENECE_GRAN_AREA,0.35,,
+PROYECTO::21073,AREA_CONOCIMIENTO::ciencias de la tierra y medioambientales,PERTENECE_AREA_CONOCIMIENTO,0.35,,
+PROYECTO::21073,OBJETIVO_SOCIOECONOMICO::medio ambiente,TIENE_OBJETIVO_SOCIOECONOMICO,0.35,,
+FRAGMENTO::21073::nombre_producto::3,"INDICADOR::el proyecto facilita la participacion activa de los grupos de interes en procesos de formulacion, monitoreo o evaluacion de politicas publicas o iniciativas de ciencia ciudadana.",EVIDENCIA_CANDIDATA_DE,0.450418,0.450418,nombre_producto
+FRAGMENTO::21073::nombre_producto::3,INDICADOR::el proyecto desarrolla productos tecnologicos con participacion de actores no academicos o sectores aplicados.,EVIDENCIA_CANDIDATA_DE,0.440672,0.440672,nombre_producto
+FRAGMENTO::21073::nombre_producto::3,INDICADOR::el proyecto cuenta con la participacion activa y significativa de actores externos (academicos y/o no academicos) en distintas etapas del proceso investigativo.,EVIDENCIA_CANDIDATA_DE,0.423741,0.423741,nombre_producto
+FRAGMENTO::21073::resumen::4,"INDICADOR::el proyecto impulsa el crecimiento economico de los grupos de interes (medido en tir, ingresos, calidad de vida, etc.).",EVIDENCIA_CANDIDATA_DE,0.577399,0.577399,resumen
+FRAGMENTO::21073::resumen::4,INDICADOR::numero de politicas publicas o programas gubernamentales modificados o implementados con base en hallazgos del proyecto.,EVIDENCIA_CANDIDATA_DE,0.56436,0.56436,resumen
+FRAGMENTO::21073::resumen::4,INDICADOR::el proyecto contribuye a mejorar practicas productivas sostenibles en los sectores o territorios involucrados.,EVIDENCIA_CANDIDATA_DE,0.558384,0.558384,resumen
+FRAGMENTO::21073::resumen::5,INDICADOR::el proyecto desarrolla intervenciones que contribuyeron a disminuir tasas de mortalidad en poblaciones especificas.,EVIDENCIA_CANDIDATA_DE,0.48476,0.48476,resumen
+FRAGMENTO::21073::resumen::5,INDICADOR::el proyecto contribuye a prevenir riesgos en salud publica.,EVIDENCIA_CANDIDATA_DE,0.479165,0.479165,resumen
+FRAGMENTO::21073::resumen::5,"INDICADOR::el proyecto desarrolla soluciones ambientales asociadas a servicios ecosistemicos, biodiversidad o sostenibilidad ambiental.",EVIDENCIA_CANDIDATA_DE,0.452683,0.452683,resumen
+FRAGMENTO::21073::resumen::6,INDICADOR::el proyecto aplica tecnologias preexistentes de forma novedosa y contextualizada para resolver problemas locales.,EVIDENCIA_CANDIDATA_DE,0.497708,0.497708,resumen
+FRAGMENTO::21073::resumen::6,INDICADOR::el proyecto desarrolla intervenciones que contribuyeron a disminuir tasas de mortalidad en poblaciones especificas.,EVIDENCIA_CANDIDATA_DE,0.493917,0.493917,resumen
+FRAGMENTO::21073::resumen::6,INDICADOR::los resultados tecnologicos son desarrollados con potencial de comercializacion.,EVIDENCIA_CANDIDATA_DE,0.479247,0.479247,resumen
+FRAGMENTO::21073::resumen::8,INDICADOR::el proyecto contribuye a mejorar practicas productivas sostenibles en los sectores o territorios involucrados.,EVIDENCIA_CANDIDATA_DE,0.536314,0.536314,resumen
+FRAGMENTO::21073::resumen::8,INDICADOR::el proyecto fortalece o consolida eslabones clave de la cadena productiva y/o de suministros estrategicos.,EVIDENCIA_CANDIDATA_DE,0.535733,0.535733,resumen
+FRAGMENTO::21073::resumen::8,"INDICADOR::el proyecto genera mejoras sostenibles en el entorno ambiental, economico y social de los grupos de interes.",EVIDENCIA_CANDIDATA_DE,0.512846,0.512846,resumen
+FRAGMENTO::21073::resumen::10,INDICADOR::el proyecto desarrolla intervenciones que contribuyeron a disminuir tasas de mortalidad en poblaciones especificas.,EVIDENCIA_CANDIDATA_DE,0.44949,0.44949,resumen
+FRAGMENTO::21073::resumen::10,INDICADOR::los resultados tecnologicos son desarrollados con potencial de comercializacion.,EVIDENCIA_CANDIDATA_DE,0.440117,0.440117,resumen
+FRAGMENTO::21073::resumen::11,"INDICADOR::el proyecto genera mejoras sostenibles en el entorno ambiental, economico y social de los grupos de interes.",EVIDENCIA_CANDIDATA_DE,0.575136,0.575136,resumen
+FRAGMENTO::21073::resumen::11,"INDICADOR::el proyecto desarrolla soluciones ambientales asociadas a servicios ecosistemicos, biodiversidad o sostenibilidad ambiental.",EVIDENCIA_CANDIDATA_DE,0.571562,0.571562,resumen
+FRAGMENTO::21073::resumen::11,INDICADOR::el proyecto contribuye a mejorar practicas productivas sostenibles en los sectores o territorios involucrados.,EVIDENCIA_CANDIDATA_DE,0.56233,0.56233,resumen
+FRAGMENTO::21073::resumen::12,"INDICADOR::el proyecto desarrolla soluciones ambientales asociadas a servicios ecosistemicos, biodiversidad o sostenibilidad ambiental.",EVIDENCIA_CANDIDATA_DE,0.50927,0.50927,resumen
+FRAGMENTO::21073::resumen::12,INDICADOR::el proyecto desarrolla productos tecnologicos con participacion de actores no academicos o sectores aplicados.,EVIDENCIA_CANDIDATA_DE,0.508945,0.508945,resumen
+FRAGMENTO::21073::resumen::12,INDICADOR::el proyecto genera desarrollos tecnologicos originales con aplicacion demostrada fuera del ambito academico.,EVIDENCIA_CANDIDATA_DE,0.498252,0.498252,resumen
+FRAGMENTO::21073::resumen::13,INDICADOR::el proyecto contribuye a prevenir riesgos en salud publica.,EVIDENCIA_CANDIDATA_DE,0.466723,0.466723,resumen
+FRAGMENTO::21073::resumen::14,INDICADOR::el proyecto desarrolla productos tecnologicos con participacion de actores no academicos o sectores aplicados.,EVIDENCIA_CANDIDATA_DE,0.587393,0.587393,resumen
+FRAGMENTO::21073::resumen::14,INDICADOR::el proyecto genera desarrollos tecnologicos originales con aplicacion demostrada fuera del ambito academico.,EVIDENCIA_CANDIDATA_DE,0.583364,0.583364,resumen
+FRAGMENTO::21073::resumen::14,"INDICADOR::las soluciones tecnologicas generadas por el proyecto son adoptadas, adaptadas o sostenidas por actores de interes externos a la academia.",EVIDENCIA_CANDIDATA_DE,0.535984,0.535984,resumen
+FRAGMENTO::21073::resumen::15,"INDICADOR::el proyecto facilita la participacion activa de los grupos de interes en procesos de formulacion, monitoreo o evaluacion de politicas publicas o iniciativas de ciencia ciudadana.",EVIDENCIA_CANDIDATA_DE,0.638055,0.638055,resumen
+FRAGMENTO::21073::resumen::15,"INDICADOR::el proyecto desarrolla soluciones ambientales asociadas a servicios ecosistemicos, biodiversidad o sostenibilidad ambiental.",EVIDENCIA_CANDIDATA_DE,0.604079,0.604079,resumen
+FRAGMENTO::21073::resumen::15,"INDICADOR::el proyecto genera mejoras sostenibles en el entorno ambiental, economico y social de los grupos de interes.",EVIDENCIA_CANDIDATA_DE,0.601376,0.601376,resumen
+FRAGMENTO::21073::metodologia::18,INDICADOR::el proyecto contribuye a prevenir riesgos en salud publica.,EVIDENCIA_CANDIDATA_DE,0.561215,0.561215,metodologia
+FRAGMENTO::21073::metodologia::18,"INDICADOR::el proyecto genera mejoras sostenibles en el entorno ambiental, economico y social de los grupos de interes.",EVIDENCIA_CANDIDATA_DE,0.521934,0.521934,metodologia
+FRAGMENTO::21073::metodologia::18,INDICADOR::el proyecto contribuye a mejorar practicas productivas sostenibles en los sectores o territorios involucrados.,EVIDENCIA_CANDIDATA_DE,0.512574,0.512574,metodologia
+PROYECTO::PROY-DEMO-001,FRAGMENTO::PROY-DEMO-001::tipo_documental::1,CONTIENE,1.0,,
+PROYECTO::PROY-DEMO-001,FRAGMENTO::PROY-DEMO-001::investigador_docente::2,CONTIENE,1.0,,
+PROYECTO::PROY-DEMO-001,FRAGMENTO::PROY-DEMO-001::nombre_producto::3,CONTIENE,1.0,,
+PROYECTO::PROY-DEMO-001,FRAGMENTO::PROY-DEMO-001::resumen::4,CONTIENE,1.0,,
+PROYECTO::PROY-DEMO-001,FRAGMENTO::PROY-DEMO-001::palabras_clave::5,CONTIENE,1.0,,
+PROYECTO::PROY-DEMO-001,FRAGMENTO::PROY-DEMO-001::objetivos::6,CONTIENE,1.0,,
+PROYECTO::PROY-DEMO-001,FRAGMENTO::PROY-DEMO-001::metodologia::7,CONTIENE,1.0,,
+PROYECTO::PROY-DEMO-001,FRAGMENTO::PROY-DEMO-001::resultados_investigacion::8,CONTIENE,1.0,,
+PROYECTO::PROY-DEMO-001,FRAGMENTO::PROY-DEMO-001::gran_area::9,CONTIENE,1.0,,
+PROYECTO::PROY-DEMO-001,FRAGMENTO::PROY-DEMO-001::area_conocimiento::10,CONTIENE,1.0,,
+PROYECTO::PROY-DEMO-001,FRAGMENTO::PROY-DEMO-001::objetivo_socioeconomico::11,CONTIENE,1.0,,
+PROYECTO::PROY-DEMO-001,"INVESTIGADOR::investigadora demo, laura",TIENE_INVESTIGADOR,0.65,,
+PROYECTO::PROY-DEMO-001,PALABRA_CLAVE::agua,TIENE_PALABRA_CLAVE,0.7,,
+PROYECTO::PROY-DEMO-001,PALABRA_CLAVE::participacion comunitaria,TIENE_PALABRA_CLAVE,0.7,,
+PROYECTO::PROY-DEMO-001,PALABRA_CLAVE::datos abiertos,TIENE_PALABRA_CLAVE,0.7,,
+PROYECTO::PROY-DEMO-001,PALABRA_CLAVE::salud ambiental,TIENE_PALABRA_CLAVE,0.7,,
+PROYECTO::PROY-DEMO-001,GRAN_AREA::ciencias agricolas,PERTENECE_GRAN_AREA,0.35,,
+PROYECTO::PROY-DEMO-001,AREA_CONOCIMIENTO::ciencias ambientales,PERTENECE_AREA_CONOCIMIENTO,0.35,,
+PROYECTO::PROY-DEMO-001,OBJETIVO_SOCIOECONOMICO::proteccion ambiental,TIENE_OBJETIVO_SOCIOECONOMICO,0.35,,
+FRAGMENTO::PROY-DEMO-001::nombre_producto::3,"INDICADOR::el proyecto desarrolla soluciones ambientales asociadas a servicios ecosistemicos, biodiversidad o sostenibilidad ambiental.",EVIDENCIA_CANDIDATA_DE,0.446542,0.446542,nombre_producto
+FRAGMENTO::PROY-DEMO-001::resumen::4,"INDICADOR::el proyecto facilita la participacion activa de los grupos de interes en procesos de formulacion, monitoreo o evaluacion de politicas publicas o iniciativas de ciencia ciudadana.",EVIDENCIA_CANDIDATA_DE,0.480629,0.480629,resumen
+FRAGMENTO::PROY-DEMO-001::resumen::4,"INDICADOR::nivel en que los resultados, metodologias o saberes generados por el proyecto son difundidos en formatos comprensibles, abiertos y reutilizables, y en que dichos materiales son efectivamente consultados y aprovechados por publicos diversos.",EVIDENCIA_CANDIDATA_DE,0.468253,0.468253,resumen
+FRAGMENTO::PROY-DEMO-001::resumen::4,INDICADOR::el proyecto incluye procesos participativos de validacion tecnologica con usuarios reales.,EVIDENCIA_CANDIDATA_DE,0.457611,0.457611,resumen
+FRAGMENTO::PROY-DEMO-001::palabras_clave::5,"INDICADOR::el proyecto genera mejoras sostenibles en el entorno ambiental, economico y social de los grupos de interes.",EVIDENCIA_CANDIDATA_DE,0.616626,0.616626,palabras_clave
+FRAGMENTO::PROY-DEMO-001::palabras_clave::5,"INDICADOR::el proyecto desarrolla soluciones ambientales asociadas a servicios ecosistemicos, biodiversidad o sostenibilidad ambiental.",EVIDENCIA_CANDIDATA_DE,0.598456,0.598456,palabras_clave
+FRAGMENTO::PROY-DEMO-001::palabras_clave::5,INDICADOR::el proyecto contribuye a prevenir riesgos en salud publica.,EVIDENCIA_CANDIDATA_DE,0.585728,0.585728,palabras_clave
+FRAGMENTO::PROY-DEMO-001::objetivos::6,INDICADOR::el proyecto contribuye a prevenir riesgos en salud publica.,EVIDENCIA_CANDIDATA_DE,0.577661,0.577661,objetivos
+FRAGMENTO::PROY-DEMO-001::objetivos::6,"INDICADOR::el proyecto desarrolla soluciones ambientales asociadas a servicios ecosistemicos, biodiversidad o sostenibilidad ambiental.",EVIDENCIA_CANDIDATA_DE,0.508051,0.508051,objetivos
+FRAGMENTO::PROY-DEMO-001::objetivos::6,"INDICADOR::el proyecto genera mejoras sostenibles en el entorno ambiental, economico y social de los grupos de interes.",EVIDENCIA_CANDIDATA_DE,0.479426,0.479426,objetivos
+FRAGMENTO::PROY-DEMO-001::metodologia::7,INDICADOR::el proyecto cuenta con la participacion activa y significativa de actores externos (academicos y/o no academicos) en distintas etapas del proceso investigativo.,EVIDENCIA_CANDIDATA_DE,0.689904,0.689904,metodologia
+FRAGMENTO::PROY-DEMO-001::metodologia::7,"INDICADOR::nivel de participacion efectiva de actores de la comunidad, estado, sociedad o empresa en la formulacion, ejecucion y evaluacion del proyecto.",EVIDENCIA_CANDIDATA_DE,0.679339,0.679339,metodologia
+FRAGMENTO::PROY-DEMO-001::metodologia::7,"INDICADOR::numero de seminarios, talleres o capacitaciones organizadas para funcionarios publicos basadas en el proyecto.",EVIDENCIA_CANDIDATA_DE,0.639473,0.639473,metodologia
+FRAGMENTO::PROY-DEMO-001::resultados_investigacion::8,"INDICADOR::nivel en que los resultados, metodologias o saberes generados por el proyecto son difundidos en formatos comprensibles, abiertos y reutilizables, y en que dichos materiales son efectivamente consultados y aprovechados por publicos diversos.",EVIDENCIA_CANDIDATA_DE,0.55581,0.55581,resultados_investigacion
+FRAGMENTO::PROY-DEMO-001::resultados_investigacion::8,INDICADOR::el proyecto incluye procesos participativos de validacion tecnologica con usuarios reales.,EVIDENCIA_CANDIDATA_DE,0.47353,0.47353,resultados_investigacion
+FRAGMENTO::PROY-DEMO-001::resultados_investigacion::8,"INDICADOR::numero de productos (comunicados, articulos, blogs, libros, videos, material para redes sociales, entre otros) disenados y utilizados para comunicar los resultados del proyecto a publicos diversos.",EVIDENCIA_CANDIDATA_DE,0.434449,0.434449,resultados_investigacion
+PROYECTO::PROY-DEMO-002,FRAGMENTO::PROY-DEMO-002::tipo_documental::1,CONTIENE,1.0,,
+PROYECTO::PROY-DEMO-002,FRAGMENTO::PROY-DEMO-002::investigador_docente::2,CONTIENE,1.0,,
+PROYECTO::PROY-DEMO-002,FRAGMENTO::PROY-DEMO-002::nombre_producto::3,CONTIENE,1.0,,
+PROYECTO::PROY-DEMO-002,FRAGMENTO::PROY-DEMO-002::resumen::4,CONTIENE,1.0,,
+PROYECTO::PROY-DEMO-002,FRAGMENTO::PROY-DEMO-002::palabras_clave::5,CONTIENE,1.0,,
+PROYECTO::PROY-DEMO-002,FRAGMENTO::PROY-DEMO-002::objetivos::6,CONTIENE,1.0,,
+PROYECTO::PROY-DEMO-002,FRAGMENTO::PROY-DEMO-002::metodologia::7,CONTIENE,1.0,,
+PROYECTO::PROY-DEMO-002,FRAGMENTO::PROY-DEMO-002::resultados_investigacion::8,CONTIENE,1.0,,
+PROYECTO::PROY-DEMO-002,FRAGMENTO::PROY-DEMO-002::gran_area::9,CONTIENE,1.0,,
+PROYECTO::PROY-DEMO-002,FRAGMENTO::PROY-DEMO-002::area_conocimiento::10,CONTIENE,1.0,,
+PROYECTO::PROY-DEMO-002,FRAGMENTO::PROY-DEMO-002::objetivo_socioeconomico::11,CONTIENE,1.0,,
+PROYECTO::PROY-DEMO-002,"INVESTIGADOR::investigador demo, mateo",TIENE_INVESTIGADOR,0.65,,
+PROYECTO::PROY-DEMO-002,PALABRA_CLAVE::salud digital,TIENE_PALABRA_CLAVE,0.7,,
+PROYECTO::PROY-DEMO-002,PALABRA_CLAVE::jovenes,TIENE_PALABRA_CLAVE,0.7,,
+PROYECTO::PROY-DEMO-002,PALABRA_CLAVE::adherencia terapeutica,TIENE_PALABRA_CLAVE,0.7,,
+PROYECTO::PROY-DEMO-002,PALABRA_CLAVE::co-diseno,TIENE_PALABRA_CLAVE,0.7,,
+PROYECTO::PROY-DEMO-002,GRAN_AREA::ciencias medicas y de la salud,PERTENECE_GRAN_AREA,0.35,,
+PROYECTO::PROY-DEMO-002,AREA_CONOCIMIENTO::ciencias de la salud,PERTENECE_AREA_CONOCIMIENTO,0.35,,
+PROYECTO::PROY-DEMO-002,OBJETIVO_SOCIOECONOMICO::salud,TIENE_OBJETIVO_SOCIOECONOMICO,0.35,,
+FRAGMENTO::PROY-DEMO-002::nombre_producto::3,INDICADOR::el proyecto incluye procesos participativos de validacion tecnologica con usuarios reales.,EVIDENCIA_CANDIDATA_DE,0.487749,0.487749,nombre_producto
+FRAGMENTO::PROY-DEMO-002::nombre_producto::3,INDICADOR::el proyecto fortalece el bienestar fisico y mental de la poblacion.,EVIDENCIA_CANDIDATA_DE,0.466705,0.466705,nombre_producto
+FRAGMENTO::PROY-DEMO-002::nombre_producto::3,INDICADOR::el proyecto implementa acciones orientadas a mejorar la calidad de vida de personas en situacion de discapacidad.,EVIDENCIA_CANDIDATA_DE,0.457203,0.457203,nombre_producto
+FRAGMENTO::PROY-DEMO-002::resumen::4,INDICADOR::el proyecto fortalece estrategias participativas de cuidado implementadas por distintos actores sociales.,EVIDENCIA_CANDIDATA_DE,0.641293,0.641293,resumen
+FRAGMENTO::PROY-DEMO-002::resumen::4,INDICADOR::el proyecto incluye procesos participativos de validacion tecnologica con usuarios reales.,EVIDENCIA_CANDIDATA_DE,0.621892,0.621892,resumen
+FRAGMENTO::PROY-DEMO-002::resumen::4,INDICADOR::el proyecto utiliza tecnologia para maximizar el impacto positivo en comunidades o actores destinatarios.,EVIDENCIA_CANDIDATA_DE,0.61589,0.61589,resumen
+FRAGMENTO::PROY-DEMO-002::palabras_clave::5,INDICADOR::el proyecto fortalece el bienestar fisico y mental de la poblacion.,EVIDENCIA_CANDIDATA_DE,0.517527,0.517527,palabras_clave
+FRAGMENTO::PROY-DEMO-002::palabras_clave::5,INDICADOR::el proyecto fortalece estrategias participativas de cuidado implementadas por distintos actores sociales.,EVIDENCIA_CANDIDATA_DE,0.494379,0.494379,palabras_clave
+FRAGMENTO::PROY-DEMO-002::palabras_clave::5,INDICADOR::el proyecto contribuye a prevenir riesgos en salud publica.,EVIDENCIA_CANDIDATA_DE,0.489686,0.489686,palabras_clave
+FRAGMENTO::PROY-DEMO-002::objetivos::6,INDICADOR::el proyecto desarrolla productos y estrategias eficaces para comunicar el conocimiento generado a publicos no especializados.,EVIDENCIA_CANDIDATA_DE,0.551972,0.551972,objetivos
+FRAGMENTO::PROY-DEMO-002::objetivos::6,INDICADOR::el proyecto incluye procesos participativos de validacion tecnologica con usuarios reales.,EVIDENCIA_CANDIDATA_DE,0.523647,0.523647,objetivos
+FRAGMENTO::PROY-DEMO-002::objetivos::6,INDICADOR::el proyecto utiliza tecnologia para maximizar el impacto positivo en comunidades o actores destinatarios.,EVIDENCIA_CANDIDATA_DE,0.521632,0.521632,objetivos
+FRAGMENTO::PROY-DEMO-002::metodologia::7,INDICADOR::el proyecto incluye procesos participativos de validacion tecnologica con usuarios reales.,EVIDENCIA_CANDIDATA_DE,0.633332,0.633332,metodologia
+FRAGMENTO::PROY-DEMO-002::metodologia::7,"INDICADOR::el proyecto incorpora enfoques interdisciplinarios o transdisciplinarios tanto en el planteamiento del problema como en los metodos, tipos de analisis y perspectivas conceptuales utilizadas.",EVIDENCIA_CANDIDATA_DE,0.520235,0.520235,metodologia
+FRAGMENTO::PROY-DEMO-002::metodologia::7,"INDICADOR::nivel en que los resultados, metodologias o saberes generados por el proyecto son difundidos en formatos comprensibles, abiertos y reutilizables, y en que dichos materiales son efectivamente consultados y aprovechados por publicos diversos.",EVIDENCIA_CANDIDATA_DE,0.490756,0.490756,metodologia
+FRAGMENTO::PROY-DEMO-002::resultados_investigacion::8,INDICADOR::el proyecto fortalece estrategias participativas de cuidado implementadas por distintos actores sociales.,EVIDENCIA_CANDIDATA_DE,0.574681,0.574681,resultados_investigacion
+FRAGMENTO::PROY-DEMO-002::resultados_investigacion::8,INDICADOR::el proyecto contribuye a prevenir riesgos en salud publica.,EVIDENCIA_CANDIDATA_DE,0.518963,0.518963,resultados_investigacion
+FRAGMENTO::PROY-DEMO-002::resultados_investigacion::8,"INDICADOR::el proyecto incorpora enfoques interdisciplinarios o transdisciplinarios tanto en el planteamiento del problema como en los metodos, tipos de analisis y perspectivas conceptuales utilizadas.",EVIDENCIA_CANDIDATA_DE,0.518705,0.518705,resultados_investigacion
+PROYECTO::PROY-DEMO-003,FRAGMENTO::PROY-DEMO-003::tipo_documental::1,CONTIENE,1.0,,
+PROYECTO::PROY-DEMO-003,FRAGMENTO::PROY-DEMO-003::investigador_docente::2,CONTIENE,1.0,,
+PROYECTO::PROY-DEMO-003,FRAGMENTO::PROY-DEMO-003::nombre_producto::3,CONTIENE,1.0,,
+PROYECTO::PROY-DEMO-003,FRAGMENTO::PROY-DEMO-003::resumen::4,CONTIENE,1.0,,
+PROYECTO::PROY-DEMO-003,FRAGMENTO::PROY-DEMO-003::palabras_clave::5,CONTIENE,1.0,,
+PROYECTO::PROY-DEMO-003,FRAGMENTO::PROY-DEMO-003::objetivos::6,CONTIENE,1.0,,
+PROYECTO::PROY-DEMO-003,FRAGMENTO::PROY-DEMO-003::metodologia::7,CONTIENE,1.0,,
+PROYECTO::PROY-DEMO-003,FRAGMENTO::PROY-DEMO-003::resultados_investigacion::8,CONTIENE,1.0,,
+PROYECTO::PROY-DEMO-003,FRAGMENTO::PROY-DEMO-003::gran_area::9,CONTIENE,1.0,,
+PROYECTO::PROY-DEMO-003,FRAGMENTO::PROY-DEMO-003::area_conocimiento::10,CONTIENE,1.0,,
+PROYECTO::PROY-DEMO-003,FRAGMENTO::PROY-DEMO-003::objetivo_socioeconomico::11,CONTIENE,1.0,,
+PROYECTO::PROY-DEMO-003,"INVESTIGADOR::investigadora demo, camila",TIENE_INVESTIGADOR,0.65,,
+PROYECTO::PROY-DEMO-003,PALABRA_CLAVE::economia circular,TIENE_PALABRA_CLAVE,0.7,,
+PROYECTO::PROY-DEMO-003,PALABRA_CLAVE::residuos,TIENE_PALABRA_CLAVE,0.7,,
+PROYECTO::PROY-DEMO-003,PALABRA_CLAVE::emprendimiento,TIENE_PALABRA_CLAVE,0.7,,
+PROYECTO::PROY-DEMO-003,PALABRA_CLAVE::transferencia tecnologica,TIENE_PALABRA_CLAVE,0.7,,
+PROYECTO::PROY-DEMO-003,GRAN_AREA::ingenieria y tecnologia,PERTENECE_GRAN_AREA,0.35,,
+PROYECTO::PROY-DEMO-003,AREA_CONOCIMIENTO::ingenieria ambiental,PERTENECE_AREA_CONOCIMIENTO,0.35,,
+PROYECTO::PROY-DEMO-003,OBJETIVO_SOCIOECONOMICO::desarrollo economico,TIENE_OBJETIVO_SOCIOECONOMICO,0.35,,
+FRAGMENTO::PROY-DEMO-003::nombre_producto::3,INDICADOR::el proyecto contribuye a mejorar practicas productivas sostenibles en los sectores o territorios involucrados.,EVIDENCIA_CANDIDATA_DE,0.420736,0.420736,nombre_producto
+FRAGMENTO::PROY-DEMO-003::resumen::4,INDICADOR::el proyecto desarrolla productos tecnologicos con participacion de actores no academicos o sectores aplicados.,EVIDENCIA_CANDIDATA_DE,0.473453,0.473453,resumen
+FRAGMENTO::PROY-DEMO-003::resumen::4,"INDICADOR::el proyecto genera ingresos adicionales mediante la implementacion, validacion o comercializacion de procesos, metodologias o productos nuevos o mejorados.",EVIDENCIA_CANDIDATA_DE,0.472717,0.472717,resumen
+FRAGMENTO::PROY-DEMO-003::resumen::4,INDICADOR::el proyecto genera desarrollos tecnologicos originales con aplicacion demostrada fuera del ambito academico.,EVIDENCIA_CANDIDATA_DE,0.463802,0.463802,resumen
+FRAGMENTO::PROY-DEMO-003::palabras_clave::5,INDICADOR::el proyecto fortalece o consolida eslabones clave de la cadena productiva y/o de suministros estrategicos.,EVIDENCIA_CANDIDATA_DE,0.504086,0.504086,palabras_clave
+FRAGMENTO::PROY-DEMO-003::palabras_clave::5,INDICADOR::los resultados tecnologicos son desarrollados con potencial de comercializacion.,EVIDENCIA_CANDIDATA_DE,0.483282,0.483282,palabras_clave
+FRAGMENTO::PROY-DEMO-003::palabras_clave::5,INDICADOR::el proyecto promueve capacidades productivas mediante la creacion de redes colaborativas o estrategias de economia solidaria.,EVIDENCIA_CANDIDATA_DE,0.476272,0.476272,palabras_clave
+FRAGMENTO::PROY-DEMO-003::objetivos::6,"INDICADOR::la solucion generada por el proyecto es usada, adaptada, replicada o sostenida por la comunidad, territorio o entidad beneficiaria.",EVIDENCIA_CANDIDATA_DE,0.492987,0.492987,objetivos
+FRAGMENTO::PROY-DEMO-003::objetivos::6,INDICADOR::el proyecto contribuye a mejorar practicas productivas sostenibles en los sectores o territorios involucrados.,EVIDENCIA_CANDIDATA_DE,0.487944,0.487944,objetivos
+FRAGMENTO::PROY-DEMO-003::objetivos::6,INDICADOR::el proyecto promueve capacidades productivas mediante la creacion de redes colaborativas o estrategias de economia solidaria.,EVIDENCIA_CANDIDATA_DE,0.468796,0.468796,objetivos
+FRAGMENTO::PROY-DEMO-003::metodologia::7,INDICADOR::el proyecto incluye procesos participativos de validacion tecnologica con usuarios reales.,EVIDENCIA_CANDIDATA_DE,0.614998,0.614998,metodologia
+FRAGMENTO::PROY-DEMO-003::metodologia::7,"INDICADOR::nivel en que los resultados, metodologias o saberes generados por el proyecto son difundidos en formatos comprensibles, abiertos y reutilizables, y en que dichos materiales son efectivamente consultados y aprovechados por publicos diversos.",EVIDENCIA_CANDIDATA_DE,0.521106,0.521106,metodologia
+FRAGMENTO::PROY-DEMO-003::metodologia::7,"INDICADOR::el proyecto incorpora enfoques interdisciplinarios o transdisciplinarios tanto en el planteamiento del problema como en los metodos, tipos de analisis y perspectivas conceptuales utilizadas.",EVIDENCIA_CANDIDATA_DE,0.488726,0.488726,metodologia
+FRAGMENTO::PROY-DEMO-003::resultados_investigacion::8,"INDICADOR::numero de manuales, herramientas o metodologias derivadas del proyecto y adoptadas por entidades estatales.",EVIDENCIA_CANDIDATA_DE,0.474829,0.474829,resultados_investigacion
+FRAGMENTO::PROY-DEMO-003::resultados_investigacion::8,INDICADOR::el proyecto aplica tecnologias preexistentes de forma novedosa y contextualizada para resolver problemas locales.,EVIDENCIA_CANDIDATA_DE,0.444747,0.444747,resultados_investigacion
+FRAGMENTO::PROY-DEMO-003::resultados_investigacion::8,INDICADOR::el proyecto genera desarrollos tecnologicos originales con aplicacion demostrada fuera del ambito academico.,EVIDENCIA_CANDIDATA_DE,0.421608,0.421608,resultados_investigacion
+PROYECTO::PROY-DEMO-004,FRAGMENTO::PROY-DEMO-004::tipo_documental::1,CONTIENE,1.0,,
+PROYECTO::PROY-DEMO-004,FRAGMENTO::PROY-DEMO-004::investigador_docente::2,CONTIENE,1.0,,
+PROYECTO::PROY-DEMO-004,FRAGMENTO::PROY-DEMO-004::nombre_producto::3,CONTIENE,1.0,,
+PROYECTO::PROY-DEMO-004,FRAGMENTO::PROY-DEMO-004::resumen::4,CONTIENE,1.0,,
+PROYECTO::PROY-DEMO-004,FRAGMENTO::PROY-DEMO-004::palabras_clave::5,CONTIENE,1.0,,
+PROYECTO::PROY-DEMO-004,FRAGMENTO::PROY-DEMO-004::objetivos::6,CONTIENE,1.0,,
+PROYECTO::PROY-DEMO-004,FRAGMENTO::PROY-DEMO-004::metodologia::7,CONTIENE,1.0,,
+PROYECTO::PROY-DEMO-004,FRAGMENTO::PROY-DEMO-004::resultados_investigacion::8,CONTIENE,1.0,,
+PROYECTO::PROY-DEMO-004,FRAGMENTO::PROY-DEMO-004::gran_area::9,CONTIENE,1.0,,
+PROYECTO::PROY-DEMO-004,FRAGMENTO::PROY-DEMO-004::area_conocimiento::10,CONTIENE,1.0,,
+PROYECTO::PROY-DEMO-004,FRAGMENTO::PROY-DEMO-004::objetivo_socioeconomico::11,CONTIENE,1.0,,
+PROYECTO::PROY-DEMO-004,"INVESTIGADOR::investigador demo, julian",TIENE_INVESTIGADOR,0.65,,
+PROYECTO::PROY-DEMO-004,PALABRA_CLAVE::cultura,TIENE_PALABRA_CLAVE,0.7,,
+PROYECTO::PROY-DEMO-004,PALABRA_CLAVE::memoria,TIENE_PALABRA_CLAVE,0.7,,
+PROYECTO::PROY-DEMO-004,PALABRA_CLAVE::apropiacion social,TIENE_PALABRA_CLAVE,0.7,,
+PROYECTO::PROY-DEMO-004,PALABRA_CLAVE::divulgacion,TIENE_PALABRA_CLAVE,0.7,,
+PROYECTO::PROY-DEMO-004,GRAN_AREA::humanidades,PERTENECE_GRAN_AREA,0.35,,
+PROYECTO::PROY-DEMO-004,AREA_CONOCIMIENTO::arte,PERTENECE_AREA_CONOCIMIENTO,0.35,,
+PROYECTO::PROY-DEMO-004,OBJETIVO_SOCIOECONOMICO::cultura,TIENE_OBJETIVO_SOCIOECONOMICO,0.35,,
+FRAGMENTO::PROY-DEMO-004::nombre_producto::3,"INDICADOR::el proyecto fortalece procesos de construccion, preservacion y revitalizacion de la memoria e identidad cultural en comunidades o territorios.",EVIDENCIA_CANDIDATA_DE,0.76432,0.76432,nombre_producto
+FRAGMENTO::PROY-DEMO-004::nombre_producto::3,"INDICADOR::el proyecto promueve la conservacion, valorizacion o enriquecimiento del patrimonio cultural, ya sea material o inmaterial.",EVIDENCIA_CANDIDATA_DE,0.609484,0.609484,nombre_producto
+FRAGMENTO::PROY-DEMO-004::resumen::4,"INDICADOR::el proyecto fortalece procesos de construccion, preservacion y revitalizacion de la memoria e identidad cultural en comunidades o territorios.",EVIDENCIA_CANDIDATA_DE,0.681976,0.681976,resumen
+FRAGMENTO::PROY-DEMO-004::resumen::4,"INDICADOR::numero de productos (comunicados, articulos, blogs, libros, videos, material para redes sociales, entre otros) disenados y utilizados para comunicar los resultados del proyecto a publicos diversos.",EVIDENCIA_CANDIDATA_DE,0.56373,0.56373,resumen
+FRAGMENTO::PROY-DEMO-004::resumen::4,INDICADOR::el proyecto desarrolla productos y estrategias eficaces para comunicar el conocimiento generado a publicos no especializados.,EVIDENCIA_CANDIDATA_DE,0.539665,0.539665,resumen
+FRAGMENTO::PROY-DEMO-004::palabras_clave::5,"INDICADOR::el proyecto fortalece procesos de construccion, preservacion y revitalizacion de la memoria e identidad cultural en comunidades o territorios.",EVIDENCIA_CANDIDATA_DE,0.687483,0.687483,palabras_clave
+FRAGMENTO::PROY-DEMO-004::palabras_clave::5,INDICADOR::el proyecto establece mecanismos para el dialogo de saberes entre actores academicos y otros actores sociales.,EVIDENCIA_CANDIDATA_DE,0.57336,0.57336,palabras_clave
+FRAGMENTO::PROY-DEMO-004::palabras_clave::5,INDICADOR::el proyecto desarrolla productos y estrategias eficaces para comunicar el conocimiento generado a publicos no especializados.,EVIDENCIA_CANDIDATA_DE,0.547412,0.547412,palabras_clave
+FRAGMENTO::PROY-DEMO-004::objetivos::6,"INDICADOR::el proyecto fortalece procesos de construccion, preservacion y revitalizacion de la memoria e identidad cultural en comunidades o territorios.",EVIDENCIA_CANDIDATA_DE,0.656513,0.656513,objetivos
+FRAGMENTO::PROY-DEMO-004::objetivos::6,"INDICADOR::el proyecto promueve la conservacion, valorizacion o enriquecimiento del patrimonio cultural, ya sea material o inmaterial.",EVIDENCIA_CANDIDATA_DE,0.5669,0.5669,objetivos
+FRAGMENTO::PROY-DEMO-004::objetivos::6,"INDICADOR::nivel de participacion efectiva de actores de la comunidad, estado, sociedad o empresa en la formulacion, ejecucion y evaluacion del proyecto.",EVIDENCIA_CANDIDATA_DE,0.550253,0.550253,objetivos
+FRAGMENTO::PROY-DEMO-004::metodologia::7,"INDICADOR::numero de productos (comunicados, articulos, blogs, libros, videos, material para redes sociales, entre otros) disenados y utilizados para comunicar los resultados del proyecto a publicos diversos.",EVIDENCIA_CANDIDATA_DE,0.626309,0.626309,metodologia
+FRAGMENTO::PROY-DEMO-004::metodologia::7,"INDICADOR::nivel en que los resultados, metodologias o saberes generados por el proyecto son difundidos en formatos comprensibles, abiertos y reutilizables, y en que dichos materiales son efectivamente consultados y aprovechados por publicos diversos.",EVIDENCIA_CANDIDATA_DE,0.606703,0.606703,metodologia
+FRAGMENTO::PROY-DEMO-004::metodologia::7,INDICADOR::el proyecto desarrolla productos y estrategias eficaces para comunicar el conocimiento generado a publicos no especializados.,EVIDENCIA_CANDIDATA_DE,0.596999,0.596999,metodologia
+FRAGMENTO::PROY-DEMO-004::resultados_investigacion::8,"INDICADOR::nivel en que los resultados, metodologias o saberes generados por el proyecto son difundidos en formatos comprensibles, abiertos y reutilizables, y en que dichos materiales son efectivamente consultados y aprovechados por publicos diversos.",EVIDENCIA_CANDIDATA_DE,0.546721,0.546721,resultados_investigacion
+FRAGMENTO::PROY-DEMO-004::resultados_investigacion::8,INDICADOR::el proyecto genera desarrollos tecnologicos originales con aplicacion demostrada fuera del ambito academico.,EVIDENCIA_CANDIDATA_DE,0.480613,0.480613,resultados_investigacion
+FRAGMENTO::PROY-DEMO-004::resultados_investigacion::8,"INDICADOR::numero de seminarios, talleres o capacitaciones organizadas para funcionarios publicos basadas en el proyecto.",EVIDENCIA_CANDIDATA_DE,0.46555,0.46555,resultados_investigacion
+PROYECTO::PROY-DEMO-005,FRAGMENTO::PROY-DEMO-005::tipo_documental::1,CONTIENE,1.0,,
+PROYECTO::PROY-DEMO-005,FRAGMENTO::PROY-DEMO-005::investigador_docente::2,CONTIENE,1.0,,
+PROYECTO::PROY-DEMO-005,FRAGMENTO::PROY-DEMO-005::nombre_producto::3,CONTIENE,1.0,,
+PROYECTO::PROY-DEMO-005,FRAGMENTO::PROY-DEMO-005::resumen::4,CONTIENE,1.0,,
+PROYECTO::PROY-DEMO-005,FRAGMENTO::PROY-DEMO-005::palabras_clave::5,CONTIENE,1.0,,
+PROYECTO::PROY-DEMO-005,FRAGMENTO::PROY-DEMO-005::objetivos::6,CONTIENE,1.0,,
+PROYECTO::PROY-DEMO-005,FRAGMENTO::PROY-DEMO-005::metodologia::7,CONTIENE,1.0,,
+PROYECTO::PROY-DEMO-005,FRAGMENTO::PROY-DEMO-005::resultados_investigacion::8,CONTIENE,1.0,,
+PROYECTO::PROY-DEMO-005,FRAGMENTO::PROY-DEMO-005::gran_area::9,CONTIENE,1.0,,
+PROYECTO::PROY-DEMO-005,FRAGMENTO::PROY-DEMO-005::area_conocimiento::10,CONTIENE,1.0,,
+PROYECTO::PROY-DEMO-005,FRAGMENTO::PROY-DEMO-005::objetivo_socioeconomico::11,CONTIENE,1.0,,
+PROYECTO::PROY-DEMO-005,"INVESTIGADOR::investigadora demo, sara",TIENE_INVESTIGADOR,0.65,,
+PROYECTO::PROY-DEMO-005,PALABRA_CLAVE::movilidad sostenible,TIENE_PALABRA_CLAVE,0.7,,
+PROYECTO::PROY-DEMO-005,PALABRA_CLAVE::politica publica,TIENE_PALABRA_CLAVE,0.7,,
+PROYECTO::PROY-DEMO-005,PALABRA_CLAVE::calidad del aire,TIENE_PALABRA_CLAVE,0.7,,
+PROYECTO::PROY-DEMO-005,PALABRA_CLAVE::colaboracion,TIENE_PALABRA_CLAVE,0.7,,
+PROYECTO::PROY-DEMO-005,GRAN_AREA::ciencias sociales,PERTENECE_GRAN_AREA,0.35,,
+PROYECTO::PROY-DEMO-005,AREA_CONOCIMIENTO::politica publica,PERTENECE_AREA_CONOCIMIENTO,0.35,,
+PROYECTO::PROY-DEMO-005,OBJETIVO_SOCIOECONOMICO::transporte y medio ambiente,TIENE_OBJETIVO_SOCIOECONOMICO,0.35,,
+FRAGMENTO::PROY-DEMO-005::nombre_producto::3,"INDICADOR::el proyecto genera mejoras sostenibles en el entorno ambiental, economico y social de los grupos de interes.",EVIDENCIA_CANDIDATA_DE,0.602272,0.602272,nombre_producto
+FRAGMENTO::PROY-DEMO-005::nombre_producto::3,INDICADOR::el proyecto contribuye a mejorar practicas productivas sostenibles en los sectores o territorios involucrados.,EVIDENCIA_CANDIDATA_DE,0.533555,0.533555,nombre_producto
+FRAGMENTO::PROY-DEMO-005::nombre_producto::3,"INDICADOR::el proyecto desarrolla soluciones ambientales asociadas a servicios ecosistemicos, biodiversidad o sostenibilidad ambiental.",EVIDENCIA_CANDIDATA_DE,0.51351,0.51351,nombre_producto
+FRAGMENTO::PROY-DEMO-005::resumen::4,"INDICADOR::el proyecto facilita la participacion activa de los grupos de interes en procesos de formulacion, monitoreo o evaluacion de politicas publicas o iniciativas de ciencia ciudadana.",EVIDENCIA_CANDIDATA_DE,0.480654,0.480654,resumen
+FRAGMENTO::PROY-DEMO-005::resumen::4,"INDICADOR::el proyecto incorpora enfoques interdisciplinarios o transdisciplinarios tanto en el planteamiento del problema como en los metodos, tipos de analisis y perspectivas conceptuales utilizadas.",EVIDENCIA_CANDIDATA_DE,0.479878,0.479878,resumen
+FRAGMENTO::PROY-DEMO-005::resumen::4,INDICADOR::el proyecto incluye procesos participativos de validacion tecnologica con usuarios reales.,EVIDENCIA_CANDIDATA_DE,0.475035,0.475035,resumen
+FRAGMENTO::PROY-DEMO-005::palabras_clave::5,"INDICADOR::el proyecto genera mejoras sostenibles en el entorno ambiental, economico y social de los grupos de interes.",EVIDENCIA_CANDIDATA_DE,0.58506,0.58506,palabras_clave
+FRAGMENTO::PROY-DEMO-005::palabras_clave::5,INDICADOR::el proyecto contribuye a mejorar practicas productivas sostenibles en los sectores o territorios involucrados.,EVIDENCIA_CANDIDATA_DE,0.5553,0.5553,palabras_clave
+FRAGMENTO::PROY-DEMO-005::palabras_clave::5,INDICADOR::el proyecto promueve capacidades productivas mediante la creacion de redes colaborativas o estrategias de economia solidaria.,EVIDENCIA_CANDIDATA_DE,0.538604,0.538604,palabras_clave
+FRAGMENTO::PROY-DEMO-005::objetivos::6,INDICADOR::numero de espacios publicos promovidos por el proyecto para debatir la problematica investigativa y social mas alla del ambito academico.,EVIDENCIA_CANDIDATA_DE,0.428076,0.428076,objetivos
+FRAGMENTO::PROY-DEMO-005::objetivos::6,INDICADOR::el proyecto contribuye a prevenir riesgos en salud publica.,EVIDENCIA_CANDIDATA_DE,0.425603,0.425603,objetivos
+FRAGMENTO::PROY-DEMO-005::metodologia::7,"INDICADOR::el proyecto incorpora enfoques interdisciplinarios o transdisciplinarios tanto en el planteamiento del problema como en los metodos, tipos de analisis y perspectivas conceptuales utilizadas.",EVIDENCIA_CANDIDATA_DE,0.571429,0.571429,metodologia
+FRAGMENTO::PROY-DEMO-005::metodologia::7,INDICADOR::el proyecto incluye procesos participativos de validacion tecnologica con usuarios reales.,EVIDENCIA_CANDIDATA_DE,0.566195,0.566195,metodologia
+FRAGMENTO::PROY-DEMO-005::metodologia::7,"INDICADOR::nivel en que los resultados, metodologias o saberes generados por el proyecto son difundidos en formatos comprensibles, abiertos y reutilizables, y en que dichos materiales son efectivamente consultados y aprovechados por publicos diversos.",EVIDENCIA_CANDIDATA_DE,0.541723,0.541723,metodologia
+FRAGMENTO::PROY-DEMO-005::resultados_investigacion::8,"INDICADOR::nivel en que los resultados, metodologias o saberes generados por el proyecto son difundidos en formatos comprensibles, abiertos y reutilizables, y en que dichos materiales son efectivamente consultados y aprovechados por publicos diversos.",EVIDENCIA_CANDIDATA_DE,0.640707,0.640707,resultados_investigacion
+FRAGMENTO::PROY-DEMO-005::resultados_investigacion::8,INDICADOR::numero de informes tecnicos o documentos de politica generados desde el proyecto y entregados a entidades gubernamentales.,EVIDENCIA_CANDIDATA_DE,0.632829,0.632829,resultados_investigacion
+FRAGMENTO::PROY-DEMO-005::resultados_investigacion::8,"INDICADOR::numero de productos (comunicados, articulos, blogs, libros, videos, material para redes sociales, entre otros) disenados y utilizados para comunicar los resultados del proyecto a publicos diversos.",EVIDENCIA_CANDIDATA_DE,0.621435,0.621435,resultados_investigacion

@@ -1,0 +1,47 @@
+{
+  "predicciones_generadas_antes_de_ground_truth": true,
+  "true_positives": [],
+  "false_positives": [],
+  "false_negatives": [
+    {
+      "id_proyecto": "2-s2.0-105005783887",
+      "indicador": "El proyecto incluye procesos participativos de validación tecnológica con usuarios reales."
+    },
+    {
+      "id_proyecto": "2-s2.0-105014027137",
+      "indicador": "El proyecto cuenta con la participación activa y significativa de actores externos (académicos y/o no académicos) en distintas etapas del proceso investigativo."
+    },
+    {
+      "id_proyecto": "2-s2.0-105014099823",
+      "indicador": "El proyecto fortalece el bienestar físico y mental de la población."
+    },
+    {
+      "id_proyecto": "2-s2.0-105020034198",
+      "indicador": "El proyecto incluye procesos participativos de validación tecnológica con usuarios reales."
+    },
+    {
+      "id_proyecto": "2-s2.0-85049317946",
+      "indicador": "El proyecto desarrolla soluciones ambientales asociadas a servicios ecosistémicos, biodiversidad o sostenibilidad ambiental."
+    },
+    {
+      "id_proyecto": "2-s2.0-85107701593",
+      "indicador": "El proyecto incluye procesos participativos de validación tecnológica con usuarios reales."
+    },
+    {
+      "id_proyecto": "2-s2.0-85131371279",
+      "indicador": "El proyecto fortalece el bienestar físico y mental de la población."
+    },
+    {
+      "id_proyecto": "2-s2.0-85213377303",
+      "indicador": "El proyecto cuenta con la participación activa y significativa de actores externos (académicos y/o no académicos) en distintas etapas del proceso investigativo."
+    },
+    {
+      "id_proyecto": "2-s2.0-85213954883",
+      "indicador": "El proyecto incluye procesos participativos de validación tecnológica con usuarios reales."
+    },
+    {
+      "id_proyecto": "titulo_anio:modelo de referencia para la deteccion de eventos de contaminacion industrial basado en una red de sensores [a reference model for detection of industrial pollution events based on a sensors network|2016",
+      "indicador": "El proyecto utiliza tecnología para maximizar el impacto positivo en comunidades o actores destinatarios."
+    }
+  ]
+}
