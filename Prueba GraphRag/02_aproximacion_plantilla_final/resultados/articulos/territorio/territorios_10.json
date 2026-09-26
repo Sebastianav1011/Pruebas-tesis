@@ -1,0 +1,166 @@
+{
+  "tabla_dane": "Tabla_Codigos_Dane.xlsx",
+  "fragmentos": "02_aproximacion_plantilla_final\\grafo\\articulos\\fragmentos\\fragmentos_10.json",
+  "campos_texto": [
+    "justificacion",
+    "metodologia",
+    "nombre_producto",
+    "objetivos",
+    "palabras_clave",
+    "resultados_investigacion",
+    "resumen"
+  ],
+  "campos_afiliacion": [
+    "afiliacion_coautores"
+  ],
+  "documentos": {
+    "2-s2.0-85088984023": {
+      "origen_territorio": "MENCIONADO_EN_TEXTO",
+      "territorios": [
+        {
+          "cod_departamento": "NACIONAL",
+          "nombre_departamento": "COLOMBIA (SIN DEPARTAMENTO ESPECÍFICO)",
+          "municipios": [],
+          "evidencias": [
+            {
+              "mencion": "colombia",
+              "id_fragmento": "2-s2.0-85088984023::nombre_producto::6",
+              "campo_origen": "nombre_producto"
+            },
+            {
+              "mencion": "Colombia",
+              "id_fragmento": "2-s2.0-85088984023::resumen::11",
+              "campo_origen": "resumen"
+            }
+          ]
+        }
+      ],
+      "descartados": []
+    },
+    "2-s2.0-85141889957": {
+      "origen_territorio": "MENCIONADO_EN_TEXTO",
+      "territorios": [
+        {
+          "cod_departamento": "NACIONAL",
+          "nombre_departamento": "COLOMBIA (SIN DEPARTAMENTO ESPECÍFICO)",
+          "municipios": [],
+          "evidencias": [
+            {
+              "mencion": "Colombiano",
+              "id_fragmento": "2-s2.0-85141889957::nombre_producto::6",
+              "campo_origen": "nombre_producto"
+            },
+            {
+              "mencion": "Colombia",
+              "id_fragmento": "2-s2.0-85141889957::resumen::7",
+              "campo_origen": "resumen"
+            },
+            {
+              "mencion": "Colombia",
+              "id_fragmento": "2-s2.0-85141889957::resumen::9",
+              "campo_origen": "resumen"
+            }
+          ]
+        }
+      ],
+      "descartados": []
+    },
+    "2-s2.0-85189898702": {
+      "origen_territorio": "SIN INFORMACIÓN",
+      "territorios": [],
+      "descartados": [
+        {
+          "mencion": "Jordan",
+          "id_fragmento": "2-s2.0-85189898702::afiliacion_coautores::19",
+          "campo_origen": "afiliacion_coautores",
+          "motivo": "Municipio sin contexto geográfico"
+        },
+        {
+          "mencion": "Jordan",
+          "id_fragmento": "2-s2.0-85189898702::afiliacion_coautores::19",
+          "campo_origen": "afiliacion_coautores",
+          "motivo": "Municipio sin contexto geográfico"
+        },
+        {
+          "mencion": "California",
+          "id_fragmento": "2-s2.0-85189898702::afiliacion_coautores::19",
+          "campo_origen": "afiliacion_coautores",
+          "motivo": "Nombre ambiguo o de uso común sin su departamento en el texto"
+        },
+        {
+          "mencion": "San Diego",
+          "id_fragmento": "2-s2.0-85189898702::afiliacion_coautores::19",
+          "campo_origen": "afiliacion_coautores",
+          "motivo": "Municipio sin contexto geográfico"
+        },
+        {
+          "mencion": "California",
+          "id_fragmento": "2-s2.0-85189898702::afiliacion_coautores::19",
+          "campo_origen": "afiliacion_coautores",
+          "motivo": "Nombre ambiguo o de uso común sin su departamento en el texto"
+        },
+        {
+          "mencion": "California",
+          "id_fragmento": "2-s2.0-85189898702::afiliacion_coautores::19",
+          "campo_origen": "afiliacion_coautores",
+          "motivo": "Nombre ambiguo o de uso común sin su departamento en el texto"
+        }
+      ]
+    },
+    "2-s2.0-85156248326": {
+      "origen_territorio": "SIN INFORMACIÓN",
+      "territorios": [],
+      "descartados": [
+        {
+          "mencion": "Santo Tomás",
+          "id_fragmento": "2-s2.0-85156248326::afiliacion_coautores::18",
+          "campo_origen": "afiliacion_coautores",
+          "motivo": "Municipio sin contexto geográfico"
+        }
+      ]
+    },
+    "2-s2.0-85099940331": {
+      "origen_territorio": "MENCIONADO_EN_TEXTO",
+      "territorios": [
+        {
+          "cod_departamento": "NACIONAL",
+          "nombre_departamento": "COLOMBIA (SIN DEPARTAMENTO ESPECÍFICO)",
+          "municipios": [],
+          "evidencias": [
+            {
+              "mencion": "Colombia",
+              "id_fragmento": "2-s2.0-85099940331::resumen::11",
+              "campo_origen": "resumen"
+            }
+          ]
+        }
+      ],
+      "descartados": []
+    },
+    "ART-DEMO-001": {
+      "origen_territorio": "SIN INFORMACIÓN",
+      "territorios": [],
+      "descartados": []
+    },
+    "ART-DEMO-002": {
+      "origen_territorio": "SIN INFORMACIÓN",
+      "territorios": [],
+      "descartados": []
+    },
+    "ART-DEMO-003": {
+      "origen_territorio": "SIN INFORMACIÓN",
+      "territorios": [],
+      "descartados": []
+    },
+    "ART-DEMO-004": {
+      "origen_territorio": "SIN INFORMACIÓN",
+      "territorios": [],
+      "descartados": []
+    },
+    "ART-DEMO-005": {
+      "origen_territorio": "SIN INFORMACIÓN",
+      "territorios": [],
+      "descartados": []
+    }
+  }
+}

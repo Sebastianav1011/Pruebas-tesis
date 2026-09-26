@@ -19,7 +19,7 @@ Los CSV de `MuestraFinal` contienen nombres, identificadores de investigadores y
 
 ## Flujo
 
-Fuentes externas → `preparar_muestra_final.py` → muestras canónicas de Proyectos y Artículos → dos ejecuciones del motor GraphRAG compartido → embeddings, fragmentos y grafos separados por fuente → consultas ES/EN e informes → `generar_resultado_final.py` → libro final basado en la plantilla.
+Fuentes externas → `preparar_muestra_final.py` → muestras canónicas de Proyectos y Artículos → dos ejecuciones del motor GraphRAG compartido → embeddings, fragmentos y grafos separados por fuente → consultas ES/EN e informes → `extraer_territorio.py` → `generar_resultado_final.py` → libro final basado en la plantilla.
 
 Las fuentes no se relacionan directamente entre sí; el investigador funciona como entidad común cuando la fuente lo aporta.
 
@@ -33,7 +33,17 @@ La plantilla relevante es `plantilla/plantilla_resultado_final_indicadores.xlsx`
 |---|---|---|---|
 | `scripts/preparar_muestra_final.py` | Seleccionar 5 registros reales por fuente, añadir registros demo y crear entradas canónicas | Fuentes externas indicadas en el script | `datos/MuestraFinal/` |
 | `../shared/scripts/graphrag_10.py` | Ejecutar GraphRAG independientemente para cada fuente | `10_proyectos_graphrag.csv` o `10_articulos_graphrag.csv`, catálogo compartido | Nueva ejecución aislada indicada por `--resultados` |
+| `../shared/scripts/extraer_territorio.py` | Asignar departamento y municipio DANE a cada documento desde sus fragmentos | `grafo/{proyectos,articulos}/fragmentos/fragmentos_10.json` y `../shared/datos/Tabla_Codigos_Dane.xlsx` | `resultados/{proyectos,articulos}/territorio/territorios_10.json` |
 | `scripts/generar_resultado_final.py` | Leer resultados existentes, validar relaciones independientes y llenar la plantilla | `resultados/`, `grafo/` y `plantilla/` | `resultados/final/resultado_final_indicadores.xlsx` |
+
+Orden de ejecución del territorio y el libro final:
+
+    .\.venv\Scripts\python.exe .\shared\scripts\extraer_territorio.py
+    .\.venv\Scripts\python.exe .\02_aproximacion_plantilla_final\scripts\generar_resultado_final.py
+
+## Territorio en el libro final
+
+La columna `territorio_region` de la plantilla se reemplaza por `cod_departamento`, `cod_municipio`, `origen_territorio` y `evidencia_territorio`. Se genera una fila por departamento detectado (el indicador se repite en cada una) y los municipios de un mismo departamento van en la misma celda separados por ` | `. Los valores posibles de `origen_territorio` son `MENCIONADO_EN_TEXTO`, `INFERIDO_AFILIACION` y `SIN INFORMACIÓN`; `cod_departamento = NACIONAL` significa que el texto solo nombra Colombia.
 
 ## Resultados relevantes
 

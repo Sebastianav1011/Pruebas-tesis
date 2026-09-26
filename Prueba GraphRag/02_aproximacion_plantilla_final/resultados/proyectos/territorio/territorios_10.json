@@ -1,0 +1,513 @@
+{
+  "tabla_dane": "Tabla_Codigos_Dane.xlsx",
+  "fragmentos": "02_aproximacion_plantilla_final\\grafo\\proyectos\\fragmentos\\fragmentos_10.json",
+  "campos_texto": [
+    "justificacion",
+    "metodologia",
+    "nombre_producto",
+    "objetivos",
+    "palabras_clave",
+    "resultados_investigacion",
+    "resumen"
+  ],
+  "campos_afiliacion": [
+    "afiliacion_coautores"
+  ],
+  "documentos": {
+    "21806": {
+      "origen_territorio": "MENCIONADO_EN_TEXTO",
+      "territorios": [
+        {
+          "cod_departamento": "11",
+          "nombre_departamento": "BOGOTA",
+          "municipios": [
+            {
+              "cod_municipio": "11001",
+              "nombre_municipio": "BOGOTA, D.C."
+            }
+          ],
+          "evidencias": [
+            {
+              "mencion": "Bogotá",
+              "id_fragmento": "21806::resumen::5",
+              "campo_origen": "resumen"
+            },
+            {
+              "mencion": "Bogotá",
+              "id_fragmento": "21806::resumen::7",
+              "campo_origen": "resumen"
+            },
+            {
+              "mencion": "Bogotá",
+              "id_fragmento": "21806::metodologia::12",
+              "campo_origen": "metodologia"
+            },
+            {
+              "mencion": "Bogotá",
+              "id_fragmento": "21806::resultados_investigacion::13",
+              "campo_origen": "resultados_investigacion"
+            }
+          ]
+        }
+      ],
+      "descartados": [
+        {
+          "mencion": "Convención",
+          "id_fragmento": "21806::metodologia::12",
+          "campo_origen": "metodologia",
+          "motivo": "Municipio sin contexto geográfico"
+        },
+        {
+          "mencion": "Convención",
+          "id_fragmento": "21806::metodologia::12",
+          "campo_origen": "metodologia",
+          "motivo": "Municipio sin contexto geográfico"
+        },
+        {
+          "mencion": "Convención",
+          "id_fragmento": "21806::resultados_investigacion::13",
+          "campo_origen": "resultados_investigacion",
+          "motivo": "Municipio sin contexto geográfico"
+        },
+        {
+          "mencion": "Convención",
+          "id_fragmento": "21806::resultados_investigacion::13",
+          "campo_origen": "resultados_investigacion",
+          "motivo": "Municipio sin contexto geográfico"
+        }
+      ]
+    },
+    "20194": {
+      "origen_territorio": "MENCIONADO_EN_TEXTO",
+      "territorios": [
+        {
+          "cod_departamento": "NACIONAL",
+          "nombre_departamento": "COLOMBIA (SIN DEPARTAMENTO ESPECÍFICO)",
+          "municipios": [],
+          "evidencias": [
+            {
+              "mencion": "Colombia",
+              "id_fragmento": "20194::resumen::4",
+              "campo_origen": "resumen"
+            },
+            {
+              "mencion": "Colombia",
+              "id_fragmento": "20194::resumen::9",
+              "campo_origen": "resumen"
+            },
+            {
+              "mencion": "colombiana",
+              "id_fragmento": "20194::resumen::14",
+              "campo_origen": "resumen"
+            }
+          ]
+        }
+      ],
+      "descartados": [
+        {
+          "mencion": "Victoria",
+          "id_fragmento": "20194::resumen::22",
+          "campo_origen": "resumen",
+          "motivo": "Nombre ambiguo o de uso común sin su departamento en el texto"
+        }
+      ]
+    },
+    "20176": {
+      "origen_territorio": "MENCIONADO_EN_TEXTO",
+      "territorios": [
+        {
+          "cod_departamento": "NACIONAL",
+          "nombre_departamento": "COLOMBIA (SIN DEPARTAMENTO ESPECÍFICO)",
+          "municipios": [],
+          "evidencias": [
+            {
+              "mencion": "Colombia",
+              "id_fragmento": "20176::resumen::4",
+              "campo_origen": "resumen"
+            },
+            {
+              "mencion": "Colombia",
+              "id_fragmento": "20176::resumen::13",
+              "campo_origen": "resumen"
+            },
+            {
+              "mencion": "Colombia",
+              "id_fragmento": "20176::resumen::14",
+              "campo_origen": "resumen"
+            }
+          ]
+        }
+      ],
+      "descartados": [
+        {
+          "mencion": "Toro",
+          "id_fragmento": "20176::resumen::42",
+          "campo_origen": "resumen",
+          "motivo": "Parece apellido en una cita bibliográfica"
+        },
+        {
+          "mencion": "Buritica",
+          "id_fragmento": "20176::resumen::42",
+          "campo_origen": "resumen",
+          "motivo": "Parece apellido en una cita bibliográfica"
+        },
+        {
+          "mencion": "Gonzalez",
+          "id_fragmento": "20176::resultados_investigacion::50",
+          "campo_origen": "resultados_investigacion",
+          "motivo": "Municipio sin contexto geográfico"
+        }
+      ]
+    },
+    "21182": {
+      "origen_territorio": "MENCIONADO_EN_TEXTO",
+      "territorios": [
+        {
+          "cod_departamento": "11",
+          "nombre_departamento": "BOGOTA",
+          "municipios": [
+            {
+              "cod_municipio": "11001",
+              "nombre_municipio": "BOGOTA, D.C."
+            }
+          ],
+          "evidencias": [
+            {
+              "mencion": "Bogotá",
+              "id_fragmento": "21182::resumen::8",
+              "campo_origen": "resumen"
+            },
+            {
+              "mencion": "Bogotá",
+              "id_fragmento": "21182::resumen::9",
+              "campo_origen": "resumen"
+            },
+            {
+              "mencion": "Bogotá",
+              "id_fragmento": "21182::metodologia::18",
+              "campo_origen": "metodologia"
+            }
+          ]
+        },
+        {
+          "cod_departamento": "15",
+          "nombre_departamento": "BOYACA",
+          "municipios": [],
+          "evidencias": [
+            {
+              "mencion": "Boyacá",
+              "id_fragmento": "21182::resumen::8",
+              "campo_origen": "resumen"
+            },
+            {
+              "mencion": "Boyacá",
+              "id_fragmento": "21182::resumen::9",
+              "campo_origen": "resumen"
+            },
+            {
+              "mencion": "Boyacá",
+              "id_fragmento": "21182::metodologia::18",
+              "campo_origen": "metodologia"
+            }
+          ]
+        },
+        {
+          "cod_departamento": "25",
+          "nombre_departamento": "CUNDINAMARCA",
+          "municipios": [],
+          "evidencias": [
+            {
+              "mencion": "Cundinamarca",
+              "id_fragmento": "21182::resumen::5",
+              "campo_origen": "resumen"
+            },
+            {
+              "mencion": "Cundinamarca",
+              "id_fragmento": "21182::resumen::8",
+              "campo_origen": "resumen"
+            },
+            {
+              "mencion": "Cundinamarca",
+              "id_fragmento": "21182::resumen::9",
+              "campo_origen": "resumen"
+            },
+            {
+              "mencion": "Cundinamarca",
+              "id_fragmento": "21182::resumen::10",
+              "campo_origen": "resumen"
+            },
+            {
+              "mencion": "Cundinamarca",
+              "id_fragmento": "21182::resumen::14",
+              "campo_origen": "resumen"
+            },
+            {
+              "mencion": "Cundinamarca",
+              "id_fragmento": "21182::metodologia::18",
+              "campo_origen": "metodologia"
+            },
+            {
+              "mencion": "Cundinamarca",
+              "id_fragmento": "21182::resultados_investigacion::19",
+              "campo_origen": "resultados_investigacion"
+            }
+          ]
+        },
+        {
+          "cod_departamento": "44",
+          "nombre_departamento": "LA GUAJIRA",
+          "municipios": [],
+          "evidencias": [
+            {
+              "mencion": "Guajira",
+              "id_fragmento": "21182::metodologia::18",
+              "campo_origen": "metodologia"
+            }
+          ]
+        },
+        {
+          "cod_departamento": "54",
+          "nombre_departamento": "N. DE SANTANDER",
+          "municipios": [],
+          "evidencias": [
+            {
+              "mencion": "Norte de Santander",
+              "id_fragmento": "21182::resumen::5",
+              "campo_origen": "resumen"
+            },
+            {
+              "mencion": "Norte de Santander",
+              "id_fragmento": "21182::resumen::8",
+              "campo_origen": "resumen"
+            },
+            {
+              "mencion": "Norte de Santander",
+              "id_fragmento": "21182::resumen::9",
+              "campo_origen": "resumen"
+            },
+            {
+              "mencion": "Norte de Santander",
+              "id_fragmento": "21182::resumen::10",
+              "campo_origen": "resumen"
+            },
+            {
+              "mencion": "Norte de Santander",
+              "id_fragmento": "21182::resumen::13",
+              "campo_origen": "resumen"
+            },
+            {
+              "mencion": "Norte de Santander",
+              "id_fragmento": "21182::resumen::14",
+              "campo_origen": "resumen"
+            },
+            {
+              "mencion": "Norte de Santander",
+              "id_fragmento": "21182::metodologia::18",
+              "campo_origen": "metodologia"
+            },
+            {
+              "mencion": "Norte de Santander",
+              "id_fragmento": "21182::resultados_investigacion::19",
+              "campo_origen": "resultados_investigacion"
+            }
+          ]
+        },
+        {
+          "cod_departamento": "68",
+          "nombre_departamento": "SANTANDER",
+          "municipios": [],
+          "evidencias": [
+            {
+              "mencion": "Santander",
+              "id_fragmento": "21182::resumen::7",
+              "campo_origen": "resumen"
+            },
+            {
+              "mencion": "Santander",
+              "id_fragmento": "21182::resumen::8",
+              "campo_origen": "resumen"
+            },
+            {
+              "mencion": "Santander",
+              "id_fragmento": "21182::resumen::9",
+              "campo_origen": "resumen"
+            },
+            {
+              "mencion": "Santander",
+              "id_fragmento": "21182::metodologia::18",
+              "campo_origen": "metodologia"
+            }
+          ]
+        }
+      ],
+      "descartados": [
+        {
+          "mencion": "Santander",
+          "id_fragmento": "21182::metodologia::18",
+          "campo_origen": "metodologia",
+          "motivo": "Nombre de departamento con otro significado posible y sin contexto geográfico"
+        },
+        {
+          "mencion": "Santander",
+          "id_fragmento": "21182::metodologia::18",
+          "campo_origen": "metodologia",
+          "motivo": "Nombre de departamento con otro significado posible y sin contexto geográfico"
+        }
+      ]
+    },
+    "21073": {
+      "origen_territorio": "MENCIONADO_EN_TEXTO",
+      "territorios": [
+        {
+          "cod_departamento": "99",
+          "nombre_departamento": "VICHADA",
+          "municipios": [
+            {
+              "cod_municipio": "99001",
+              "nombre_municipio": "PUERTO CARREÑO"
+            }
+          ],
+          "evidencias": [
+            {
+              "mencion": "Vichada",
+              "id_fragmento": "21073::resumen::12",
+              "campo_origen": "resumen"
+            },
+            {
+              "mencion": "Vichada",
+              "id_fragmento": "21073::resumen::13",
+              "campo_origen": "resumen"
+            },
+            {
+              "mencion": "Vichada",
+              "id_fragmento": "21073::resumen::14",
+              "campo_origen": "resumen"
+            },
+            {
+              "mencion": "Vichada",
+              "id_fragmento": "21073::resumen::15",
+              "campo_origen": "resumen"
+            },
+            {
+              "mencion": "Vichada",
+              "id_fragmento": "21073::metodologia::18",
+              "campo_origen": "metodologia"
+            },
+            {
+              "mencion": "Vichada",
+              "id_fragmento": "21073::resultados_investigacion::19",
+              "campo_origen": "resultados_investigacion"
+            },
+            {
+              "mencion": "Puerto Carreño",
+              "id_fragmento": "21073::resumen::12",
+              "campo_origen": "resumen"
+            },
+            {
+              "mencion": "Puerto Carreño",
+              "id_fragmento": "21073::resumen::15",
+              "campo_origen": "resumen"
+            },
+            {
+              "mencion": "Puerto Carreño",
+              "id_fragmento": "21073::metodologia::18",
+              "campo_origen": "metodologia"
+            },
+            {
+              "mencion": "Puerto Carreño",
+              "id_fragmento": "21073::resultados_investigacion::19",
+              "campo_origen": "resultados_investigacion"
+            }
+          ]
+        }
+      ],
+      "descartados": [
+        {
+          "mencion": "Pereira",
+          "id_fragmento": "21073::metodologia::18",
+          "campo_origen": "metodologia",
+          "motivo": "Parece apellido en una cita bibliográfica"
+        },
+        {
+          "mencion": "Valencia",
+          "id_fragmento": "21073::metodologia::18",
+          "campo_origen": "metodologia",
+          "motivo": "Parece apellido en una cita bibliográfica"
+        },
+        {
+          "mencion": "López",
+          "id_fragmento": "21073::resumen::5",
+          "campo_origen": "resumen",
+          "motivo": "Municipio sin contexto geográfico"
+        },
+        {
+          "mencion": "San Francisco",
+          "id_fragmento": "21073::resumen::15",
+          "campo_origen": "resumen",
+          "motivo": "Nombre ambiguo o de uso común sin su departamento en el texto"
+        },
+        {
+          "mencion": "López",
+          "id_fragmento": "21073::metodologia::18",
+          "campo_origen": "metodologia",
+          "motivo": "Municipio sin contexto geográfico"
+        },
+        {
+          "mencion": "Fonseca",
+          "id_fragmento": "21073::metodologia::18",
+          "campo_origen": "metodologia",
+          "motivo": "Nombre ambiguo o de uso común sin su departamento en el texto"
+        },
+        {
+          "mencion": "López",
+          "id_fragmento": "21073::metodologia::18",
+          "campo_origen": "metodologia",
+          "motivo": "Municipio sin contexto geográfico"
+        },
+        {
+          "mencion": "López",
+          "id_fragmento": "21073::metodologia::18",
+          "campo_origen": "metodologia",
+          "motivo": "Municipio sin contexto geográfico"
+        },
+        {
+          "mencion": "López",
+          "id_fragmento": "21073::metodologia::18",
+          "campo_origen": "metodologia",
+          "motivo": "Municipio sin contexto geográfico"
+        },
+        {
+          "mencion": "Villanueva",
+          "id_fragmento": "21073::metodologia::18",
+          "campo_origen": "metodologia",
+          "motivo": "Nombre ambiguo o de uso común sin su departamento en el texto"
+        }
+      ]
+    },
+    "PROY-DEMO-001": {
+      "origen_territorio": "SIN INFORMACIÓN",
+      "territorios": [],
+      "descartados": []
+    },
+    "PROY-DEMO-002": {
+      "origen_territorio": "SIN INFORMACIÓN",
+      "territorios": [],
+      "descartados": []
+    },
+    "PROY-DEMO-003": {
+      "origen_territorio": "SIN INFORMACIÓN",
+      "territorios": [],
+      "descartados": []
+    },
+    "PROY-DEMO-004": {
+      "origen_territorio": "SIN INFORMACIÓN",
+      "territorios": [],
+      "descartados": []
+    },
+    "PROY-DEMO-005": {
+      "origen_territorio": "SIN INFORMACIÓN",
+      "territorios": [],
+      "descartados": []
+    }
+  }
+}

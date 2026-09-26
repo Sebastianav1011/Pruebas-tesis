@@ -1,0 +1,4 @@
+# Entorno virtual y modelo descargado: se recrean con requirements.txt
+.venv/
+__pycache__/
+*.pyc
